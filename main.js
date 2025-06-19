@@ -2489,7 +2489,15 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/panyin",
         answer: "TH1 HRtP - Yin and Yang ~ The Positive and Negative (陰陽 ～ The Positive and Negative)"
-    }, 
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/taketb",
+        answer: "TH18.5 HBM - Take Thy Danmaku In Hand O Bulletphiles (弾幕を持て、バレットフィリア達よ)"
+    },
+    {
+        url: "https://soundcloud.com/kathia-sandoval-874714000/ddc-stage-6-the-exaggerated?in=yuli0/sets/all-touhou-ost",
+        answer: "TH14 DDC - The Exaggerated Castle Keep (針小棒大の天守閣)"
+    },
         ],
         Pn
       ).subscribe,
