@@ -6139,7 +6139,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, but for ' + artist + ' music.</p> \n\n<p class="mb-3">Each daily song is randomly chosen from ' + artist + '\'s discography. All copyright goes to Team Shanghai Alice.</p> \n\n\n\n <p class="mb-3">Have questions/ran into bugs? DM me on <a href="https://x.com/Conjyuu" title="Twitter">Twitter</a> or <a href="https://bsky.app/profile/conjyu.bsky.social" title="Bluesky!">Bluesky!</a> </p>  \n\n\n\n <p class="mb-3"> Make sure to disable uBlock or similar extensions for the music player to work!   </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, but for ' + artist + ' music.</p> \n\n<p class="mb-3">Each daily song is randomly chosen from ' + artist + '\'s discography. All copyright goes to Team Shanghai Alice.</p> \n\n\n\n <p class="mb-3">Have questions/ran into bugs? DM me on <a href="https://x.com/Conjyuu" title="Twitter">Twitter</a> or <a href="https://bsky.app/profile/conjyu.bsky.social" title="Bluesky!">Bluesky!</a> </p>  \n\n\n\n <p class="mb-3"> Make sure to disable uBlock or similar extensions for the music player to work!   </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
       m(e, t) {
@@ -11815,3 +11815,49 @@ var app = (function () {
     props: {},
   });
 })();
+
+const button = document.createElement('button');
+button.innerText = 'Import Data';
+
+button.style.position = 'fixed';
+button.style.bottom = '10px';
+button.style.left = '10px';
+button.style.zIndex = '1000';
+button.style.padding = '10px 15px';
+button.style.backgroundColor = '#28A745';
+button.style.color = 'white';
+button.style.border = 'none';
+button.style.borderRadius = '5px';
+button.style.cursor = 'pointer';
+
+document.body.appendChild(button);
+
+button.addEventListener('click', () => {
+  const input = document.createElement('input');
+  input.type = 'file';
+  input.accept = '.json';
+
+  input.addEventListener('change', () => {
+    const file = input.files[0];
+
+    if (!file) {
+      alert('No file selected.');
+      return;
+    }
+
+    const reader = new FileReader();
+
+    reader.onload = (event) => {
+      try {
+        const importedData = JSON.parse(event.target.result);
+        localStorage.setItem('userStats', JSON.stringify(importedData));
+        alert('Data imported successfully and replaced "userStats" in localStorage!');
+      } catch (error) {
+        console.error('Error parsing JSON:', error);
+        alert('Failed to import data. Ensure the file is a valid JSON.');
+      }
+    };
+    reader.readAsText(file);
+  });
+  input.click();
+});
