@@ -6981,7 +6981,7 @@ var app = (function () {
             e +
             "\n\n" +
             t +
-            "\n\n#TOUHEARDLE\n\nhttps://touhou-ost-heardle.glitch.me\n\n";
+            "\n\n#TOUHEARDLE\n\nhttps://pniked.github.io/touhou-heardle/\n\n";
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
