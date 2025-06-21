@@ -2498,6 +2498,14 @@ var app = (function () {
         url: "https://soundcloud.com/kathia-sandoval-874714000/ddc-stage-6-the-exaggerated?in=yuli0/sets/all-touhou-ost",
         answer: "TH14 DDC - The Exaggerated Castle Keep (針小棒大の天守閣)"
     },
+    {
+        url: "https://soundcloud.com/ky-mc-792457418/track-05-bell-of-avici",
+        answer: "TH12.5 DS - Bell of Avici ~ Infinite Nightmare (無間の鐘　～ Infinite Nightmare)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/an-eternity-more-transient?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - An Eternity More Transient than Scarlet (紅より儚い永遠)"
+    },
         ],
         Pn
       ).subscribe,
