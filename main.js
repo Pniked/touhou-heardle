@@ -2506,6 +2506,14 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/an-eternity-more-transient?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - An Eternity More Transient than Scarlet (紅より儚い永遠)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/mofd",
+        answer: "TH12.3 UNL - Forgathering Dream (萃夢想)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/sbs",
+        answer: "TH17 WBaWC - Silent Beast Spirits (物言わぬ獣の霊)"
+    },
         ],
         Pn
       ).subscribe,
