@@ -2514,6 +2514,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/sbs",
         answer: "TH17 WBaWC - Silent Beast Spirits (物言わぬ獣の霊)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/fosy",
+        answer: "TH9 PoFV - Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Years (六十年目の東方裁判 ～ Fate of Sixty Years)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/bastacm",
+        answer: "TH10.5 SWR - Bhava-Agra As Seen Through a Child's Mind (幼心地の有頂天)"
+    },
         ],
         Pn
       ).subscribe,
