@@ -624,6 +624,14 @@ var app = (function () {
  "TH20 FW - There is a Monster in the Woods (森にはお化けがいるよ)",
  "TH20 FW - Golden Land of Prester John (プレステ・ジョアンの黄金境)",
  "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)",
+ //Temp fix?
+ "TH20 FW - Shrine Maiden Crowned with Glory (錦の上の巫女)",
+ "TH20 FW - Beloved Dust Dwelling (愛おしき塵の住処)",
+ "TH20 FW - Even if Forgotten by the World (例え世界から忘れられても)",
+ "TH20 FW - Sacred Forest (セイクリッドフォレスト)",
+ "TH20 FW - There is a Monster in the Woods (森にはお化けがいるよ)",
+ "TH20 FW - Golden Land of Prester John (プレステ・ジョアンの黄金境)",
+ "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)",
 
       //Don't continue if you want to play the game legitimately!!!
     ]),
@@ -2521,6 +2529,14 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/bastacm",
         answer: "TH10.5 SWR - Bhava-Agra As Seen Through a Child's Mind (幼心地の有頂天)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/ffg",
+        answer: "TH13.5 HM - Futatsuiwa from Gensokyo (幻想郷の二ッ岩)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/tiamitw",
+        answer: "TH20 FW - There is a Monster in the Woods (森にはお化けがいるよ)"
     },
         ],
         Pn
