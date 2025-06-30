@@ -2530,6 +2530,22 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/tiamitw",
         answer: "TH20 FW - There is a Monster in the Woods (森にはお化けがいるよ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/goodbye",
+        answer: "TH14 DDC - Lonesome Werewolf (孤独なウェアウルフ)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/check",
+        answer: "TH16.5 VD - Old Adam Bar (バー・オールドアダム)"
+    },
+    {
+        url: "https://soundcloud.com/user-900198741/td-stage-6-starry-sky-of-small?in=yuli0/sets/all-touhou-ost",
+        answer: "TH13 TD - Starry Sky of Small Desires (小さな欲望の星空)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/mmh",
+        answer: "TH3 PoDD - Strawberry Crisis!!"
+    },
         ],
         Pn
       ).subscribe,
