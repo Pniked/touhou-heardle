@@ -2546,6 +2546,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/mmh",
         answer: "TH3 PoDD - Strawberry Crisis!!"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/buh",
+        answer: "TH18 UM - Banditry Technology (バンデットリィテクノロジー)"
+    },
         ],
         Pn
       ).subscribe,
