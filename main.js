@@ -2550,6 +2550,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/buh",
         answer: "TH18 UM - Banditry Technology (バンデットリィテクノロジー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/bob",
+        answer: "TH14.5 ULiL - Last Occultism ~ Esotericist of the Present World (ラストオカルティズム ～ 現し世の秘術師)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/youkai-domination?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Spiritual Domination (妖々跋扈)"
+    },
         ],
         Pn
       ).subscribe,
