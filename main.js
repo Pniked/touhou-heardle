@@ -4281,7 +4281,7 @@ var app = (function () {
             p(d, h),
             p(h, f),
             p(f, m),
-            p(m, v),
+            p(m, v);
             if (!/Mobi/i.test(window.navigator.userAgent)) {
           f.classList.add("with-volume");
           p(f, volumeDiv), p(volumeDiv, volumeIcon), p(volumeIcon, volumeSvg);
