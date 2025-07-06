@@ -11888,7 +11888,7 @@ const button = document.createElement('button');
 button.innerText = 'Import Data';
 
 button.style.position = 'fixed';
-button.style.bottom = '10px';
+button.style.bottom = '50px';
 button.style.left = '10px';
 button.style.zIndex = '1000';
 button.style.padding = '10px 15px';
