@@ -618,16 +618,7 @@ let _metadata = createMetadata({
  "TH20 FW - Sacred Forest (セイクリッドフォレスト)":["TH20"],
  "TH20 FW - There is a Monster in the Woods (森にはお化けがいるよ)":["TH20"],
  "TH20 FW - Golden Land of Prester John (プレステ・ジョアンの黄金境)":["TH20"],
- "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)":["TH20"],
- //Misc?
- "TH20 FW - Shrine Maiden Crowned with Glory (錦の上の巫女)":["TH20"],
- "TH20 FW - Beloved Dust Dwelling (愛おしき塵の住処)":["TH20"],
- "TH20 FW - Even if Forgotten by the World (例え世界から忘れられても)":["TH20"],
- "TH20 FW - Sacred Forest (セイクリッドフォレスト)":["TH20"],
- "TH20 FW - There is a Monster in the Woods (森にはお化けがいるよ)":["TH20"],
- "TH20 FW - Golden Land of Prester John (プレステ・ジョアンの黄金境)":["TH20"],
- "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)":["TH20"],
-    
+ "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)":["TH20"],    
     })
 function createMetadata(mtd) {
     let m = {}
