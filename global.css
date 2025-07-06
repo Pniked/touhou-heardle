@@ -54,6 +54,84 @@ button:not(:disabled):active {
 button:focus {
     border-color: #666666;
 }
+.volume-control {
+  width: 100px;
+  position: relative;
+}
+ 
+.container {
+  display: grid;
+  gap: 10px;
+  align-items: center;
+}
+ 
+.container.with-volume {
+  grid-template-columns: 3fr 4fr 7fr 7fr;
+}
+ 
+.container.without-volume {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+ 
+.item1 {
+  grid-column: 1;
+}
+ 
+.item2 {
+  grid-column: 2;
+}
+ 
+.container.with-volume .item3 {
+  grid-column: 3;
+  justify-self: center;
+}
+ 
+.container.with-volume .item4 {
+  grid-column: 4;
+  justify-self: right;
+}
+ 
+.container.without-volume .item3 {
+  grid-column: 2;
+  justify-self: center;
+}
+ 
+.container.without-volume .item4 {
+  grid-column: 3;
+  justify-self: right;
+}
+ 
+.slider {
+  position: relative;
+  height: 10px;
+  background-color: grey;
+  border-radius: 2px;
+  cursor: pointer;
+}
+ 
+.slider-fill {
+  position: absolute;
+  height: 100%;
+  background-color: white;
+  border-radius: 2px;
+}
+ 
+.slider-thumb {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  cursor: pointer;
+}
+ 
+.slider:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 1px #d3d3d3;
+}
 [id^="autoComplete_list"] {
   max-height: 500px; /* Adjust this value as needed */
   overflow-y: auto;
