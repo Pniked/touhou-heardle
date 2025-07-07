@@ -2558,6 +2558,14 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/youkai-domination?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Spiritual Domination (妖々跋扈)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track-01",
+        answer: "TH12.8 GFW - An Ice Fairy in Spring -Still- (春の氷精　- 静 -)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track02",
+        answer: "TH8 IN - Voyage 1969 (ヴォヤージュ1969)"
+    },
         ],
         Pn
       ).subscribe,
