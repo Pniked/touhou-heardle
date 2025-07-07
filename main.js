@@ -2560,7 +2560,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track-01",
-        answer: "TH12.8 GFW - An Ice Fairy in Spring -Still- (春の氷精　- 静 -)"
+        answer: "TH12.8 GFW - An Ice Fairy in Spring (春の氷精)"
     },
     {
         url: "https://soundcloud.com/user-169674116/track02",
