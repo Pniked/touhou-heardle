@@ -2566,6 +2566,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track02",
         answer: "TH8 IN - Voyage 1969 (ヴォヤージュ1969)"
     },
+    {
+        url: "https://soundcloud.com/shrine-de-gensokyo/primordial-beat-pristine-beat?in=yuli0/sets/all-touhou-ost",
+        answer: "TH14 DDC - Primordial Beat ~ Pristine Beat (始原のビート ～ Pristine Beat)"
+    },
         ],
         Pn
       ).subscribe,
