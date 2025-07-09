@@ -2570,6 +2570,10 @@ var app = (function () {
         url: "https://soundcloud.com/shrine-de-gensokyo/primordial-beat-pristine-beat?in=yuli0/sets/all-touhou-ost",
         answer: "TH14 DDC - Primordial Beat ~ Pristine Beat (始原のビート ～ Pristine Beat)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track03",
+        answer: "TH19 UDoALG - The Deviants' Unobstructed Light ~ Kingdom of Nothingness. (逸脱者達の無礙光 ～ Kingdom of Nothingness.)"
+    },
         ],
         Pn
       ).subscribe,
