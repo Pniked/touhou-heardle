@@ -2574,6 +2574,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track03",
         answer: "TH19 UDoALG - The Deviants' Unobstructed Light ~ Kingdom of Nothingness. (逸脱者達の無礙光 ～ Kingdom of Nothingness.)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/shanghai-alice-of-meiji-17?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Shanghai Alice of Meiji 17 (明治十七年の上海アリス)" 
+    },
         ],
         Pn
       ).subscribe,
