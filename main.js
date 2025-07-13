@@ -2582,6 +2582,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track04",
         answer: "TH7.5 IaMP - Night Falls ~ Evening Star (夜が降りてくる ～ Evening Star)"
     },
+    {
+        url: "https://soundcloud.com/lucany2000/flight-of-the-bamboo-cutter-lunatic-princess?in=yuli0/sets/all-touhou-ost",
+        answer: "TH8 IN - Flight of the Bamboo Cutter ~ Lunatic Princess (竹取飛翔 ～ Lunatic Princess)"
+    },
         ],
         Pn
       ).subscribe,
