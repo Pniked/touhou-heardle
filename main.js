@@ -2590,6 +2590,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH12 UFO - Fires of Hokkai (法界の火)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track06",
+        answer: "TH5 MS - Crimson Maiden ~ Crimson Dead!! (真紅の少女 ～ Crimson Dead!!)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH17.5 SFW - Magician's Melancholy (魔法使いの憂鬱)"
+    },
         ],
         Pn
       ).subscribe,
