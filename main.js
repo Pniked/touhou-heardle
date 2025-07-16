@@ -2598,6 +2598,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH17.5 SFW - Magician's Melancholy (魔法使いの憂鬱)"
     },
+    {
+        url: "https://soundcloud.com/user-25655721/mof-hina?in=yuli0/sets/all-touhou-ost",
+        answer: "TH10 MoF - Dark Side of Fate (運命のダークサイド)"
+    },
+    {
+        url: "https://soundcloud.com/lucany2000/adventure-of-the-lovestruck-tomboy?in=yuli0/sets/all-touhou-ost",
+        answer: "TH9 PoFV - Adventure of the Lovestruck Tomboy (おてんば恋娘の冒険)"
+    },
         ],
         Pn
       ).subscribe,
