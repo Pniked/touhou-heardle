@@ -457,7 +457,7 @@ var app = (function () {
  "TH15 LoLK - Faraway Voyage of 380,000 Kilometers (遥か38万キロのボヤージュ)",
  "TH15 LoLK - Pierrot of the Star-Spangled Banner (星条旗のピエロ)",
  "TH15 LoLK - The Sea that Reflects One's Home Planet (故郷の星が映える海)",
- "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ　～ 心の在処)",
+ "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ ～ 心の在処)",
  "TH15 LoLK - A World of Nightmares Never Seen Before (見た事も無い悪夢の世界)",
  "TH15 LoLK - The Moon as Seen from the Shrine (神社から見える月)",
  "TH15 LoLK - The Space Shrine Maiden Returns Home (宇宙巫女帰還する)",
@@ -940,7 +940,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-935744168/rufiqjsknmja",
-        answer: "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ　～ 心の在処)"
+        answer: "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ ～ 心の在処)"
     },
     {
         url: "https://soundcloud.com/user-712515025/fsr5816hujdg",
@@ -2605,6 +2605,18 @@ var app = (function () {
     {
         url: "https://soundcloud.com/lucany2000/adventure-of-the-lovestruck-tomboy?in=yuli0/sets/all-touhou-ost",
         answer: "TH9 PoFV - Adventure of the Lovestruck Tomboy (おてんば恋娘の冒険)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track08",
+        answer: "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ ～ 心の在処)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track12",
+        answer: "TH11 SA - The Dark Blowhole (暗闇の風穴)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track09",
+        answer: "TH14.3 ISC - Eternal Transient Reign (永遠の三日天下)"
     },
         ],
         Pn
