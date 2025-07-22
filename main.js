@@ -2618,6 +2618,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH14.3 ISC - Eternal Transient Reign (永遠の三日天下)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track0",
+        answer: "TH13 TD - Night Sakura of Dead Spirits (死霊の夜桜)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track10",
+        answer: "TH2 SoEW - Bet on Death (死を賭して)"
+    },
         ],
         Pn
       ).subscribe,
