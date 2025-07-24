@@ -2627,7 +2627,7 @@ var app = (function () {
         answer: "TH2 SoEW - Bet on Death (死を賭して)"
     },
     {
-        url: "https://soundcloud.com/kazamis-other-music-alt/dream-of-a-spring-breeze?in=yuli0/sets/all-touhou-ost",
+        url: "https://soundcloud.com/user-169674116/track22",
         answer: "TH7 PCB - Dream of a Spring Breeze (春風の夢)"
     },
     {
