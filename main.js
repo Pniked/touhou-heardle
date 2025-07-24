@@ -542,7 +542,7 @@ var app = (function () {
  "TH17 WBaWC - Everlasting Red Spider Lily (不朽の曼珠沙華)",
  "TH17 WBaWC - Seraphic Chicken (セラフィックチキン)",
  "TH17 WBaWC - Unlocated Hell (アンロケイテッドヘル)",
- "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン　～　幸運と不運)",
+ "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン ～ 幸運と不運)",
  "TH17 WBaWC - Beast Metropolis (ビーストメトロポリス)",
  "TH17 WBaWC - Joutoujin of Ceramics (セラミックスの杖刀人)",
  "TH17 WBaWC - Electric Heritage (エレクトリックヘリテージ)",
@@ -1084,7 +1084,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-123058519/uoh8hxmsvlal?in=graptore-vhs/sets/all-touhou-songs-15-19&si=a4b48a9a3d57475ab579afa16fe265d6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン　～　幸運と不運)"
+        answer: "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン ～ 幸運と不運)"
     },
     {
         url: "https://soundcloud.com/biyao183/08-rei-ikusa-perdition-crisis?in=graptore-vhs/sets/all-touhou-songs-1-19&si=45933e48defb400faae63f82b749880f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
@@ -2625,6 +2625,14 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track10",
         answer: "TH2 SoEW - Bet on Death (死を賭して)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/dream-of-a-spring-breeze?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Dream of a Spring Breeze (春風の夢)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track20",
+        answer: "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン ～ 幸運と不運)"
     },
         ],
         Pn
