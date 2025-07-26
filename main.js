@@ -2634,6 +2634,18 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track20",
         answer: "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン ～ 幸運と不運)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/the-young-descendant-of-tepes?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - The Young Descendant of Tepes (ツェペシュの幼き末裔)"
+    },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-the-magic-straw-hat-jizo?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - The Magic Straw-Hat Jizo (魔法の笠地蔵)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track11",
+        answer: "TH15.5 AoCF - The Inverted Castle Lit by the Setting Sun (落日に映える逆さ城)"
+    },
         ],
         Pn
       ).subscribe,
