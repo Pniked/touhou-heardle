@@ -2646,6 +2646,18 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track11",
         answer: "TH15.5 AoCF - The Inverted Castle Lit by the Setting Sun (落日に映える逆さ城)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track12-1",
+        answer: "TH8 IN - Retribution for the Eternal Night ~ Imperishable Night (永夜の報い ～ Imperishable Night)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track001",
+        answer: "TH9.5 StB - Wind Circulation ~ Wind Tour (風の循環　～ Wind Tour)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track19",
+        answer: "TH12 UFO - Sky Ruin (スカイルーイン)"
+    },
         ],
         Pn
       ).subscribe,
