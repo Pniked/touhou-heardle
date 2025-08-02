@@ -2666,6 +2666,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track13",
         answer: "TH11 SA - Heartfelt Fancy (ハートフェルトファンシー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH10.5 SWR - Locked Girl ~ The Girl's Sealed Room (ラクトガール ～ 少女密室)"
+    },
         ],
         Pn
       ).subscribe,
