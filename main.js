@@ -2662,6 +2662,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track-010",
         answer: "TH14 DDC - Mist Lake (ミストレイク)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track13",
+        answer: "TH11 SA - Heartfelt Fancy (ハートフェルトファンシー)"
+    },
         ],
         Pn
       ).subscribe,
