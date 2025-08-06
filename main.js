@@ -2678,6 +2678,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track16",
         answer: "TH9 PoFV - Poison Body ~ Forsaken Doll (ポイズンボディ ～ Forsaken Doll)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/lunate-elf?in=yuli0/sets/all-touhou-ost&si=eb73da22b6ea4b228cf8ae33afac22f4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: "TH6 EoSD - Lunate Elf (ルーネイトエルフ)"
+    },
         ],
         Pn
       ).subscribe,
