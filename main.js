@@ -2686,6 +2686,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track17",
         answer: "TH19 UDoALG - Tiny Shangri-La (タイニーシャングリラ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track18",
+        answer: "TH18.5 HBM - Youkai Hook On (妖怪フックオン)"
+    },
         ],
         Pn
       ).subscribe,
