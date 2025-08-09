@@ -641,7 +641,7 @@ function appendMetadata(guess, row) {
             const metaEvaluation = document.createElement("div");
       metaEvaluation.style.maxWidth = "60%"
             metaEvaluation.innerHTML = 
-             `<div>Game: <span>${heardleMeta.game == guessMeta.game ? `${guessMeta.game} is correct ❗` : `${guessMeta.game} is incorrect.`}</span></div></div>`           
+            `<div>Game: <span>${heardleMeta.game == guessMeta.game ? `${guessMeta.game} is correct ❗` : `${guessMeta.game} is incorrect.`}</span></div></div>`           
             row.appendChild(metaEvaluation);
         }
     }
