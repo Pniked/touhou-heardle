@@ -839,7 +839,8 @@ a:active {
     --color-bg: #121212;
     --color-line: #888;
     --color-shade: rgba(0, 0, 0, 0.1);
-    --color-highlight: rgba(255, 255, 255, 0.05)
+    --color-highlight: rgba(255, 255, 255, 0.05);
+    --color-yellow: #f3c551;
 }
 @media(min-width: 640px) {}
 @media(min-width: 768px) {}
