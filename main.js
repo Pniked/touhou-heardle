@@ -7037,13 +7037,14 @@ var app = (function () {
   function tn(e) {
     let t;
     function n(e, t) {
-      return e[0][e[12]].isSkipped
-        ? sn
-        : e[0][e[12]].isCorrect || e[0][e[12]].isSkipped
-        ? e[0][e[12]].isCorrect
-          ? nn
-          : void 0
-        : rn;
+      const state = e[0][e[12]];
+            return state.isSkipped ? 
+                sn :
+                state.isCorrectGame ? 
+                onCorrectGame :
+                state.isCorrect ? 
+                nn :
+                rn;
     }
     let r = n(e),
       s = r && r(e);
@@ -7105,6 +7106,20 @@ var app = (function () {
       },
     };
   }
+  function onCorrectGame(e) {
+        let t;
+        return {
+            c() {
+                (t = w("div")), M(t, "class", "w-4 h-1 m-0.5 bg-custom-yellow");
+            },
+            m(e, n) {
+                g(e, t, n);
+            },
+            d(e) {
+                e && y(t);
+            },
+        };
+    }
   function on(e) {
     let t;
     function n(e, t) {
@@ -7362,9 +7377,11 @@ var app = (function () {
               ? 1 == r[e].isCorrect
                 ? (t += "🟩")
                 : 1 == r[e].isSkipped
-                ? (t += "⬛️")
-                : (t += "🟥")
-              : (t += "⬜️");
+              ? (t += "🟥")
+              : 1 == r[e].isCorrectGame
+                ? (t += "🟨")
+                : (t += "🟧")
+                : (t += "⬜");
           let o =
             e +
             "\n\n" +
