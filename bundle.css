@@ -590,6 +590,9 @@ video {
 .bg-custom-negative {
     background-color: var(--color-negative)
 }
+.bg-custom-yellow {
+    background-color: var(--color-yellow)
+}
 .bg-custom-fg {
     background-color: var(--color-fg)
 }
