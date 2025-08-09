@@ -7110,7 +7110,7 @@ var app = (function () {
         let t;
         return {
             c() {
-                (t = w("div")), M(t, "class", "w-4 h-1 m-0.5 bg-custom-yellow");
+                (t = w("div")), M(t, "class", "w-4 h-1 m-0.5 bg-yellow");
             },
             m(e, n) {
                 g(e, t, n);
