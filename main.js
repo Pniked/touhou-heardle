@@ -121,7 +121,7 @@ var app = (function () {
  "TH6 EoSD - U.N. Owen Was Her? (U.N.オーエンは彼女なのか？)",
  "TH6 EoSD - Scarlet Chamber ~ Eastern Dream... (紅楼 ～ Eastern Dream...)",
  //Touhou 7 OST
- "TH7 PCB - Ghostly Dream ~ Snow or Cherry Petal (妖々夢　～ Snow or Cherry Petal)",
+ "TH7 PCB - Ghostly Dream ~ Snow or Cherry Petal (妖々夢 ～ Snow or Cherry Petal)",
  "TH7 PCB - Paradise ~ Deep Mountain (無何有の郷 ～ Deep Mountain)",
  "TH7 PCB - The Fantastic Legend of Tohno (遠野幻想物語)",
  "TH7 PCB - Diao Ye Zong (withered leaf) (ティアオイエツォン(withered leaf))",
@@ -2689,6 +2689,10 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track18",
         answer: "TH18.5 HBM - Youkai Hook On (妖怪フックオン)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/mystical-dream-snow-or-cherry?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Ghostly Dream ~ Snow or Cherry Petal (妖々夢 ～ Snow or Cherry Petal)"
     },
         ],
         Pn
