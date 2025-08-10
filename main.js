@@ -7380,12 +7380,12 @@ var app = (function () {
             r.length > e
               ? 1 == r[e].isCorrect
                 ? (t += "🟩")
+                : 1 == r[e].isCorrectGame
+              ? (t += "🟨")
                 : 1 == r[e].isSkipped
-              ? (t += "🟥")
-              : 1 == r[e].isCorrectGame
-                ? (t += "🟨")
-                : (t += "🟧")
-                : (t += "⬜");
+              ? (t += "⬛")
+              : (t += "🟥")
+              : (t += "⬜");
           let o =
             e +
             "\n\n" +
