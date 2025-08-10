@@ -2694,6 +2694,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/mystical-dream-snow-or-cherry?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Ghostly Dream ~ Snow or Cherry Petal (妖々夢 ～ Snow or Cherry Petal)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH13 TD - Let's Live In A Lovely Cemetery (素敵な墓場で暮しましょ)"
+    },
         ],
         Pn
       ).subscribe,
