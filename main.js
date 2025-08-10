@@ -2698,6 +2698,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track32",
         answer: "TH13 TD - Let's Live In A Lovely Cemetery (素敵な墓場で暮しましょ)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-pierrot-of-the-star-spangled-banner?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - Pierrot of the Star-Spangled Banner (星条旗のピエロ)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track21",
+        answer: "TH18 UM - The Obsolescent Industrial Remains (廃れゆく産業遺構)"
+    },
         ],
         Pn
       ).subscribe,
