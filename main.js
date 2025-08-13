@@ -2710,6 +2710,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH10 MoF - Fall of Fall ~ Autumnal Waterfall (フォールオブフォール ～ 秋めく滝)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track25",
+        answer: "TH13.5 HM - Last Word Unleashed (ラストワード発動)"
+    }, 
         ],
         Pn
       ).subscribe,
