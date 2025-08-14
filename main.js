@@ -2713,7 +2713,11 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track25",
         answer: "TH13.5 HM - Last Word Unleashed (ラストワード発動)"
-    }, 
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH14.3 ISC - Cheat Against the Impossible Danmaku (不可能弾幕には反則を)"
+    },
         ],
         Pn
       ).subscribe,
