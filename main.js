@@ -2722,6 +2722,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track29",
         answer: "TH3 PoDD - Maple Dream..."
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-crazy-backdoor-dancers?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - Crazy Backup Dancers (クレイジーバックダンサーズ)"
+    },
         ],
         Pn
       ).subscribe,
