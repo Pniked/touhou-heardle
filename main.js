@@ -2726,6 +2726,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-crazy-backdoor-dancers?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - Crazy Backup Dancers (クレイジーバックダンサーズ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track27",
+        answer: "TH17 WBaWC - Returning Home From The Underground (地下からの帰還)"
+    },
         ],
         Pn
       ).subscribe,
