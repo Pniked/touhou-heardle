@@ -2730,6 +2730,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track27",
         answer: "TH17 WBaWC - Returning Home From The Underground (地下からの帰還)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track28",
+        answer: "TH12.3 UNL - The Legendary Titan (伝説の巨神)"
+    },
         ],
         Pn
       ).subscribe,
