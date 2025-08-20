@@ -440,7 +440,7 @@ let _metadata = createMetadata({
  "TH14.5 ULiL - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)":["TH14.5"],
  //Touhou 15 OST
  "TH15 LoLK - The Space Shrine Maiden Appears (宇宙巫女現る)":["TH15"],
- "TH15 LoLK - Unforgettable the Nostalgic Greenery (忘れがたき、よすがの緑)":["TH15"],
+ "TH15 LoLK - Unforgettable, the Nostalgic Greenery (忘れがたき、よすがの緑)":["TH15"],
  "TH15 LoLK - The Rabbit Has Landed (兎は舞い降りた)":["TH15"],
  "TH15 LoLK - The Lake Reflects the Cleansed Moonlight (湖は浄めの月光を映して)":["TH15"],
  "TH15 LoLK - September Pumpkin (九月のパンプキン)":["TH15"],
