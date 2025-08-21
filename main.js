@@ -2738,6 +2738,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-unforgettable-the-nostalgic-greenery?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - Unforgettable, the Nostalgic Greenery (忘れがたき、よすがの緑)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track30",
+        answer: "TH14 DDC - Humans and Youkai Traversing the Canal (運河を行き交う人妖)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/apparitions-stalk-the-night?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Apparitions Stalk the Night (妖魔夜行)"
+    },
         ],
         Pn
       ).subscribe,
