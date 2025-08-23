@@ -2746,6 +2746,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/apparitions-stalk-the-night?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - Apparitions Stalk the Night (妖魔夜行)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track31",
+        answer: "TH17.5 SFW - Tonight Stars an Easygoing Egoist ~ Egoistic Flowers (今宵は飄逸なエゴイスト ～ Egoistic Flowers)"
+    },
         ],
         Pn
       ).subscribe,
