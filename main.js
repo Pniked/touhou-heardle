@@ -2750,6 +2750,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track31",
         answer: "TH17.5 SFW - Tonight Stars an Easygoing Egoist ~ Egoistic Flowers (今宵は飄逸なエゴイスト ～ Egoistic Flowers)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track46",
+        answer: "TH1 HRtP - Now, Until the Moment You Die (いざ、倒れ逝くその時まで)"
+    },
         ],
         Pn
       ).subscribe,
