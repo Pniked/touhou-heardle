@@ -1,5 +1,5 @@
 let _metadata = createMetadata({
-"TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)":["Eternal Shrine Maiden (永遠の巫女)"],
+ "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)":["TH1"],
  "TH1 HRtP - A Sacred Lot":["TH1"],
  "TH1 HRtP - A Soul Devoted to the Gods ~ Highly Responsive to Prayers (神へ捧げる魂 ～ Highly Responsive to Prayers)":["TH1"],
  "TH1 HRtP - Eastern Tale of Fancy (東方怪奇談)":["TH1"],
