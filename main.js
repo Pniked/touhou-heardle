@@ -2754,6 +2754,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track46",
         answer: "TH1 HRtP - Now, Until the Moment You Die (いざ、倒れ逝くその時まで)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track35",
+        answer: "TH11 SA - Last Remote (ラストリモート)"
+    },
         ],
         Pn
       ).subscribe,
