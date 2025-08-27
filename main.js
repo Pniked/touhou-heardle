@@ -2762,6 +2762,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track34",
         answer: "TH9 PoFV - Higan Retour ~ Riverside View (彼岸帰航 ～ Riverside View)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track36",
+        answer: "TH12.8 GFW - A Midnight Fairy Dance (真夜中のフェアリーダンス)"
+    },
         ],
         Pn
       ).subscribe,
