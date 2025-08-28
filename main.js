@@ -2766,6 +2766,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track36",
         answer: "TH12.8 GFW - A Midnight Fairy Dance (真夜中のフェアリーダンス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track33",
+        answer: "TH8 IN - Maiden's Capriccio ~ Dream Battle (少女綺想曲 ～ Dream Battle)"
+    },
         ],
         Pn
       ).subscribe,
