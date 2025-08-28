@@ -175,7 +175,7 @@ let _metadata = createMetadata({
  "TH8 IN - Eternal Dream ~ Mystic Maple (Eternal Dream ～ 幽玄の槭樹)":["TH8"],
  "TH8 IN - Evening Primrose (月見草)":["TH8"],
  "TH8 IN - Extend Ash ~ Person of Hourai (エクステンドアッシュ ～ 蓬莱人)":["TH8"],
- "TH8 IN - Reach for the Moon Immortal Smoke (月まで届け、不死の煙)":["TH8"],
+ "TH8 IN - Reach for the Moon, Immortal Smoke (月まで届け、不死の煙)":["TH8"],
  "TH8 IN - Eastern Youkai Beauty (東方妖怪小町)":["TH8"],
  "TH8 IN - Illusionary Night ~ Ghostly Eyes (幻視の夜 ～ Ghostly Eyes)":["TH8"],
  "TH8 IN - Wriggling Autumn Moon ~ Mooned Insect (蠢々秋月 ～ Mooned Insect)":["TH8"],
