@@ -2770,6 +2770,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track33",
         answer: "TH8 IN - Maiden's Capriccio ~ Dream Battle (少女綺想曲 ～ Dream Battle)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track37",
+        answer: "TH12 UFO - Rural Makai City Esoteria (魔界地方都市エソテリア)"
+    },
         ],
         Pn
       ).subscribe,
