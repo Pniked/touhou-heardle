@@ -2774,6 +2774,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track37",
         answer: "TH12 UFO - Rural Makai City Esoteria (魔界地方都市エソテリア)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track47",
+        answer: "TH19 UDoALG - Magical Beast Scramble (魔獣スクランブル)"
+    },
         ],
         Pn
       ).subscribe,
