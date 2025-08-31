@@ -624,6 +624,17 @@ var app = (function () {
  "TH20 FW - There is a Monster in the Woods (森にはお化けがいるよ)",
  "TH20 FW - Golden Land of Prester John (プレステ・ジョアンの黄金境)",
  "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)",
+ "TH20 FW - Four-Color Labyrinth (フォーカラーラビリンス)",
+ "TH20 FW - Reminiscence of Deer Hunting (鹿狩りのレミニセンス)",
+ "TH20 FW - The Maiden Sinking into the Deep Sea of Memory (記憶の深海に沈む少女)",
+ "TH20 FW - Watatsuki's Spell Card ~ Divine Sea Battle (綿月のスペルカード　〜 神海戦)",
+ "TH20 FW - Sacred Precincts of the Pyramid (ピラミッドの神域)",
+ "TH20 FW - Because I'm Used to Being the Last One Left ~ Stone Goddess (最後の一人は慣れてるから　〜 Stone Goddess)",
+ "TH20 FW - Fantastic Drift (ファンタスティックドリフト)",
+ "TH20 FW - Hallucination Atop a Bivalve (二枚貝の上のハルシネーション)",
+ "TH20 FW - Unchanging Daily Life (不変の日常)",
+ "TH20 FW - Beloved Daily Life (愛おしき日常)",
+ "TH20 FW - To a World With Life and Death (生と死のある世界へ)",
 
       //Don't continue if you want to play the game legitimately!!!
     ]),
