@@ -2799,7 +2799,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track45",
-        answer: "TH5 MS -Treacherous Maiden ~ Judas Kiss (裏切りの少女 ～ Judas Kiss)"
+        answer: "TH5 MS - Treacherous Maiden ~ Judas Kiss (裏切りの少女 ～ Judas Kiss)"
     },
         ],
         Pn
