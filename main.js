@@ -2793,6 +2793,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/crystallized-silver?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Crystallized Silver (クリスタライズシルバー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track38",
+        answer: "TH4 LLS - Lotus Love"
+    },
         ],
         Pn
       ).subscribe,
