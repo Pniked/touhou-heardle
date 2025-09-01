@@ -2801,6 +2801,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track45",
         answer: "TH5 MS - Treacherous Maiden ~ Judas Kiss (裏切りの少女 ～ Judas Kiss)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track39",
+        answer: "TH18 UM - The Princess Who Slays Dragon Kings (龍王殺しのプリンセス)"
+    },
         ],
         Pn
       ).subscribe,
