@@ -365,7 +365,7 @@
     },
     {
         url: "https://soundcloud.com/4llonuocy2t2/treacherous-maiden-judas-kiss?in=4llonuocy2t2",
-        answer: "TH5 MS -Treacherous Maiden ~ Judas Kiss (裏切りの少女　～ Judas Kiss)"
+        answer: "TH5 MS -Treacherous Maiden ~ Judas Kiss (裏切りの少女 ～ Judas Kiss)"
     },
     {
         url: "https://soundcloud.com/biyao183/12-the-last-judgement?in=graptore-vhs/sets/all-touhou-songs-1-19&si=388832271f1b4696815a669a6b285e76&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
