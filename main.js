@@ -2805,6 +2805,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track39",
         answer: "TH18 UM - The Princess Who Slays Dragon Kings (龍王殺しのプリンセス)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/the-maid-and-the-pocket-watch?in=yuli0/sets/all-touhou-ost&si=f40fb9634aaa41a48783e8329b2267a1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        answer: "TH6 EoSD - The Maid and the Pocket Watch of Blood (メイドと血の懐中時計)"
+    },
         ],
         Pn
       ).subscribe,
