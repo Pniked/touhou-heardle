@@ -2817,6 +2817,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-758962111?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - The Maiden Sinking into the Deep Sea of Memory (記憶の深海に沈む少女)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track52",
+        answer: "TH11 SA - Satori Maiden ~ 3rd eye (少女さとり ～ 3rd eye)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/tomboyish-girl-in-love?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Tomboyish Girl in Love (おてんば恋娘)"
+    },
         ],
         Pn
       ).subscribe,
