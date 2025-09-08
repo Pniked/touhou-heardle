@@ -2826,7 +2826,7 @@ var app = (function () {
         answer: "TH6 EoSD - Tomboyish Girl in Love (おてんば恋娘)"
     },
     {
-        url: "https://soundcloud.com/user-169674116/track41",
+        url: "https://soundcloud.com/user-169674116/track42",
         answer: "TH10 MoF - Sealed Gods (封印されし神々)"
     },
         ],
