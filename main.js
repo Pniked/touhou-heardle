@@ -2829,6 +2829,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track42",
         answer: "TH10 MoF - Sealed Gods (封印されし神々)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track43",
+        answer: "TH16.5 VD - Lucid Dreamer (ルーシッドドリーマー)"
+    },
         ],
         Pn
       ).subscribe,
