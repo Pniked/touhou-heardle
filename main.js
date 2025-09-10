@@ -2833,6 +2833,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track43",
         answer: "TH16.5 VD - Lucid Dreamer (ルーシッドドリーマー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH14.3 ISC - Midnight Spell Card (ミッドナイトスペルカード)"
+    },
         ],
         Pn
       ).subscribe,
