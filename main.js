@@ -2837,6 +2837,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH14.3 ISC - Midnight Spell Card (ミッドナイトスペルカード)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track54",
+        answer: "TH14 DDC - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)"
+    },
         ],
         Pn
       ).subscribe,
