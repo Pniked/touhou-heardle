@@ -2841,6 +2841,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track54",
         answer: "TH14 DDC - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-september-pumpkin?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - September Pumpkin (九月のパンプキン)"
+    },
         ],
         Pn
       ).subscribe,
