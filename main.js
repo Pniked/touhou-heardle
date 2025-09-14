@@ -2845,6 +2845,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-september-pumpkin?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - September Pumpkin (九月のパンプキン)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-illusionary-white-traveller?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - Illusionary White Traveler (幻想のホワイトトラベラー)"
+    },
         ],
         Pn
       ).subscribe,
