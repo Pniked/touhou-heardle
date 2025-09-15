@@ -2849,6 +2849,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-illusionary-white-traveller?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - Illusionary White Traveler (幻想のホワイトトラベラー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track44",
+        answer: "TH12 UFO - Youkai Temple (妖怪寺)"
+    },
         ],
         Pn
       ).subscribe,
