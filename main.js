@@ -2853,6 +2853,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track44",
         answer: "TH12 UFO - Youkai Temple (妖怪寺)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track53",
+        answer: "TH19 UDoALG - The Oni on the Perpetual Mountain (鬼は悠久の山に)"
+    },
         ],
         Pn
       ).subscribe,
