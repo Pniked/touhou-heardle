@@ -2857,6 +2857,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH19 UDoALG - The Oni on the Perpetual Mountain (鬼は悠久の山に)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track48",
+        answer: "TH13 TD - Omiwa Legend (大神神話伝)"
+    },
         ],
         Pn
       ).subscribe,
