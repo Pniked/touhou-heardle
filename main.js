@@ -2861,6 +2861,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track48",
         answer: "TH13 TD - Omiwa Legend (大神神話伝)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track49",
+        answer: "TH17 WBaWC - Jelly Stone (ジェリーストーン)"
+    },
         ],
         Pn
       ).subscribe,
