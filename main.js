@@ -2865,6 +2865,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track49",
         answer: "TH17 WBaWC - Jelly Stone (ジェリーストーン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track55",
+        answer: "TH12 UFO - The Traditional Old Man and the Stylish Girl (時代親父とハイカラ少女)"
+    },
         ],
         Pn
       ).subscribe,
