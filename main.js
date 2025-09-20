@@ -2869,6 +2869,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track55",
         answer: "TH12 UFO - The Traditional Old Man and the Stylish Girl (時代親父とハイカラ少女)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track23",
+        answer: "TH17.5 SFW - Solar Sect of Mystic Wisdom (霊知の太陽信仰)"
+    },
         ],
         Pn
       ).subscribe,
