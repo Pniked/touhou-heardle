@@ -2873,6 +2873,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track23",
         answer: "TH17.5 SFW - Solar Sect of Mystic Wisdom (霊知の太陽信仰)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track50",
+        answer: "TH13.5 HM - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"
+    },
         ],
         Pn
       ).subscribe,
