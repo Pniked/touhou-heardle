@@ -2877,6 +2877,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track50",
         answer: "TH13.5 HM - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track56",
+        answer: "TH18 UM - The Long-Awaited Oumagatoki (待ちわびた逢魔が時)"
+    },
         ],
         Pn
       ).subscribe,
