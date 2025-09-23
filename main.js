@@ -2881,6 +2881,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track56",
         answer: "TH18 UM - The Long-Awaited Oumagatoki (待ちわびた逢魔が時)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track51",
+        answer: "TH11 SA - Green-Eyed Jealousy (緑眼のジェラシー)"
+    },
         ],
         Pn
       ).subscribe,
