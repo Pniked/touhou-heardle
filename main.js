@@ -2885,6 +2885,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track51",
         answer: "TH11 SA - Green-Eyed Jealousy (緑眼のジェラシー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track60",
+        answer: "TH9 PoFV - White Flag of Usa Shrine (お宇佐さまの素い幡)"
+    },
         ],
         Pn
       ).subscribe,
