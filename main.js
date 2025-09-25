@@ -2889,6 +2889,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track60",
         answer: "TH9 PoFV - White Flag of Usa Shrine (お宇佐さまの素い幡)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track59",
+        answer: "TH2 SoEW - Forest of Tono (遠野の森)"
+    },
         ],
         Pn
       ).subscribe,
