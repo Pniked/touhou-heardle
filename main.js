@@ -2893,6 +2893,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track59",
         answer: "TH2 SoEW - Forest of Tono (遠野の森)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track64",
+        answer: "TH8 IN - Eternal Night Vignette ~ Eastern Night (永夜抄　～ Eastern Night)"
+    },
         ],
         Pn
       ).subscribe,
