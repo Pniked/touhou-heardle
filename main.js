@@ -2905,6 +2905,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track57",
         answer: "TH14 DDC - Illusionary Joururi (幻想浄瑠璃)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/the-capital-city-of-flowers-in?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - The Capital City of Flowers in the Sky (天空の花の都)"
+    },
         ],
         Pn
       ).subscribe,
