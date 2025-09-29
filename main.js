@@ -2909,6 +2909,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/the-capital-city-of-flowers-in?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - The Capital City of Flowers in the Sky (天空の花の都)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track58",
+        answer: "TH12.3 UNL - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (Century's End Version) (東方妖恋談 (世紀末バージョン))"
+    },
         ],
         Pn
       ).subscribe,
