@@ -323,7 +323,7 @@ let _metadata = createMetadata({
  "TH12.3 UNL - Dichromatic Lotus Butterfly ~ Ancients (二色蓮花蝶 ～ Ancients)":["TH12.3"],
  "TH12.3 UNL - Love-Colored Magic (恋色マジック)":["TH12.3"],
  "TH12.3 UNL - the Grimoire of Alice":["TH12.3"],
- "TH12.3 UNL - Voile the Magic Library (ヴワル魔法図書館)":["TH12.3"],
+ "TH12.3 UNL - Voile, the Magic Library (ヴワル魔法図書館)":["TH12.3"],
  "TH12.3 UNL - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (Century's End Version) (東方妖恋談 (世紀末バージョン))":["TH12.3"],
  //Touhou 12.5
  "TH12.5 DS - Youkai Modern Colony (妖怪モダンコロニー)":["TH12.5"],
