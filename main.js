@@ -2913,6 +2913,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track58",
         answer: "TH12.3 UNL - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (Century's End Version) (東方妖恋談 (世紀末バージョン))"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track65",
+        answer: "TH12.5 DS - Newshound (ニュースハウンド)"
+    },
         ],
         Pn
       ).subscribe,
