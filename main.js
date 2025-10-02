@@ -2917,6 +2917,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track65",
         answer: "TH12.5 DS - Newshound (ニュースハウンド)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/a-soul-as-red-as-a-ground?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - A Soul as Scarlet as a Ground Cherry (ほおずきみたいに紅い魂)"
+    },
         ],
         Pn
       ).subscribe,
