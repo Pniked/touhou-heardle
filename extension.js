@@ -449,7 +449,7 @@ let _metadata = createMetadata({
  "TH15 LoLK - Pandemonic Planet (パンデモニックプラネット)":["TH15"],
  "TH15 LoLK - The Frozen Eternal Capital (凍り付いた永遠の都)":["TH15"],
  "TH15 LoLK - The Reversed Wheel of Fortune (逆転するホイールオブフォーチュン)":["TH15"],
- "TH15 LoLK - Faraway Voyage of 380000 Kilometers (遥か38万キロのボヤージュ)":["TH15"],
+ "TH15 LoLK - Faraway Voyage of 380,000 Kilometers (遥か38万キロのボヤージュ)":["TH15"],
  "TH15 LoLK - Pierrot of the Star-Spangled Banner (星条旗のピエロ)":["TH15"],
  "TH15 LoLK - The Sea that Reflects One's Home Planet (故郷の星が映える海)":["TH15"],
  "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ　～ 心の在処)":["TH15"],
