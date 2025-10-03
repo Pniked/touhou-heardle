@@ -452,7 +452,7 @@ let _metadata = createMetadata({
  "TH15 LoLK - Faraway Voyage of 380,000 Kilometers (遥か38万キロのボヤージュ)":["TH15"],
  "TH15 LoLK - Pierrot of the Star-Spangled Banner (星条旗のピエロ)":["TH15"],
  "TH15 LoLK - The Sea that Reflects One's Home Planet (故郷の星が映える海)":["TH15"],
- "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ　～ 心の在処)":["TH15"],
+ "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ ～ 心の在処)":["TH15"],
  "TH15 LoLK - A World of Nightmares Never Seen Before (見た事も無い悪夢の世界)":["TH15"],
  "TH15 LoLK - The Moon as Seen from the Shrine (神社から見える月)":["TH15"],
  "TH15 LoLK - The Space Shrine Maiden Returns Home (宇宙巫女帰還する)":["TH15"],
