@@ -2925,6 +2925,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-sea-where-the-home-planet-is-reflected?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - The Sea that Reflects One's Home Planet (故郷の星が映える海)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track61",
+        answer: "TH11 SA - Lullaby of Deserted Hell (廃獄ララバイ)"
+    },
         ],
         Pn
       ).subscribe,
