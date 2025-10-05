@@ -248,7 +248,7 @@ var app = (function () {
  "TH10.5 SWR - Hiroari Shoots a Strange Bird ~ Till When? (広有射怪鳥事 ～ Till When？)",
  "TH10.5 SWR - Locked Girl ~ The Girl's Sealed Room (ラクトガール ～ 少女密室)",
  "TH10.5 SWR - Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)",
- "TH10.5 SWR - Catastrophe in Bhavaagra ~ Wonderful Heaven (有頂天変　～ Wonderful Heaven)",
+ "TH10.5 SWR - Catastrophe in Bhavaagra ~ Wonderful Heaven (有頂天変 ～ Wonderful Heaven)",
  "TH10.5 SWR - Septette for a Dead Princess (亡き王女の為のセプテット)",
  "TH10.5 SWR - Night Falls (夜が降りてくる)",
  "TH10.5 SWR - Broken Moon (砕月)",
