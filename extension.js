@@ -43,7 +43,7 @@ let _metadata = createMetadata({
  "TH3 PoDD - Strawberry Crisis!!":["TH3"],
  "TH3 PoDD - Dream of Eternity (久遠の夢)":["TH3"],
  "TH3 PoDD - Eastern Blue Sky (東方の青い空)":["TH3"],
- "TH3 PoDD - A Dream Transcending Space-Time (夢は時空を越えて)":["TH3"],
+ "TH3 PoDD - A Dream Transcending Spacetime (夢は時空を越えて)":["TH3"],
  "TH3 PoDD - Eternal Full Moon (永遠の満月)":["TH3"],
  "TH3 PoDD - Sailor of Time":["TH3"],
  "TH3 PoDD - Maple Dream...":["TH3"],
