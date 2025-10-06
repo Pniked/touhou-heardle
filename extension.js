@@ -31,7 +31,7 @@ let _metadata = createMetadata({
  "TH2 SoEW - Forest of Tono (遠野の森)":["TH2"],
  //Touhou 3 OST
  "TH3 PoDD - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (東方妖恋談)":["TH3"],
- "TH3 PoDD - Selection",:["TH3"],
+ "TH3 PoDD - Selection":["TH3"],
  "TH3 PoDD - Reincarnation":["TH3"],
  "TH3 PoDD - Dim. Dream":["TH3"],
  "TH3 PoDD - Tabula rasa ~ The Empty Girl (Tabula rasa ～ 空白少女)":["TH3"],
