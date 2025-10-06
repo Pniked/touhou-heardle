@@ -22,6 +22,7 @@ var app = (function () {
  //Touhou 3 OST
  "TH3 PoDD - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (東方妖恋談)",
  "TH3 PoDD - Reincarnation",
+ "TH3 PoDD - Selection",
  "TH3 PoDD - Dim. Dream",
  "TH3 PoDD - Tabula rasa ~ The Empty Girl (Tabula rasa ～ 空白少女)",
  "TH3 PoDD - Decisive Magic Battle! ~ Fight it out! (魔法決戦！ ～ Fight it out!)",
@@ -38,8 +39,6 @@ var app = (function () {
  "TH3 PoDD - Sailor of Time",
  "TH3 PoDD - Maple Dream...",
  "TH3 PoDD - Ghostly Person's Holiday (霊人の休日)",
- "TH3 PoDD - Victory Demonstration (勝利デモ)",
- "TH3 PoDD - Game Over (ゲームオーバー)",
  //Touhou 4 OST
  "TH4 LLS - Gensokyo ~ Lotus Land Story (幻想郷 ～ Lotus Land Story)",
  "TH4 LLS - Witching Dream",
