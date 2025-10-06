@@ -2936,6 +2936,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track67",
         answer: "TH3 PoDD - Selection"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track72",
+        answer: "TH14 DDC - The Shining Needle Castle Sinking in the Air (空中に沈む輝針城)"
+    },
         ],
         Pn
       ).subscribe,
