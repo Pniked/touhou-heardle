@@ -2940,6 +2940,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track72",
         answer: "TH14 DDC - The Shining Needle Castle Sinking in the Air (空中に沈む輝針城)"
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-wonders-8?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Beloved Dust Dwelling (愛おしき塵の住処)"
+    },
         ],
         Pn
       ).subscribe,
