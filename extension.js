@@ -649,7 +649,7 @@ function appendMetadata(guess, row) {
         if(guessMeta && heardleMeta) {
             const metaEvaluation = document.createElement("div");
             metaEvaluation.style.maxWidth = "60%"
-            metaEvaluation.innerHTML = `<div><span style="color: #38a11e; font-weight:bold;">${heardleMeta.game == guessMeta.game ? `Correct Game!` : `<span style="color: #b92727; font-weight:bold;">Wrong Game</span>`}</span></div>`;
+            metaEvaluation.innerHTML = `<div><div><span style="color: #38a11e; font-weight:bold;">${heardleMeta.game == guessMeta.game ? `Correct Game!` : `<span style="color: #b92727; font-weight:bold;">Wrong Game</span>`}</span></div></div>`;
             row.appendChild(metaEvaluation);
         }
     }
@@ -663,7 +663,7 @@ function setCurrentHeardle(l) {
         if(stats != null ) {
             paresdStats = JSON.parse(stats)
             paresdStats.filter(p => p.correctAnswer == currentHeardle.correctAnswer)[0].guessList.forEach((guess, index) => {
-                
+                appendMetadata(guess, rows[index]) 
             })
         }
     }, 200)
