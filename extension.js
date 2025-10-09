@@ -512,7 +512,7 @@ let _metadata = createMetadata({
  "TH16 HSiFS - A Pair of Divine Beasts (一対の神獣)":["TH16"],
  "TH16 HSiFS - Illusionary White Traveler (幻想のホワイトトラベラー)":["TH16"],
  "TH16 HSiFS - The Magic Straw-Hat Jizo (魔法の笠地蔵)":["TH16"],
- "TH16 HSiFS - Does the Forbidden Door Lead to This World or the World Beyond? (禁断の扉の向こうは、この世かあの世か)":["TH16"],
+ "TH16 HSiFS - Does the Forbidden Door Lead to This World, or the World Beyond? (禁断の扉の向こうは、この世かあの世か)":["TH16"],
  "TH16 HSiFS - No More Going Through Doors (もうドアには入れない)":["TH16"],
  "TH16 HSiFS - Crazy Backup Dancers (クレイジーバックダンサーズ)":["TH16"],
  "TH16 HSiFS - Into Backdoor (イントゥ・バックドア)":["TH16"],
