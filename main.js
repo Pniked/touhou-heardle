@@ -2948,6 +2948,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-unnatural-nature?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - Unnatural Nature (不自然な自然)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track68",
+        answer: "TH12 UFO - Captain Murasa (キャプテン・ムラサ)"
+    },
         ],
         Pn
       ).subscribe,
