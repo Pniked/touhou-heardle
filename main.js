@@ -2952,6 +2952,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track68",
         answer: "TH12 UFO - Captain Murasa (キャプテン・ムラサ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track75",
+        answer: "TH9 PoFV - Phantom Band ~ Phantom Ensemble (幽霊楽団 ～ Phantom Ensemble)"
+    },
         ],
         Pn
       ).subscribe,
