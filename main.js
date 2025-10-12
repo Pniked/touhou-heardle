@@ -2956,6 +2956,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track75",
         answer: "TH9 PoFV - Phantom Band ~ Phantom Ensemble (幽霊楽団 ～ Phantom Ensemble)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track77",
+        answer: "TH17 WBaWC - The Lamentations Known Only to Jizo (地蔵だけが知る哀嘆)"
+    },
         ],
         Pn
       ).subscribe,
