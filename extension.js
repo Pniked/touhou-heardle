@@ -536,7 +536,7 @@ let _metadata = createMetadata({
  "TH17 WBaWC - Everlasting Red Spider Lily (不朽の曼珠沙華)":["TH17"],
  "TH17 WBaWC - Seraphic Chicken (セラフィックチキン)":["TH17"],
  "TH17 WBaWC - Unlocated Hell (アンロケイテッドヘル)":["TH17"],
- "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン　～　幸運と不運)":["TH17"],
+ "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン ～ 幸運と不運)":["TH17"],
  "TH17 WBaWC - Beast Metropolis (ビーストメトロポリス)":["TH17"],
  "TH17 WBaWC - Joutoujin of Ceramics (セラミックスの杖刀人)":["TH17"],
  "TH17 WBaWC - Electric Heritage (エレクトリックヘリテージ)":["TH17"],
