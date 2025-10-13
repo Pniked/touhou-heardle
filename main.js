@@ -2960,6 +2960,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track77",
         answer: "TH17 WBaWC - The Lamentations Known Only to Jizo (地蔵だけが知る哀嘆)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track71",
+        answer: "TH17.5 SFW - Seraphic Chicken (セラフィックチキン)"
+    },
         ],
         Pn
       ).subscribe,
