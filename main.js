@@ -2968,6 +2968,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track74",
         answer: "TH18 UM - The Great Fantastic Underground Railway Network (幻想の地下大線路網)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track89",
+        answer: "TH13 TD - Ghost Lead (ゴーストリード)"
+    },
         ],
         Pn
       ).subscribe,
