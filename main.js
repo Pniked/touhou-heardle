@@ -2976,6 +2976,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track73",
         answer: "TH8 IN - Song of the Night Sparrow ~ Night Bird (夜雀の歌声 ～ Night Bird)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track76",
+        answer: "TH12.8 GFW - Loose Rain (ルーズレイン)"
+    },
         ],
         Pn
       ).subscribe,
