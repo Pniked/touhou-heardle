@@ -2980,6 +2980,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track76",
         answer: "TH12.8 GFW - Loose Rain (ルーズレイン)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/paradise-deep-mountain?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Paradise ~ Deep Mountain (無何有の郷 ～ Deep Mountain)"
+    },
         ],
         Pn
       ).subscribe,
