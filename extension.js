@@ -127,7 +127,7 @@ let _metadata = createMetadata({
  "TH7 PCB - Crystallized Silver (クリスタライズシルバー)":["TH7"],
  "TH7 PCB - Hiroari Shoots a Strange Bird ~ Till When? (広有射怪鳥事 ～ Till When?)":["TH7"],
  "TH7 PCB - Ultimate Truth (アルティメットトゥルース)":["TH7"],
- "TH7 PCB - Bloom Nobly Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)" :["TH7"],
+ "TH7 PCB - Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)" :["TH7"],
  "TH7 PCB - Border of Life (ボーダーオブライフ)":["TH7"],
  "TH7 PCB - A Maiden's Illusionary Funeral ~ Necro-Fantasy (少女幻葬 ～ Necro-Fantasy)":["TH7"],
  "TH7 PCB - Spiritual Domination ~ Who done it! (妖々跋扈 ～ Who done it!)":["TH7"],
