@@ -134,7 +134,7 @@ let _metadata = createMetadata({
  "TH7 PCB - Spiritual Domination (妖々跋扈)":["TH7"],
  "TH7 PCB - Necrofantasia (ネクロファンタジア)":["TH7"],
  "TH7 PCB - Dream of a Spring Breeze (春風の夢)":["TH7"],
- "TH7 PCB - Sakura Sakura ~ Japanize Dream... (さくらさくら ～ Japanize Dream...)":["TH7"],
+ "TH7 PCB - Sakura, Sakura ~ Japanize Dream... (さくらさくら ～ Japanize Dream...)":["TH7"],
  //Touhou 7.5 OST
  "TH7.5 IaMP - Forgathering Dream (萃夢想)":["TH7.5"],
  "TH7.5 IaMP - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (東方妖恋談)":["TH7.5"],
