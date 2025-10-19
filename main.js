@@ -49,7 +49,7 @@ var app = (function () {
  "TH4 LLS - Bad Apple!!",
  "TH4 LLS - Spirit Battle ~ Perdition Crisis (霊戦 ～ Perdition crisis)",
  "TH4 LLS - Alice Maestra (アリスマエステラ)",
- "TH4 LLS - Maiden's Capiccio ~ Cappriccio (少女綺想曲 ～ Capriccio)",
+ "TH4 LLS - Maiden's Capriccio ~ Capriccio (少女綺想曲 ～ Capriccio)",
  "TH4 LLS - Vessel of Stars ~ Casket of Star (星の器 ～ Casket of Star)",
  "TH4 LLS - Lotus Love",
  "TH4 LLS - Cute Devil ~ Innocence (かわいい悪魔　～ Innocence)",
