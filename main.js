@@ -6271,9 +6271,6 @@ var app = (function () {
       c() {
         (t = _("Skip ")),
           (n = w("span")),
-          (r = _("(+")),
-          (s = _(e[0])),
-          (i = _("s)")),
           M(n, "class", "tracking-normal lowercase"),
           Y(n, "hidden", e[0] >= e[1].maxAttempts);
       },
