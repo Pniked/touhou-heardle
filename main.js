@@ -7089,7 +7089,7 @@ var app = (function () {
   }
   const Vt = {
       attemptInterval: 1.5e3,
-      attemptIntervalAlt: [2.5e3, 5e3, 9e3, 13e3, 20e3, 30e3],
+      attemptIntervalAlt: [2.5e3, 4.5e3, 8.5e3, 15e3, 25e3, 50e3],
       maxAttempts: 6,
       startDate: startDate,
     },
