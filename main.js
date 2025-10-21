@@ -2996,6 +2996,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track78",
         answer: "TH17 WBaWC - Joutoujin of Ceramics (セラミックスの杖刀人)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track79",
+        answer: "TH3 PoDD - Strawberry Crisis!!"
+    },
         ],
         Pn
       ).subscribe,
