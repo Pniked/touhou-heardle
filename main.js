@@ -2992,6 +2992,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track86",
         answer: "TH4 LLS - Maiden's Capriccio ~ Capriccio (少女綺想曲 ～ Capriccio)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track78",
+        answer: "TH17 WBaWC - Joutoujin of Ceramics (セラミックスの杖刀人)"
+    },
         ],
         Pn
       ).subscribe,
