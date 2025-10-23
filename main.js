@@ -3000,6 +3000,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track79",
         answer: "TH3 PoDD - Strawberry Crisis!!"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track85",
+        answer: "TH10.5 SWR - The Ground's Color is Yellow (地の色は黄色)"
+    },
         ],
         Pn
       ).subscribe,
