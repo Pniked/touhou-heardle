@@ -3004,6 +3004,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track85",
         answer: "TH10.5 SWR - The Ground's Color is Yellow (地の色は黄色)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track81",
+        answer: "TH11 SA - Walking the Streets of a Former Hell (旧地獄街道を行く)"
+    },
         ],
         Pn
       ).subscribe,
