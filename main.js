@@ -3012,6 +3012,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track88",
         answer: "TH12.3 UNL - X, the Floating Object in the Sky (空に浮かぶ物体Ｘ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track94",
+        answer: "TH14.3 ISC - Romantic Escape Flight (ロマンチック逃飛行)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track83",
+        answer: "TH19 UDoALG - A Brave and Leisurely Beast (勇敢で有閑な妖獣)"
+    },
         ],
         Pn
       ).subscribe,
