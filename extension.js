@@ -316,7 +316,7 @@ let _metadata = createMetadata({
  "TH12.3 UNL - Tomboyish Girl in Love (おてんば恋娘)":["TH12.3"],
  "TH12.3 UNL - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (霊知の太陽信仰 ～ Nuclear Fusion)":["TH12.3"],
  "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館　～ Chinese Tea)":["TH12.3"],
- "TH12.3 UNL - Tomorrow Will Be Special Yesterday Was Not (明日ハレの日、ケの昨日)":["TH12.3"],
+ "TH12.3 UNL - Tomorrow Will Be Special, Yesterday Was Not (明日ハレの日、ケの昨日)":["TH12.3"],
  "TH12.3 UNL - Unknown X ~ Unfound Adventure (アンノウンＸ ～ Unfound Adventure)":["TH12.3"],
  "TH12.3 UNL - X, the Floating Object in the Sky (空に浮かぶ物体Ｘ)":["TH12.3"],
  "TH12.3 UNL - Dichromatic Lotus Butterfly ~ Ancients (二色蓮花蝶 ～ Ancients)":["TH12.3"],
