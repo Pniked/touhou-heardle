@@ -227,7 +227,7 @@ let _metadata = createMetadata({
  "TH10 MoF - The Venerable Ancient Battlefield ~ Suwa Foughten Field (神さびた古戦場 ～ Suwa Foughten Field)":["TH10"],
  "TH10 MoF - Sealed Gods (封印されし神々)":["TH10"],
  "TH10 MoF - The Gods Give Us Blessed Rain ~ Sylphid Dream (神は恵みの雨を降らす ～ Sylphid Dream)":["TH10"],
- "TH10 MoF - Tomorrow Will Be Special Yesterday Was Not (明日ハレの日、ケの昨日)":["TH10"],
+ "TH10 MoF - Tomorrow Will Be Special, Yesterday Was Not (明日ハレの日、ケの昨日)":["TH10"],
  "TH10 MoF - Faith Is for the Transient People (信仰は儚き人間の為に)":["TH10"],
  "TH10 MoF - Native Faith (ネイティブフェイス)":["TH10"],
  "TH10 MoF - A God That Misses People ~ Romantic Fall (人恋し神様 ～ Romantic Fall)":["TH10"],
