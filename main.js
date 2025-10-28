@@ -3028,6 +3028,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-the-concealed-four-seasons?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - The Concealed Four Seasons (秘匿されたフォーシーズンズ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track09",
+        answer: "TH5 MS - Legendary Illusion ~ Infinite Being (神話幻想 ～ Infinite Being)"
+    },
         ],
         Pn
       ).subscribe,
