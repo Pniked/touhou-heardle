@@ -3023,7 +3023,11 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track82",
         answer: "TH10 MoF - Cemetery of Onbashira ~ Grave of Being (御柱の墓場 ～ Grave of Being)"
-    },  
+    },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-the-concealed-four-seasons?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - The Concealed Four Seasons (秘匿されたフォーシーズンズ)"
+    },
         ],
         Pn
       ).subscribe,
