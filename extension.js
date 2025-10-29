@@ -104,7 +104,7 @@ let _metadata = createMetadata({
  "TH6 EoSD - Tomboyish Girl in Love (おてんば恋娘)":["TH6"],
  "TH6 EoSD - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館 ～ Chinese Tea)":["TH6"],
  "TH6 EoSD - Shanghai Alice of Meiji 17 (明治十七年の上海アリス)" :["TH6"],
- "TH6 EoSD - Voile the Magic Library (ヴワル魔法図書館)":["TH6"],
+ "TH6 EoSD - Voile, the Magic Library (ヴワル魔法図書館)":["TH6"],
  "TH6 EoSD - An Eternity More Transient than Scarlet (紅より儚い永遠)":["TH6"],
  "TH6 EoSD - Locked Girl ~ The Girl's Sealed Room (ラクトガール　～ 少女密室)":["TH6"],
  "TH6 EoSD - The Maid and the Pocket Watch of Blood (メイドと血の懐中時計)":["TH6"],
