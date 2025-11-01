@@ -3036,6 +3036,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH5 MS - Legendary Illusion ~ Infinite Being (神話幻想 ～ Infinite Being)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-frozen-eternal-capital?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - The Frozen Eternal Capital (凍り付いた永遠の都)"
+    },
         ],
         Pn
       ).subscribe,
