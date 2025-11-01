@@ -290,7 +290,7 @@ let _metadata = createMetadata({
  //Touhou 12 OST
  "TH12 UFO - A Shadow in the Blue Sky (青空の影)":["TH12"],
  "TH12 UFO - At the Harbor of Spring (春の湊に)":["TH12"],
- "TH12 UFO - A Tiny Tiny Clever Commander (小さな小さな賢将)":["TH12"],
+ "TH12 UFO - A Tiny, Tiny, Clever Commander (小さな小さな賢将)":["TH12"],
  "TH12 UFO - The Sealed Cloud Route (閉ざせし雲の通い路)":["TH12"],
  "TH12 UFO - Beware the Umbrella Left There Forever (万年置き傘にご注意を)":["TH12"],
  "TH12 UFO - Sky Ruin (スカイルーイン)":["TH12"],
