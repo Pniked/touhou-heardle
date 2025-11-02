@@ -3044,6 +3044,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track12",
         answer: "TH12 UFO - Fires of Hokkai (法界の火)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track05",
+        answer: "TH2 SoEW - Power of Darkness (やみのちから)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track08",
+        answer: "TH13 TD - Youkai Girl At The Gate (門前の妖怪小娘)"
+    },
         ],
         Pn
       ).subscribe,
