@@ -3056,6 +3056,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH11 SA - A Flower-Studded Sake Dish on Mt. Ooe (華のさかづき大江山)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track13",
+        answer: "TH8 IN - Deaf to All but the Song (もう歌しか聞こえない)"
+    },
         ],
         Pn
       ).subscribe,
