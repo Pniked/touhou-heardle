@@ -3060,6 +3060,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track13",
         answer: "TH8 IN - Deaf to All but the Song (もう歌しか聞こえない)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track23",
+        answer: "TH7.5 IaMP - Love-Colored Magic (恋色マジック)"
+    },
         ],
         Pn
       ).subscribe,
