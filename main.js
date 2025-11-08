@@ -3064,6 +3064,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track23",
         answer: "TH7.5 IaMP - Love-Colored Magic (恋色マジック)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track29",
+        answer: "TH18 UM - The Cliff Hidden in Deep Green (深緑に隠された断崖)"
+    },
         ],
         Pn
       ).subscribe,
