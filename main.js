@@ -3070,7 +3070,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track19",
-        answer: "TH9 PoFV - Flower of Soul ~ Another Dream... (魂の花　～ Another Dream...)"
+        answer: "TH9 PoFV - Flower of Soul ~ Another Dream... (魂の花 ～ Another Dream...)"
     },
         ],
         Pn
