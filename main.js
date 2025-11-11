@@ -3077,7 +3077,7 @@ var app = (function () {
         answer: "TH14 DDC - Mermaid from the Uncharted Land (秘境のマーメイド)"
     },
     {
-        url: "https://soundcloud.com/graptore-vhs/02-eternal-shrine-maiden",
+        url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)"
     },
         ],
