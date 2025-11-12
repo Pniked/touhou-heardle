@@ -3080,6 +3080,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track33",
+        answer: "TH17 WBaWC - Entrust this World to Idols ~ Idolatrize World (偶像に世界を委ねて ～ Idoratrize World)"
+    },
         ],
         Pn
       ).subscribe,
