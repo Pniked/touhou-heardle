@@ -3084,6 +3084,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track33",
         answer: "TH17 WBaWC - Entrust this World to Idols ~ Idolatrize World (偶像に世界を委ねて ～ Idoratrize World)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/fab4dc55-92ad-4ae1-9725-aeafda67de47",
+        answer: "TH6 EoSD - Scarlet Chamber ~ Eastern Dream... (紅楼 ～ Eastern Dream...)"
+    },
         ],
         Pn
       ).subscribe,
