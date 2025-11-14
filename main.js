@@ -3088,6 +3088,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/fab4dc55-92ad-4ae1-9725-aeafda67de47",
         answer: "TH6 EoSD - Scarlet Chamber ~ Eastern Dream... (紅楼 ～ Eastern Dream...)"
     },
+    {
+        url: "https://soundcloud.com/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/a-star-of-hope-rises-in-the-blue-sky?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - A Star of Hope Rises in the Blue Sky (希望の星は青霄に昇る)"
+    },
         ],
         Pn
       ).subscribe,
