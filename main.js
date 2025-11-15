@@ -3092,6 +3092,10 @@ var app = (function () {
         url: "https://soundcloud.com/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/a-star-of-hope-rises-in-the-blue-sky?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - A Star of Hope Rises in the Blue Sky (希望の星は青霄に昇る)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/diao-ye-zong-withered-leaf?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Diao Ye Zong (withered leaf) (ティアオイエツォン(withered leaf))"
+    },
         ],
         Pn
       ).subscribe,
