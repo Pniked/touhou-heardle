@@ -3096,6 +3096,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/diao-ye-zong-withered-leaf?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Diao Ye Zong (withered leaf) (ティアオイエツォン(withered leaf))"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track04",
+        answer: "TH18.5 HBM - Black Markets Can Happen Anywhere Anytime (闇市場は場所を選ばない)"
+    },
         ],
         Pn
       ).subscribe,
