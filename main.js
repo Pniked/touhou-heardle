@@ -3100,6 +3100,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track04",
         answer: "TH18.5 HBM - Black Markets Can Happen Anywhere Anytime (闇市場は場所を選ばない)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH18 UM - Lunar Rainbow (ルナレインボー)"
+    },
         ],
         Pn
       ).subscribe,
