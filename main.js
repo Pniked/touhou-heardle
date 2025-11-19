@@ -3108,6 +3108,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track46",
         answer: "TH15.5 AoCF - Possession Flowers Yet to Bud (未だ蕾む憑依華)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track53",
+        answer: "TH10 MoF - Native Faith (ネイティブフェイス)"
+    },
         ],
         Pn
       ).subscribe,
