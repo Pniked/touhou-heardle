@@ -3112,6 +3112,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH10 MoF - Native Faith (ネイティブフェイス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track35",
+        answer: "TH4 LLS - Bad Apple!!"
+    },
         ],
         Pn
       ).subscribe,
