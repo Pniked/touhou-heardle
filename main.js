@@ -3116,6 +3116,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track35",
         answer: "TH4 LLS - Bad Apple!!"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/necrofantasia?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Necrofantasia (ネクロファンタジア)"
+    },
         ],
         Pn
       ).subscribe,
