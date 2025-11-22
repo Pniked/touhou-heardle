@@ -3120,6 +3120,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/necrofantasia?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Necrofantasia (ネクロファンタジア)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track78",
+        answer: "TH12 UFO - Emotional Skyscraper ~ Cosmic Mind (感情の摩天楼 ～ Cosmic Mind)"
+    },
         ],
         Pn
       ).subscribe,
