@@ -280,7 +280,7 @@ var app = (function () {
  "TH11 SA - The Sealed-Away Youkai ~ Lost Place (封じられた妖怪 ～ Lost Place)",
  "TH11 SA - The Bridge People No Longer Cross (渡る者の途絶えた橋)",
  "TH11 SA - Green-Eyed Jealousy (緑眼のジェラシー)",
- "TH11 SA - Corpse Voyage ~ Be of good cheer! (死体旅行　～ Be of good cheer!)",
+ "TH11 SA - Corpse Voyage ~ Be of good cheer! (死体旅行 ～ Be of good cheer!)",
  "TH11 SA - Walking the Streets of a Former Hell (旧地獄街道を行く)",
  "TH11 SA - A Flower-Studded Sake Dish on Mt. Ooe (華のさかづき大江山)",
  "TH11 SA - Heartfelt Fancy (ハートフェルトファンシー)",
