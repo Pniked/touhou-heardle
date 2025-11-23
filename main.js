@@ -3130,7 +3130,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track55",
-        answer: "TH11 SA - Corpse Voyage ~ Be of good cheer! (死体旅行　～ Be of good cheer!)"
+        answer: "TH11 SA - Corpse Voyage ~ Be of good cheer! (死体旅行 ～ Be of good cheer!)"
     },
         ],
         Pn
