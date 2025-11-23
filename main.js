@@ -3124,6 +3124,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track78",
         answer: "TH12 UFO - Emotional Skyscraper ~ Cosmic Mind (感情の摩天楼 ～ Cosmic Mind)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track62",
+        answer: "TH8 IN - Reach for the Moon, Immortal Smoke (月まで届け、不死の煙)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track55",
+        answer: "TH11 SA - Corpse Voyage ~ Be of good cheer! (死体旅行　～ Be of good cheer!)"
+    },
         ],
         Pn
       ).subscribe,
