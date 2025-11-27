@@ -3140,6 +3140,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-lake-reflects-the-cleansed-moonlight?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - The Lake Reflects the Cleansed Moonlight (湖は浄めの月光を映して)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track8",
+        answer: "TH13 TD - Rigid Paradise (リジッドパラダイス)"
+    },
         ],
         Pn
       ).subscribe,
