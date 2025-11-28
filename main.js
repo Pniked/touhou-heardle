@@ -3144,6 +3144,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track8",
         answer: "TH13 TD - Rigid Paradise (リジッドパラダイス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track50",
+        answer: "TH9.5 StB - Sleepless Night of the Eastern Country (東の国の眠らない夜)"
+    },
         ],
         Pn
       ).subscribe,
