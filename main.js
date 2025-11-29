@@ -3148,6 +3148,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track-51",
         answer: "TH9.5 StB - Sleepless Night of the Eastern Country (東の国の眠らない夜)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track43",
+        answer: "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館　～ Chinese Tea)"
+    },
         ],
         Pn
       ).subscribe,
