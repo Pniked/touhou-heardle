@@ -305,7 +305,7 @@ var app = (function () {
  "TH12.3 UNL - Faith Is for the Transient People (信仰は儚き人間の為に)",
  "TH12.3 UNL - Tomboyish Girl in Love (おてんば恋娘)",
  "TH12.3 UNL - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (霊知の太陽信仰 ～ Nuclear Fusion)",
- "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館　～ Chinese Tea)",
+ "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館 ～ Chinese Tea)",
  "TH12.3 UNL - Tomorrow Will Be Special, Yesterday Was Not (明日ハレの日、ケの昨日)",
  "TH12.3 UNL - Unknown X ~ Unfound Adventure (アンノウンＸ ～ Unfound Adventure)",
  "TH12.3 UNL - X, the Floating Object in the Sky (空に浮かぶ物体Ｘ)",
@@ -3150,7 +3150,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track43",
-        answer: "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館　～ Chinese Tea)"
+        answer: "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館 ～ Chinese Tea)"
     },
         ],
         Pn
