@@ -3156,6 +3156,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track30",
         answer: "TH3 PoDD - Reincarnation"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track74",
+        answer: "TH10 MoF - Tomorrow Will Be Special, Yesterday Was Not (明日ハレの日、ケの昨日)"
+    },
         ],
         Pn
       ).subscribe,
