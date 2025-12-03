@@ -3164,6 +3164,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track63",
         answer: "TH13.5 HM - An Unpopular Location (人気のない場所)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track47",
+        answer: "TH9 PoFV - Lunatic Eyes ~ Invisible Full Moon (狂気の瞳 ～ Invisible Full Moon)"
+    },
         ],
         Pn
       ).subscribe,
