@@ -3168,6 +3168,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track47",
         answer: "TH9 PoFV - Lunatic Eyes ~ Invisible Full Moon (狂気の瞳 ～ Invisible Full Moon)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/voile-the-magic-library?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Voile, the Magic Library (ヴワル魔法図書館)"
+    },
         ],
         Pn
       ).subscribe,
