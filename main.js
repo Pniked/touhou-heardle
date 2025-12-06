@@ -3176,6 +3176,18 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track49",
         answer: "TH12.5 DS - Youkai Modern Colony (妖怪モダンコロニー)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-pierrot-of-the-star-spangled-banner?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - Pierrot of the Star-Spangled Banner (星条旗のピエロ)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH13 TD - Futatsuiwa from Sado (佐渡の二ッ岩)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track70",
+        answer: "TH19 UDoALG - A Beast's Intelligence (獣の知性)"
+    },
         ],
         Pn
       ).subscribe,
