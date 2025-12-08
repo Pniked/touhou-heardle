@@ -3188,6 +3188,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track70",
         answer: "TH19 UDoALG - A Beast's Intelligence (獣の知性)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track10",
+        answer: "TH8 IN - Cinderella Cage ~ Kagome, Kagome (シンデレラケージ ～ Kagome-Kagome)"
+    },
         ],
         Pn
       ).subscribe,
