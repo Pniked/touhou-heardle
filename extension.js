@@ -185,7 +185,7 @@ let _metadata = createMetadata({
  "TH8 IN - Retribution for the Eternal Night ~ Imperishable Night (永夜の報い ～ Imperishable Night)":["TH8"],
  "TH8 IN - Love-Colored Master Spark (恋色マスタースパーク)":["TH8"],
  "TH8 IN - Maiden's Capriccio ~ Dream Battle (少女綺想曲 ～ Dream Battle)":["TH8"],
- "TH8 IN - Cinderella Cage ~ Kagome Kagome (シンデレラケージ ～ Kagome-Kagome)":["TH8"],
+ "TH8 IN - Cinderella Cage ~ Kagome, Kagome (シンデレラケージ ～ Kagome-Kagome)":["TH8"],
  "TH8 IN - Lunatic Eyes ~ Invisible Full Moon (狂気の瞳 ～ Invisible Full Moon)":["TH8"],
  "TH8 IN - Voyage 1969 (ヴォヤージュ1969)":["TH8"],
  "TH8 IN - Gensokyo Millennium ~ History of the Moon (千年幻想郷 ～ History of the Moon)":["TH8"],
