@@ -3192,6 +3192,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track10",
         answer: "TH8 IN - Cinderella Cage ~ Kagome, Kagome (シンデレラケージ ～ Kagome-Kagome)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track50",
+        answer: "TH17.5 SFW - Captain Murasa (キャプテンムラサ)"
+    },
         ],
         Pn
       ).subscribe,
