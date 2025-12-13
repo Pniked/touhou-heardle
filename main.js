@@ -3204,6 +3204,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track60",
         answer: "TH16 HSiFS - Does the Forbidden Door Lead to This World, or the World Beyond? (禁断の扉の向こうは、この世かあの世か)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track20",
+        answer: "TH17 WBaWC - Prince Shoutoku's Pegasus ~ Dark Pegasus (聖徳太子のペガサス ～ Dark Pegasus)"
+    },
         ],
         Pn
       ).subscribe,
