@@ -3208,6 +3208,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track20",
         answer: "TH17 WBaWC - Prince Shoutoku's Pegasus ~ Dark Pegasus (聖徳太子のペガサス ～ Dark Pegasus)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/paradise-deep-mountain?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Paradise ~ Deep Mountain (無何有の郷 ～ Deep Mountain)"
+    },
         ],
         Pn
       ).subscribe,
