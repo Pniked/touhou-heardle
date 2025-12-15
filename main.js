@@ -3212,6 +3212,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/paradise-deep-mountain?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Paradise ~ Deep Mountain (無何有の郷 ～ Deep Mountain)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-illusionary-white-traveller?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - Illusionary White Traveler (幻想のホワイトトラベラー)"
+    },
         ],
         Pn
       ).subscribe,
