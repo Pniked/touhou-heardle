@@ -3220,6 +3220,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track39",
         answer: "TH14.5 ULiL - Battlefield of the Flower Threshold (華狭間のバトルフィールド)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track57",
+        answer: "TH20 FW - Four-Color Labyrinth (フォーカラーラビリンス)"
+    },
         ],
         Pn
       ).subscribe,
