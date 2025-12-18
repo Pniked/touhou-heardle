@@ -3224,6 +3224,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track57",
         answer: "TH20 FW - Four-Color Labyrinth (フォーカラーラビリンス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track76",
+        answer: "TH12 UFO - The Tiger-Patterned Bishamonten (虎柄の毘沙門天)"
+    },
         ],
         Pn
       ).subscribe,
