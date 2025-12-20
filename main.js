@@ -3232,6 +3232,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH12.8 GFW - Great Fairy Wars ~ Fairy Wars (妖精大戦争 ～ Fairy Wars)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH18 UM - Kitten of Great Fortune (大吉キトゥン)"
+    },
         ],
         Pn
       ).subscribe,
