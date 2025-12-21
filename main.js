@@ -3240,6 +3240,38 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track06",
         answer: "TH14 DDC - Dullahan Under the Willows (柳の下のデュラハン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH2 SoEW - End of Daylight"
+    },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-eternal-spring-dream?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - Eternal Spring Dream (永遠の春夢)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/mystical-dream-snow-or-cherry?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Ghostly Dream ~ Snow or Cherry Petal (妖々夢 ～ Snow or Cherry Petal)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH7.5 IaMP - Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/tomboyish-girl-in-love?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Tomboyish Girl in Love (おてんば恋娘)"
+    },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/crystallized-silver?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Crystallized Silver (クリスタライズシルバー)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH11 SA - The Bridge People No Longer Cross (渡る者の途絶えた橋)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track33",
+        answer: "TH10.5 SWR - Skies Beyond the Clouds (雲外蒼天)"
+    },
         ],
         Pn
       ).subscribe,
