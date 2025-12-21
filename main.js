@@ -3236,6 +3236,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH18 UM - Kitten of Great Fortune (大吉キトゥン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track06",
+        answer: "TH14 DDC - Dullahan Under the Willows (柳の下のデュラハン)"
+    },
         ],
         Pn
       ).subscribe,
