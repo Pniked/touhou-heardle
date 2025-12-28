@@ -3265,12 +3265,16 @@ var app = (function () {
         answer: "TH7 PCB - Crystallized Silver (クリスタライズシルバー)"
     },
     {
-        url: "https://soundcloud.com/user-169674116/track24",
-        answer: "TH11 SA - The Bridge People No Longer Cross (渡る者の途絶えた橋)"
+        url: "https://soundcloud.com/user-169674116/track45",
+        answer: "TH11 SA - Last Remote (ラストリモート)"
     },
     {
         url: "https://soundcloud.com/user-169674116/track33",
         answer: "TH10.5 SWR - Skies Beyond the Clouds (雲外蒼天)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH11 SA - The Bridge People No Longer Cross (渡る者の途絶えた橋)"
     },
         ],
         Pn
