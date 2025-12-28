@@ -3273,6 +3273,14 @@ var app = (function () {
         answer: "TH10.5 SWR - Skies Beyond the Clouds (雲外蒼天)"
     },
     {
+        url: "https://soundcloud.com/user-169674116/track51",
+        answer: "TH10 MoF - Player's Score (プレイヤーズスコア)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track16",
+        answer: "TH8 IN - Retribution for the Eternal Night ~ Imperishable Night (永夜の報い ～ Imperishable Night)"
+    },
+    {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH11 SA - The Bridge People No Longer Cross (渡る者の途絶えた橋)"
     },
