@@ -3269,10 +3269,6 @@ var app = (function () {
         answer: "TH18 UM - The Perpetual Snow of Komakusa Blossoms (駒草咲くパーペチュアルスノー)"
     },
     {
-        url: "https://soundcloud.com/user-169674116/track45",
-        answer: "TH11 SA - Last Remote (ラストリモート)"
-    },
-    {
         url: "https://soundcloud.com/user-169674116/track33",
         answer: "TH10.5 SWR - Skies Beyond the Clouds (雲外蒼天)"
     },
