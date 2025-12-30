@@ -7771,16 +7771,13 @@ var app = (function () {
       a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
     return {
       c() {
-        (t = _("You got today's " + artist + " Heardle within ")),
-          (n = _(o)),
-          (r = _("\n                second")),
-          (s = _(a)),
-          (i = _("."));
+        (t = _("Thanks for playing!"));
       },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
+                newText.innerHTML = "What were your high scores this year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
