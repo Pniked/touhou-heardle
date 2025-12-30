@@ -7741,14 +7741,13 @@ var app = (function () {
       s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
     return {
       c() {
-        (t = _("You got today's " + artist + " Heardle within the first ")),
-          (n = _(s)),
-          (r = _(" seconds."));
+        (t = _("Thanks for playing!"));
       },
       m(e, s) {
         g(e, t, s), g(e, n, s), g(e, r, s);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
+                newText.innerHTML = "What were your high scores this year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
@@ -7807,13 +7806,14 @@ var app = (function () {
     return {
       c() {
         n = _(
-          "You didn't get today's " + artist + " Heardle. Better luck tomorrow! ❤️"
+          "Thanks for playing!"
         );
       },
       m(e, t) {
         g(e, n, t);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
+                newText.innerHTML = "What were your high scores this year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
