@@ -7741,13 +7741,15 @@ var app = (function () {
       s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
     return {
       c() {
-        (t = _("Thanks for playing!"));
+        (t = _("You got today's " + artist + " Heardle within the first ")),
+          (n = _(s)),
+          (r = _(" seconds."));
       },
       m(e, s) {
         g(e, t, s), g(e, n, s), g(e, r, s);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "What were your high scores this year? 🌸";
+                newText.innerHTML = "Thanks for playing! What were your high scores this year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
@@ -7771,13 +7773,17 @@ var app = (function () {
       a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
     return {
       c() {
-        (t = _("Thanks for playing!"));
+        (t = _("You got today's " + artist + " Heardle within ")),
+          (n = _(o)),
+          (r = _("\n                second")),
+          (s = _(a)),
+          (i = _("."));
       },
       m(e, o) {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "What were your high scores this year? 🌸";
+                newText.innerHTML = "Thanks for playing! What were your high scores this year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
