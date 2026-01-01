@@ -7749,7 +7749,7 @@ var app = (function () {
         g(e, t, s), g(e, n, s), g(e, r, s);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "Thanks for playing! What are your high scores this year? 🌸";
+                newText.innerHTML = "Thanks for playing! What were your high scores last year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
@@ -7783,7 +7783,7 @@ var app = (function () {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "Thanks for playing! What are your high scores this year? 🌸";
+                newText.innerHTML = "Thanks for playing! What were your high scores last year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
@@ -7816,7 +7816,7 @@ var app = (function () {
         g(e, n, t);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "What are your high scores this year? 🌸";
+                newText.innerHTML = "What were your high scores last year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
