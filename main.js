@@ -3284,6 +3284,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH11 SA - The Bridge People No Longer Cross (渡る者の途絶えた橋)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track02",
+        answer: "TH4 LLS - Witching Dream"
+    },
         ],
         Pn
       ).subscribe,
