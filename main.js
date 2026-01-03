@@ -3288,6 +3288,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track02",
         answer: "TH4 LLS - Witching Dream"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track08",
+        answer: "TH13 TD - Welcome to Youkai Temple (妖怪寺へようこそ)"
+    },
         ],
         Pn
       ).subscribe,
