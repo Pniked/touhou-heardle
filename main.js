@@ -3304,6 +3304,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track30",
         answer: "TH9 PoFV - The Mound Where the Flowers Reflect (花の映る塚)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track52",
+        answer: "TH17 WBaWC - The Stone Baby and the Submerged Bovine (石の赤子と水中の牛)"
+    },
         ],
         Pn
       ).subscribe,
