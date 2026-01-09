@@ -3324,6 +3324,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH3 PoDD - Dream of Eternity (久遠の夢)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track54",
+        answer: "TH19 UDoALG - Vampiric Cryptid Chupacabra (吸血怪獣チュパカブラ)"
+    },
         ],
         Pn
       ).subscribe,
