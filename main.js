@@ -3312,6 +3312,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track42",
         answer: "TH18.5 HBM - The Collector's Melancholy Afternoon (コレクターの憂鬱な午後)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/swim-in-a-sakura-colored-sea?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - Swim in a Cherry Blossom-Colored Sea (桜色の海を泳いで)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track66",
+        answer: "TH15.5 AoCF - Sleep Sheep Parade (スリープシープパレード)"
+    },
         ],
         Pn
       ).subscribe,
