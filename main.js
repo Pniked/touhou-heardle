@@ -3328,6 +3328,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track54",
         answer: "TH19 UDoALG - Vampiric Cryptid Chupacabra (吸血怪獣チュパカブラ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track44",
+        answer: "TH14 DDC - Mysterious Purification Rod (不思議なお祓い棒)"
+    },
         ],
         Pn
       ).subscribe,
