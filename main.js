@@ -3332,6 +3332,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track44",
         answer: "TH14 DDC - Mysterious Purification Rod (不思議なお祓い棒)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-reversed-wheel-of-fortune?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - The Reversed Wheel of Fortune (逆転するホイールオブフォーチュン)"
+    },
         ],
         Pn
       ).subscribe,
