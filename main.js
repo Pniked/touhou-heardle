@@ -3336,6 +3336,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-reversed-wheel-of-fortune?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - The Reversed Wheel of Fortune (逆転するホイールオブフォーチュン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track48",
+        answer: "TH20 FW - Fantastic Drift (ファンタスティックドリフト)"
+    },
         ],
         Pn
       ).subscribe,
