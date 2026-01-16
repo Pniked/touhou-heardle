@@ -7809,10 +7809,10 @@ var app = (function () {
         g(e, t, s), g(e, n, s), g(e, r, s);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "Thanks for playing! What were your high scores last year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
+
       p(e, t) {
         3 & t &&
           s !== (s = (e[0].length * e[1].attemptInterval) / 1e3 + "") &&
@@ -7843,7 +7843,6 @@ var app = (function () {
         g(e, t, o), g(e, n, o), g(e, r, o), g(e, s, o), g(e, i, o);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "Thanks for playing! What were your high scores last year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
@@ -7869,14 +7868,13 @@ var app = (function () {
     return {
       c() {
         n = _(
-          "Thanks for playing!"
+          "You didn't get today's " + artist + " Heardle. Better luck tomorrow! ❤️"
         );
       },
       m(e, t) {
         g(e, n, t);
         const linkBreak = document.createElement("br");
                 const newText = document.createElement("p");
-                newText.innerHTML = "What were your high scores last year? 🌸";
                 e.appendChild(linkBreak);
                 e.appendChild(newText);
       },
