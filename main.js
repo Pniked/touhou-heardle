@@ -3340,6 +3340,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track48",
         answer: "TH20 FW - Fantastic Drift (ファンタスティックドリフト)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track56",
+        answer: "TH12.3 UNL - Love-Colored Magic (恋色マジック)"
+    },
         ],
         Pn
       ).subscribe,
