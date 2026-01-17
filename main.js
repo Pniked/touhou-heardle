@@ -3344,6 +3344,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track56",
         answer: "TH12.3 UNL - Love-Colored Magic (恋色マジック)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track58",
+        answer: "TH10 MoF - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"
+    },
         ],
         Pn
       ).subscribe,
