@@ -3348,6 +3348,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track58",
         answer: "TH10 MoF - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track59",
+        answer: "TH17.5 SFW - The Sealed-Away Youkai (封じられた妖怪)"
+    },
         ],
         Pn
       ).subscribe,
