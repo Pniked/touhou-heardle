@@ -3352,6 +3352,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track59",
         answer: "TH17.5 SFW - The Sealed-Away Youkai (封じられた妖怪)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track69",
+        answer: "TH1 HRtP - Iris (アイリス)"
+    },
         ],
         Pn
       ).subscribe,
