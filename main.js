@@ -3356,6 +3356,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track69",
         answer: "TH1 HRtP - Iris (アイリス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track60",
+        answer: "TH16.5 VD - Nightmare Diary (ナイトメアダイアリー)"
+    },
         ],
         Pn
       ).subscribe,
