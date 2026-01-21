@@ -117,7 +117,7 @@ let _metadata = createMetadata({
  //Touhou 7 OST
  "TH7 PCB - Ghostly Dream ~ Snow or Cherry Petal (妖々夢 ～ Snow or Cherry Petal)":["TH7"],
  "TH7 PCB - Paradise ~ Deep Mountain (無何有の郷 ～ Deep Mountain)":["TH7"],
- "TH7 PCB - The Fantastic Legend of Tohno (遠野幻想物語)":["TH7"],
+ "TH7 PCB - The Fantastic Tales from Tono (遠野幻想物語)":["TH7"],
  "TH7 PCB - Diao Ye Zong (withered leaf) (ティアオイエツォン(withered leaf))":["TH7"],
  "TH7 PCB - The Doll Maker of Bucuresti (ブクレシュティの人形師)":["TH7"],
  "TH7 PCB - Doll Judgement ~ The Girl Who Played with People's Shapes (人形裁判 ～ 人の形弄びし少女)" :["TH7"],
