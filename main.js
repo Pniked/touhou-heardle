@@ -3360,6 +3360,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track60",
         answer: "TH16.5 VD - Nightmare Diary (ナイトメアダイアリー)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/the-fantastic-tales-from-tono?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - The Fantastic Legend of Tohno (遠野幻想物語)"
+    },
         ],
         Pn
       ).subscribe,
