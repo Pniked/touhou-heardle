@@ -122,7 +122,7 @@ var app = (function () {
  //Touhou 7 OST
  "TH7 PCB - Ghostly Dream ~ Snow or Cherry Petal (妖々夢 ～ Snow or Cherry Petal)",
  "TH7 PCB - Paradise ~ Deep Mountain (無何有の郷 ～ Deep Mountain)",
- "TH7 PCB - The Fantastic Legend of Tohno (遠野幻想物語)",
+ "TH7 PCB - The Fantastic Tales from Tono (遠野幻想物語)",
  "TH7 PCB - Diao Ye Zong (withered leaf) (ティアオイエツォン(withered leaf))",
  "TH7 PCB - The Doll Maker of Bucuresti (ブクレシュティの人形師)",
  "TH7 PCB - Doll Judgement ~ The Girl Who Played with People's Shapes (人形裁判 ～ 人の形弄びし少女)" ,
@@ -2214,7 +2214,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-764752693/vfcxlhpf3cvp?in=graptore-vhs/sets/all-touhou-songs-1-19&si=a83a118292ea469f9ab95d99af129156&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-        answer: "TH7 PCB - The Fantastic Legend of Tohno (遠野幻想物語)"
+        answer: "TH7 PCB - The Fantastic Tales from Tono (遠野幻想物語)"
     },
     {
         url: "https://soundcloud.com/user-544138399/sky-dream?in=graptore-vhs/sets/all-touhou-songs-1-19&si=c0445bf28e704c6c9c19fc338740577e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
@@ -3362,7 +3362,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/kazamis-other-music-alt/the-fantastic-tales-from-tono?in=yuli0/sets/all-touhou-ost",
-        answer: "TH7 PCB - The Fantastic Legend of Tohno (遠野幻想物語)"
+        answer: "TH7 PCB - The Fantastic Tales from Tono (遠野幻想物語)"
     },
         ],
         Pn
