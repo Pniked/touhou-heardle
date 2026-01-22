@@ -3364,6 +3364,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/the-fantastic-tales-from-tono?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - The Fantastic Tales from Tono (遠野幻想物語)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track01",
+        answer: "TH14 DDC - Bamboo Forest of the Full Moon (満月の竹林)"
+    },
         ],
         Pn
       ).subscribe,
