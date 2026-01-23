@@ -3368,6 +3368,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track01",
         answer: "TH14 DDC - Bamboo Forest of the Full Moon (満月の竹林)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track71",
+        answer: "TH12 UFO - A Tiny, Tiny, Clever Commander (小さな小さな賢将)"
+    },
         ],
         Pn
       ).subscribe,
