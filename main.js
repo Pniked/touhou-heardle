@@ -3372,6 +3372,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track71",
         answer: "TH12 UFO - A Tiny, Tiny, Clever Commander (小さな小さな賢将)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track72",
+        answer: "TH17 WBaWC - Beast Metropolis (ビーストメトロポリス)"
+    },
         ],
         Pn
       ).subscribe,
