@@ -3376,6 +3376,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track72",
         answer: "TH17 WBaWC - Beast Metropolis (ビーストメトロポリス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track77",
+        answer: "TH14.5 ULiL - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)"
+    },
         ],
         Pn
       ).subscribe,
