@@ -3380,6 +3380,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track77",
         answer: "TH14.5 ULiL - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track74",
+        answer: "TH9.5 StB - Retrospective Kyoto (レトロスペクティブ京都)"
+    },
         ],
         Pn
       ).subscribe,
