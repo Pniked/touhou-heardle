@@ -423,7 +423,7 @@ let _metadata = createMetadata({
  "TH14.5 ULiL - Hartmann's Youkai Girl (ハルトマンの妖怪少女)":["TH14.5"],
  "TH14.5 ULiL - The Arcane Is Revealed (明かされる深秘)":["TH14.5"],
  "TH14.5 ULiL - Battlefield of the Flower Threshold (華狭間のバトルフィールド)":["TH14.5"],
- "TH14.5 ULiL - Reach for the Moon Immortal Smoke (月まで届け、不死の煙)":["TH14.5"],
+ "TH14.5 ULiL - Reach for the Moon, Immortal Smoke (月まで届け、不死の煙)":["TH14.5"],
  "TH14.5 ULiL - Outside World Folklore (外界フォークロア)":["TH14.5"],
  "TH14.5 ULiL - Last Occultism ~ Esotericist of the Present World (ラストオカルティズム ～ 現し世の秘術師)":["TH14.5"],
  "TH14.5 ULiL - Each Ending (各々の結末)":["TH14.5"],
