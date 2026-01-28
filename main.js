@@ -3388,6 +3388,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track73",
         answer: "TH11 SA - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (霊知の太陽信仰 ～ Nuclear Fusion)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track75",
+        answer: "TH8 IN - Extend Ash ~ Person of Hourai (エクステンドアッシュ ～ 蓬莱人)"
+    },
         ],
         Pn
       ).subscribe,
