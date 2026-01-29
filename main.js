@@ -3392,6 +3392,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track75",
         answer: "TH8 IN - Extend Ash ~ Person of Hourai (エクステンドアッシュ ～ 蓬莱人)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track78",
+        answer: "TH5 MS - Doll of Misery (悲しき人形　～ Doll of Misery)"
+    },
         ],
         Pn
       ).subscribe,
