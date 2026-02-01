@@ -3404,6 +3404,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH9 PoFV - The Flowers Remain in Fantasy (花は幻想のままに)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track27",
+        answer: "TH7.5 IaMP - Lunar Clock ~ Luna Dial (月時計 ～ ルナ・ダイアル)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track18",
+        answer: "TH6 EoSD - A Dream More Scarlet than Red (赤より紅い夢)"
+    },
         ],
         Pn
       ).subscribe,
