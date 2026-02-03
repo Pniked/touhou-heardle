@@ -3412,6 +3412,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track18",
         answer: "TH6 EoSD - A Dream More Scarlet than Red (赤より紅い夢)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track31",
+        answer: "TH13.5 HM - Omiwa Legend (大神神話伝)"
+    },
         ],
         Pn
       ).subscribe,
