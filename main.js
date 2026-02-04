@@ -3416,6 +3416,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track31",
         answer: "TH13.5 HM - Omiwa Legend (大神神話伝)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH19 UDoALG - The World Is Made in an Adorable Way (世界は可愛く出来ている)"
+    },
         ],
         Pn
       ).subscribe,
