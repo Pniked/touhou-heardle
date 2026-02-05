@@ -3420,6 +3420,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track32",
         answer: "TH19 UDoALG - The World Is Made in an Adorable Way (世界は可愛く出来ている)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track34",
+        answer: "TH16 HSiFS - Secret God Matara ~ Hidden Star in All Seasons. (秘神マターラ ～ Hidden Star in All Seasons.)"
+    },
         ],
         Pn
       ).subscribe,
