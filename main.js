@@ -3424,6 +3424,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track34",
         answer: "TH16 HSiFS - Secret God Matara ~ Hidden Star in All Seasons. (秘神マターラ ～ Hidden Star in All Seasons.)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track37",
+        answer: "TH2 SoEW - Love-Colored Magic (恋色マジック)"
+    },
         ],
         Pn
       ).subscribe,
