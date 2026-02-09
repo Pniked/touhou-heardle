@@ -3436,6 +3436,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-faraway-380000-kilometer-voyage?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - Faraway Voyage of 380,000 Kilometers (遥か38万キロのボヤージュ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track61",
+        answer: "TH12.8 GFW - The Refrain of the Lovely Great War (可愛い大戦争のリフレーン)"
+    },
         ],
         Pn
       ).subscribe,
