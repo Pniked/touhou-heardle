@@ -3440,6 +3440,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track61",
         answer: "TH12.8 GFW - The Refrain of the Lovely Great War (可愛い大戦争のリフレーン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track62",
+        answer: "TH14 DDC - Magical Storm (マジカルストーム)"
+    },
         ],
         Pn
       ).subscribe,
