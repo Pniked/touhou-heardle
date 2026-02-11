@@ -3444,6 +3444,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track62",
         answer: "TH14 DDC - Magical Storm (マジカルストーム)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track64",
+        answer: "TH15.5 AoCF - Flawless as Clothing of the Celestials ~ Yellow Lily (天衣無縫 ～ Yellow Lily)"
+    },
         ],
         Pn
       ).subscribe,
