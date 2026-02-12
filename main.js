@@ -3448,6 +3448,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track64",
         answer: "TH15.5 AoCF - Flawless as Clothing of the Celestials ~ Yellow Lily (天衣無縫 ～ Yellow Lily)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track65",
+        answer: "TH12 UFO - Beware the Umbrella Left There Forever (万年置き傘にご注意を)"
+    },
         ],
         Pn
       ).subscribe,
