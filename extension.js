@@ -392,7 +392,7 @@ let _metadata = createMetadata({
  "TH14 DDC - Lonesome Werewolf (孤独なウェアウルフ)":["TH14"],
  "TH14 DDC - Magical Storm (マジカルストーム)":["TH14"],
  "TH14 DDC - Illusionary Joururi (幻想浄瑠璃)":["TH14"],
- "TH14 DDC - Mysterious Mysterious Tools (不思議な不思議な道具達)":["TH14"],
+ "TH14 DDC - Mysterious, Mysterious Tools (不思議な不思議な道具達)":["TH14"],
  "TH14 DDC - The Shining Needle Castle Sinking in the Air (空中に沈む輝針城)":["TH14"],
  "TH14 DDC - Reverse Ideology (リバースイデオロギー)":["TH14"],
  "TH14 DDC - The Exaggerated Castle Keep (針小棒大の天守閣)":["TH14"],
