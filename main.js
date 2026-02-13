@@ -3452,6 +3452,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track65",
         answer: "TH12 UFO - Beware the Umbrella Left There Forever (万年置き傘にご注意を)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track67",
+        answer: "TH7 PCB - Doll Judgement ~ The Girl Who Played with People's Shapes (人形裁判 ～ 人の形弄びし少女)"        
+    },
         ],
         Pn
       ).subscribe,
