@@ -3456,6 +3456,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track67",
         answer: "TH7 PCB - Doll Judgement ~ The Girl Who Played with People's Shapes (人形裁判 ～ 人の形弄びし少女)"        
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track68",
+        answer: "TH14.3 ISC - Raise the Signal Fire of Cheating (反則の狼煙を上げろ)"
+    },
         ],
         Pn
       ).subscribe,
