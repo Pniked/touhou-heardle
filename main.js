@@ -3460,6 +3460,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track68",
         answer: "TH14.3 ISC - Raise the Signal Fire of Cheating (反則の狼煙を上げろ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track10",
+        answer: "TH4 LLS - Decoration Battle (装飾戦 ～ Decoration Battle)"
+    },
         ],
         Pn
       ).subscribe,
@@ -7557,7 +7561,7 @@ var app = (function () {
   }
   const Vt = {
       attemptInterval: 1.5e3,
-      attemptIntervalAlt: [2.5e3, 5.5e3, 10e3, 15e3, 25e3, 55e3],
+      attemptIntervalAlt: [2.5e3, 5.5e3, 10e3, 15e3, 25e3, 50e3],
       maxAttempts: 6,
       startDate: startDate,
     },
