@@ -3464,6 +3464,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track10",
         answer: "TH4 LLS - Decoration Battle (装飾戦 ～ Decoration Battle)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track12",
+        answer: "TH12.5 DS - The Mystery in Your Town (あなたの町の怪事件)"
+    },
         ],
         Pn
       ).subscribe,
