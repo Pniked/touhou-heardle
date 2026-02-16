@@ -3,21 +3,6 @@ var app = (function () {
   var twitter = 'Conju'
   var startDate = "2024-03-13"
     const Cn = ue([
- //Touhou 1 OST
- "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)",
- "TH1 HRtP - A Sacred Lot",
- "TH1 HRtP - A Soul Devoted to the Gods ~ Highly Responsive to Prayers (神へ捧げる魂 ～ Highly Responsive to Prayers)",
- "TH1 HRtP - Eastern Tale of Fancy (東方怪奇談)",
- "TH1 HRtP - Oriental Magician",
- "TH1 HRtP - Magic Mirror (魔鏡)",
- "TH1 HRtP - Yin and Yang ~ The Positive and Negative (陰陽 ～ The Positive and Negative)",
- "TH1 HRtP - Small Evil-Crushing Blade (破邪の小太刀)",
- "TH1 HRtP - the Legend of KAGE",
- "TH1 HRtP - Angel's Legend (天使伝説)",
- "TH1 HRtP - Now, Until the Moment You Die (いざ、倒れ逝くその時まで)",
- "TH1 HRtP - Civilization of Magic/We Shall Die Together/Theme of Turning to Hell (Theme of 地獄めくり / 死なばもろとも)",
- "TH1 HRtP - Angel of a Distant Star ~ The Alice in Wonderland Angel/Swordsman of a Distant Star (星幽天使 ～ The Alice in Wonderland Angel / 星幽剣士)",
- "TH1 HRtP - Iris (アイリス)",
  //Touhou 2 OST
  "TH2 SoEW - Hakurei ~ Eastern Wind (博麗 ～ Eastern Wind)",
  "TH2 SoEW - She's In A Temper!!",
@@ -634,6 +619,21 @@ var app = (function () {
  "TH20 FW - Unchanging Daily Life (不変の日常)",
  "TH20 FW - Beloved Daily Life (愛おしき日常)",
  "TH20 FW - To a World With Life and Death (生と死のある世界へ)",
+ //Touhou 1 OST
+ "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)",
+ "TH1 HRtP - A Sacred Lot",
+ "TH1 HRtP - A Soul Devoted to the Gods ~ Highly Responsive to Prayers (神へ捧げる魂 ～ Highly Responsive to Prayers)",
+ "TH1 HRtP - Eastern Tale of Fancy (東方怪奇談)",
+ "TH1 HRtP - Oriental Magician",
+ "TH1 HRtP - Magic Mirror (魔鏡)",
+ "TH1 HRtP - Yin and Yang ~ The Positive and Negative (陰陽 ～ The Positive and Negative)",
+ "TH1 HRtP - Small Evil-Crushing Blade (破邪の小太刀)",
+ "TH1 HRtP - the Legend of KAGE",
+ "TH1 HRtP - Angel's Legend (天使伝説)",
+ "TH1 HRtP - Now, Until the Moment You Die (いざ、倒れ逝くその時まで)",
+ "TH1 HRtP - Civilization of Magic/We Shall Die Together/Theme of Turning to Hell (Theme of 地獄めくり / 死なばもろとも)",
+ "TH1 HRtP - Angel of a Distant Star ~ The Alice in Wonderland Angel/Swordsman of a Distant Star (星幽天使 ～ The Alice in Wonderland Angel / 星幽剣士)",
+ "TH1 HRtP - Iris (アイリス)",
 
       //Don't continue if you want to play the game legitimately!!!
     ]),
@@ -3467,6 +3467,34 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track12",
         answer: "TH12.5 DS - The Mystery in Your Town (あなたの町の怪事件)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track13",
+        answer: "TH13 TD - Desire Dream (デザイアドリーム)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track20",
+        answer: "TH10 MoF - The Venerable Ancient Battlefield ~ Suwa Foughten Field (神さびた古戦場 ～ Suwa Foughten Field)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track21",
+        answer: "TH9 PoFV - Deaf to All but the Song ~ Flower Mix (もう歌しか聞こえない ～ Flower Mix)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track22",
+        answer: "TH11 SA - Hellfire Mantle (業火マントル)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH12.3 UNL - The Eternal Steam Engine (悠久の蒸気機関)"
+    },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-wonders-9?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Even if Forgotten by the World (例え世界から忘れられても)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track36",
+        answer: "TH3 PoDD - Vanishing Dream ~ Lost Dream (夢消失 ～ Lost Dream)"
     },
         ],
         Pn
