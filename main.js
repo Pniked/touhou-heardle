@@ -3496,6 +3496,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track36",
         answer: "TH3 PoDD - Vanishing Dream ~ Lost Dream (夢消失 ～ Lost Dream)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track40",
+        answer: "TH8 IN - Wriggling Autumn Moon ~ Mooned Insect (蠢々秋月 ～ Mooned Insect)"
+    },
         ],
         Pn
       ).subscribe,
