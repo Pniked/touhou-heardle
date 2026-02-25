@@ -3500,6 +3500,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track40",
         answer: "TH8 IN - Wriggling Autumn Moon ~ Mooned Insect (蠢々秋月 ～ Mooned Insect)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH14.5 ULiL - Emotional Skyscraper ~ Cosmic Mind (感情の摩天楼 ～ Cosmic Mind)"
+    },
         ],
         Pn
       ).subscribe,
