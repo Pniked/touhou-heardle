@@ -3504,6 +3504,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH14.5 ULiL - Emotional Skyscraper ~ Cosmic Mind (感情の摩天楼 ～ Cosmic Mind)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-a-never-before-seen-world-of-nightmares?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - A World of Nightmares Never Seen Before (見た事も無い悪夢の世界)"
+    },
         ],
         Pn
       ).subscribe,
