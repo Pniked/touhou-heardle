@@ -3508,6 +3508,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-a-never-before-seen-world-of-nightmares?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - A World of Nightmares Never Seen Before (見た事も無い悪夢の世界)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track45",
+        answer: "TH14 DDC - Thunderclouds of Magical Power (魔力の雷雲)"
+    },
         ],
         Pn
       ).subscribe,
