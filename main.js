@@ -3516,6 +3516,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track47",
         answer: "TH18 UM - Smoking Dragon (スモーキングドラゴン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track50",
+        answer: "TH16 HSiFS - Deep-Mountain Encounter (山奥のエンカウンター)"
+    },
         ],
         Pn
       ).subscribe,
