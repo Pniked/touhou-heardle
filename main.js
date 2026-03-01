@@ -3512,6 +3512,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track45",
         answer: "TH14 DDC - Thunderclouds of Magical Power (魔力の雷雲)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track47",
+        answer: "TH18 UM - Smoking Dragon (スモーキングドラゴン)"
+    },
         ],
         Pn
       ).subscribe,
