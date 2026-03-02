@@ -3520,6 +3520,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track50",
         answer: "TH16 HSiFS - Deep-Mountain Encounter (山奥のエンカウンター)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track51",
+        answer: "TH9.5 StB - Tengu's Notebook ~ Mysterious Note (天狗の手帖 ～ Mysterious Note)"
+    },
         ],
         Pn
       ).subscribe,
