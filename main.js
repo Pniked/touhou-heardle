@@ -3524,6 +3524,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track51",
         answer: "TH9.5 StB - Tengu's Notebook ~ Mysterious Note (天狗の手帖 ～ Mysterious Note)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track53",
+        answer: "TH7 PCB - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)"
+    },
         ],
         Pn
       ).subscribe,
