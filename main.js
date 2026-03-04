@@ -3528,6 +3528,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH7 PCB - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track05",
+        answer: "TH13 TD - The Hall of Dreams' Great Mausoleum (夢殿大祀廟)"
+    },
         ],
         Pn
       ).subscribe,
