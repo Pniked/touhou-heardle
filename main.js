@@ -3532,6 +3532,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH13 TD - The Hall of Dreams' Great Mausoleum (夢殿大祀廟)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track06",
+        answer: "TH13.5 HM - Performer Selection (演者選択)"
+    },
         ],
         Pn
       ).subscribe,
