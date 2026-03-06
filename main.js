@@ -3536,6 +3536,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track06",
         answer: "TH13.5 HM - Performer Selection (演者選択)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH5 MS - Maple Wise (メイプルワイズ)"
+    },
         ],
         Pn
       ).subscribe,
