@@ -3540,6 +3540,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH5 MS - Maple Wise (メイプルワイズ)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/shanghai-teahouse-chinese-tea?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館 ～ Chinese Tea)"
+    },
         ],
         Pn
       ).subscribe,
