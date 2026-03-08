@@ -3544,6 +3544,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/shanghai-teahouse-chinese-tea?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館 ～ Chinese Tea)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH11 SA - Awakening of the Earth Spirits (地霊達の起床)"
+    },
         ],
         Pn
       ).subscribe,
