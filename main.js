@@ -3548,6 +3548,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track14",
         answer: "TH11 SA - Awakening of the Earth Spirits (地霊達の起床)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track15",
+        answer: "TH7.5 IaMP - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)"
+    },
         ],
         Pn
       ).subscribe,
