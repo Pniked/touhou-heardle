@@ -3552,6 +3552,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track15",
         answer: "TH7.5 IaMP - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track18",
+        answer: "TH12 UFO - The Sealed Cloud Route (閉ざせし雲の通い路)"
+    },
         ],
         Pn
       ).subscribe,
