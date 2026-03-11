@@ -3556,6 +3556,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track18",
         answer: "TH12 UFO - The Sealed Cloud Route (閉ざせし雲の通い路)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-rabbit-has-landed?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - The Rabbit Has Landed (兎は舞い降りた)"
+    },
         ],
         Pn
       ).subscribe,
