@@ -3560,6 +3560,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-rabbit-has-landed?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - The Rabbit Has Landed (兎は舞い降りた)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH18 UM - Starry Mountain of Tenma (星降る天魔の山)"
+    },
         ],
         Pn
       ).subscribe,
