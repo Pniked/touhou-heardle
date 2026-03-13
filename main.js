@@ -3564,6 +3564,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH18 UM - Starry Mountain of Tenma (星降る天魔の山)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track31",
+        answer: "TH10.5 SWR - The Doll Maker of Bucuresti (ブクレシュティの人形師)"
+    },
         ],
         Pn
       ).subscribe,
