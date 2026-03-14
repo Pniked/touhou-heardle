@@ -3568,6 +3568,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track31",
         answer: "TH10.5 SWR - The Doll Maker of Bucuresti (ブクレシュティの人形師)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH2 SoEW - World of Fantasies (幻夢界)"
+    },
         ],
         Pn
       ).subscribe,
