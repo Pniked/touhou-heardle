@@ -3572,6 +3572,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track32",
         answer: "TH2 SoEW - World of Fantasies (幻夢界)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/a-maidens-illusionary-funeral?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - A Maiden's Illusionary Funeral ~ Necro-Fantasy (少女幻葬 ～ Necro-Fantasy)"
+    },
         ],
         Pn
       ).subscribe,
