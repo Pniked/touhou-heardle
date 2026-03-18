@@ -3584,6 +3584,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track37",
         answer: "TH8 IN - Eternal Dream ~ Mystic Maple (Eternal Dream ～ 幽玄の槭樹)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track38",
+        answer: "TH10 MoF - Youkai Mountain ~ Mysterious Mountain (妖怪の山 ～ Mysterious Mountain)"
+    },
         ],
         Pn
       ).subscribe,
