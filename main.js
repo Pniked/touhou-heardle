@@ -3588,6 +3588,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track38",
         answer: "TH10 MoF - Youkai Mountain ~ Mysterious Mountain (妖怪の山 ～ Mysterious Mountain)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track39",
+        answer: "TH14 DDC - Illusionary Joururi (幻想浄瑠璃)"
+    },
         ],
         Pn
       ).subscribe,
