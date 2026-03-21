@@ -3596,6 +3596,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track49",
         answer: "TH12.3 UNL - Unknown X ~ Unfound Adventure (アンノウンＸ ～ Unfound Adventure)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track57",
+        answer: "TH19 UDoALG - A Beast's Intelligence (獣の知性)"
+    },
         ],
         Pn
       ).subscribe,
