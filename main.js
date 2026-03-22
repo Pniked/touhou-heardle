@@ -3600,6 +3600,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track57",
         answer: "TH19 UDoALG - A Beast's Intelligence (獣の知性)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-no-more-going-through-doors?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - No More Going Through Doors (もうドアには入れない)"
+    },
         ],
         Pn
       ).subscribe,
