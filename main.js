@@ -3604,6 +3604,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-no-more-going-through-doors?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - No More Going Through Doors (もうドアには入れない)"
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-4486513?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Reminiscence of Deer Hunting (鹿狩りのレミニセンス)"
+    },
         ],
         Pn
       ).subscribe,
