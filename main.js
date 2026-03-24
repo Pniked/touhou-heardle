@@ -3608,6 +3608,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-4486513?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Reminiscence of Deer Hunting (鹿狩りのレミニセンス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track58",
+        answer: "TH9 PoFV - Spring Lane ~ Colorful Path (春色小径 ～ Colorful Path)"
+    },
         ],
         Pn
       ).subscribe,
