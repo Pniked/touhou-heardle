@@ -3612,6 +3612,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track58",
         answer: "TH9 PoFV - Spring Lane ~ Colorful Path (春色小径 ～ Colorful Path)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track65",
+        answer: "TH4 LLS - Gensokyo ~ Lotus Land Story (幻想郷 ～ Lotus Land Story)"
+    },
         ],
         Pn
       ).subscribe,
