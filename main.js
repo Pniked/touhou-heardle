@@ -3624,6 +3624,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH17.5 SFW - A Flower-Studded Sake Dish on Mt. Ooe (華のさかづき大江山)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/voile-the-magic-library?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Voile, the Magic Library (ヴワル魔法図書館)"
+    },
         ],
         Pn
       ).subscribe,
