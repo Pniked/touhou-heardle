@@ -3628,6 +3628,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/voile-the-magic-library?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - Voile, the Magic Library (ヴワル魔法図書館)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track16",
+        answer: "TH12.8 GFW - Magus Night (メイガスナイト)"
+    },
         ],
         Pn
       ).subscribe,
