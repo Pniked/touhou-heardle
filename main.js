@@ -3632,6 +3632,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track16",
         answer: "TH12.8 GFW - Magus Night (メイガスナイト)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track19",
+        answer: "TH12 UFO - The Traditional Old Man and the Stylish Girl (時代親父とハイカラ少女)"
+    },
         ],
         Pn
       ).subscribe,
