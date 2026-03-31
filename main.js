@@ -5267,7 +5267,7 @@ var app = (function () {
           e[15]
             ? e[4].isPrime
               ? e[8].slice(-1)[0]
-              : e[2].maxAttempts * e[2].attemptInterval
+              : e[2].maxAttempts * e[2].attempt
             : e[3]
         ) + "",
       N = !e[12] && 1 == e[0] && tt();
@@ -5560,7 +5560,7 @@ var app = (function () {
                     e[15]
                       ? e[4].isPrime
                         ? e[8].slice(-1)[0]
-                        : e[2].maxAttempts * e[2].attemptInterval
+                        : e[2].maxAttempts * e[2].attempt
                       : e[3]
                   ) + "") &&
               $(O, L);
@@ -5703,7 +5703,7 @@ var app = (function () {
   }
   function it(e) {
     let t,
-      n = Array(Math.floor(e[3] / e[2].attemptInterval)),
+      n = Array(Math.floor(e[3] / e[2].attempt)),
       r = [];
     for (let t = 0; t < n.length; t += 1) r[t] = at(ze(e, n, t));
     return {
@@ -5720,7 +5720,7 @@ var app = (function () {
           const s = n.length;
           let i;
           for (
-            n = Array(Math.floor(e[3] / e[2].attemptInterval)), i = s;
+            n = Array(Math.floor(e[3] / e[2].attempt)), i = s;
             i < n.length;
             i += 1
           )
@@ -6058,8 +6058,8 @@ var app = (function () {
                 1 == s
                   ? p.isPrime
                     ? (n(10, (v = (w / u) * 100)), w > u && M())
-                    : (n(10, (v = (w / (d * f.attemptInterval)) * 100)),
-                      w > d * f.attemptInterval && M())
+                    : (n(10, (v = (w / (d * f.attempt)) * 100)),
+                      w > d * f.attempt && M())
                   : (n(10, (v = (w / m) * 100)), w > m && M());
             });
         }
@@ -6094,7 +6094,7 @@ var app = (function () {
           16 & e.$$.dirty[0] && n(15, (s = p.gameIsActive)),
           16 & e.$$.dirty[0] && n(17, (i = p.playerIsReady)),
           1 & e.$$.dirty[0] && n(7, (o = d)),
-          4 & e.$$.dirty[0] && n(8, (a = f.attemptIntervalAlt)),
+          4 & e.$$.dirty[0] && n(8, (a = f.attemptAlt)),
           405 & e.$$.dirty[0] &&
             n(
               16,
@@ -7736,8 +7736,8 @@ var app = (function () {
     }
   }
   const Vt = {
-      attemptInterval: 1.5e3,
-      attemptIntervalAlt: [2.5e3, 5.5e3, 10e3, 15e3, 25e3, 50e3],
+      attempt: 1.5e3,
+      attemptIntervalAlt: [5e3, 10e3, 15e3, 20e3, 25e3, 50e3],
       maxAttempts: 6,
       startDate: startDate,
     },
