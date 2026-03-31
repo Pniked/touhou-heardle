@@ -3636,6 +3636,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track19",
         answer: "TH12 UFO - The Traditional Old Man and the Stylish Girl (時代親父とハイカラ少女)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/secret-chinese-track",
+        answer: "TH6 EoSD - U.N. Owen Was Her? (U.N.オーエンは彼女なのか？)"
+    },
         ],
         Pn
       ).subscribe,
