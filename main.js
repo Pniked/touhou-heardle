@@ -3640,6 +3640,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/secret-chinese-track",
         answer: "TH6 EoSD - U.N. Owen Was Her? (U.N.オーエンは彼女なのか？)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-space-shrine-maiden-returns-home?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - The Space Shrine Maiden Returns Home (宇宙巫女帰還する)"
+    },
         ],
         Pn
       ).subscribe,
