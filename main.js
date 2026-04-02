@@ -3644,6 +3644,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-space-shrine-maiden-returns-home?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - The Space Shrine Maiden Returns Home (宇宙巫女帰還する)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track10",
+        answer: "TH3 PoDD - Decisive Magic Battle! ~ Fight it out! (魔法決戦！ ～ Fight it out!)"
+    },
         ],
         Pn
       ).subscribe,
