@@ -3648,6 +3648,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track10",
         answer: "TH3 PoDD - Decisive Magic Battle! ~ Fight it out! (魔法決戦！ ～ Fight it out!)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track12",
+        answer: "TH18 UM - A Shower of Strange Occurrences (妖異達の通り雨)"
+    },
         ],
         Pn
       ).subscribe,
