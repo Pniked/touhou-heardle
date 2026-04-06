@@ -3660,6 +3660,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH10.5 SWR - Flowering Night (フラワリングナイト)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track28",
+        answer: "TH10 MoF - The Primal Scene of Japan the Girl Saw (少女が見た日本の原風景)"
+    },
         ],
         Pn
       ).subscribe,
