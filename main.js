@@ -3664,6 +3664,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track28",
         answer: "TH10 MoF - The Primal Scene of Japan the Girl Saw (少女が見た日本の原風景)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track29",
+        answer: "TH11 SA - The Sealed-Away Youkai ~ Lost Place (封じられた妖怪 ～ Lost Place)"
+    },
         ],
         Pn
       ).subscribe,
