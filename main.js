@@ -3668,6 +3668,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track29",
         answer: "TH11 SA - The Sealed-Away Youkai ~ Lost Place (封じられた妖怪 ～ Lost Place)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track43",
+        answer: "TH13 TD - Shoutoku Legend ~ True Administrator (聖徳伝説 ～ True Administrator)"
+    },
         ],
         Pn
       ).subscribe,
