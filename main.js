@@ -3674,7 +3674,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track46",
-        answer: "TH7.5 IaMP - Swift Battle (戦迅)"
+        answer: "TH7.5 IaMP - Hiroari Shoots A Strange Bird ~ Till When? (広有射怪鳥事 ～ Till When?)"
     },
         ],
         Pn
