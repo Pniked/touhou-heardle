@@ -135,7 +135,7 @@ var app = (function () {
  "TH7.5 IaMP - The Doll Maker of Bucuresti (ブクレシュティの人形師)",
  "TH7.5 IaMP - Locked Girl ~ Girl's Secret Room (ラクトガール ～ 少女密室)",
  "TH7.5 IaMP - Voile, the Magic Library (ヴワル魔法図書館)",
- "TH7.5 IaMP - Hiroari Shoots A Strange Bird ~ Till When (広有射怪鳥事 ～ Till When?)",
+ "TH7.5 IaMP - Hiroari Shoots A Strange Bird ~ Till When? (広有射怪鳥事 ～ Till When?)",
  "TH7.5 IaMP - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)",
  "TH7.5 IaMP - Septette for a Dead Princess (亡き王女の為のセプテット)",
  "TH7.5 IaMP - Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)",
@@ -3671,6 +3671,10 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track43",
         answer: "TH13 TD - Shoutoku Legend ~ True Administrator (聖徳伝説 ～ True Administrator)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track46",
+        answer: "TH7.5 IaMP - Swift Battle (戦迅)"
     },
         ],
         Pn
