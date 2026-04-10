@@ -3676,6 +3676,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track46",
         answer: "TH7.5 IaMP - Hiroari Shoots A Strange Bird ~ Till When? (広有射怪鳥事 ～ Till When?)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track53",
+        answer: "TH14 DDC - Mysterious, Mysterious Tools (不思議な不思議な道具達)"
+    },
         ],
         Pn
       ).subscribe,
