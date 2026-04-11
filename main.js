@@ -3680,6 +3680,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH14 DDC - Mysterious, Mysterious Tools (不思議な不思議な道具達)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/ghostly-band-phantom-ensemble?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Phantom Band ~ Phantom Ensemble (幽霊楽団 ～ Phantom Ensemble)"
+    },
         ],
         Pn
       ).subscribe,
