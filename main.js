@@ -3684,6 +3684,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/ghostly-band-phantom-ensemble?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Phantom Band ~ Phantom Ensemble (幽霊楽団 ～ Phantom Ensemble)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track67",
+        answer: "TH8 IN - Plain Asia (プレインエイジア)"
+    },
         ],
         Pn
       ).subscribe,
