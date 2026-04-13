@@ -3688,6 +3688,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track67",
         answer: "TH8 IN - Plain Asia (プレインエイジア)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH2 SoEW - The Tank Girl's Dream (戦車むすめのみるゆめ)"
+    },
         ],
         Pn
       ).subscribe,
