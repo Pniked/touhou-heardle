@@ -3692,6 +3692,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track14",
         answer: "TH2 SoEW - The Tank Girl's Dream (戦車むすめのみるゆめ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track22",
+        answer: "TH16.5 VD - Nightmare Journal (悪夢日記)"
+    },
         ],
         Pn
       ).subscribe,
