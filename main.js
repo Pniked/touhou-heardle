@@ -3696,6 +3696,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track22",
         answer: "TH16.5 VD - Nightmare Journal (悪夢日記)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track36",
+        answer: "TH17 WBaWC - Unlocated Hell (アンロケイテッドヘル)"
+    },
         ],
         Pn
       ).subscribe,
