@@ -3700,6 +3700,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track36",
         answer: "TH17 WBaWC - Unlocated Hell (アンロケイテッドヘル)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track40",
+        answer: "TH9 PoFV - Wind God Girl (Short Version) (風神少女 (Short Version))"
+    },
         ],
         Pn
       ).subscribe,
