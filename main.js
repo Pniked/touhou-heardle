@@ -3704,6 +3704,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track40",
         answer: "TH9 PoFV - Wind God Girl (Short Version) (風神少女 (Short Version))"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-the-magic-straw-hat-jizo?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - The Magic Straw-Hat Jizo (魔法の笠地蔵)"
+    },
         ],
         Pn
       ).subscribe,
