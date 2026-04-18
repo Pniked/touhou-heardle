@@ -3708,6 +3708,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-16-hsifs-the-magic-straw-hat-jizo?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - The Magic Straw-Hat Jizo (魔法の笠地蔵)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/a-soul-as-red-as-a-ground?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - A Soul as Scarlet as a Ground Cherry (ほおずきみたいに紅い魂)"
+    },
         ],
         Pn
       ).subscribe,
