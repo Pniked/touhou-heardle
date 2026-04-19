@@ -3712,6 +3712,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/a-soul-as-red-as-a-ground?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - A Soul as Scarlet as a Ground Cherry (ほおずきみたいに紅い魂)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH12 UFO - A Shadow in the Blue Sky (青空の影)"
+    },
         ],
         Pn
       ).subscribe,
