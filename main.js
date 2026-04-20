@@ -3716,6 +3716,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH12 UFO - A Shadow in the Blue Sky (青空の影)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track45",
+        answer: "TH19 UDoALG - Tiny Shangri-La (タイニーシャングリラ)"
+    },
         ],
         Pn
       ).subscribe,
