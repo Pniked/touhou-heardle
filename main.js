@@ -3720,6 +3720,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track45",
         answer: "TH19 UDoALG - Tiny Shangri-La (タイニーシャングリラ)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-pure-furies-whereabouts-of-the-heart?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - Pure Furies ~ Whereabouts of the Heart (ピュアヒューリーズ ～ 心の在処)"
+    },
         ],
         Pn
       ).subscribe,
