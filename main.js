@@ -3728,6 +3728,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track47",
         answer: "TH11 SA - Satori Maiden ~ 3rd eye (少女さとり ～ 3rd eye)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/bloom-nobly-ink-black-cherry?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)"            
+    },
         ],
         Pn
       ).subscribe,
