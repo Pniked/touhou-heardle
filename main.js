@@ -3736,6 +3736,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH14.5 ULiL - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"            
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-66584116?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Watatsuki's Spell Card ~ Divine Sea Battle (綿月のスペルカード 〜 神海戦)"            
+    },
         ],
         Pn
       ).subscribe,
