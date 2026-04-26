@@ -3740,6 +3740,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-66584116?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Watatsuki's Spell Card ~ Divine Sea Battle (綿月のスペルカード　〜 神海戦)"            
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track03",
+        answer: "TH18.5 HBM - An Exciting and Familiar Gensokyo (ワクワクする見慣れた幻想郷)"            
+    },
         ],
         Pn
       ).subscribe,
