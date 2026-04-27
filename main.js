@@ -3744,6 +3744,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track03",
         answer: "TH18.5 HBM - An Exciting and Familiar Gensokyo (ワクワクする見慣れた幻想郷)"            
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track09",
+        answer: "TH10 MoF - Dark Side of Fate (運命のダークサイド)"
+    },
         ],
         Pn
       ).subscribe,
