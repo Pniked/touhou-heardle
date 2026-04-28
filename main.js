@@ -3748,6 +3748,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH10 MoF - Dark Side of Fate (運命のダークサイド)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track16",
+        answer: "TH5 MS - Magic Square (魔法陣 ～ Magic Square)"
+    },
         ],
         Pn
       ).subscribe,
