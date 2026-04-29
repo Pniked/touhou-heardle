@@ -3752,6 +3752,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track16",
         answer: "TH5 MS - Magic Square (魔法陣 ～ Magic Square)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH14 DDC - The Shining Needle Castle Sinking in the Air (空中に沈む輝針城)"
+    },
         ],
         Pn
       ).subscribe,
