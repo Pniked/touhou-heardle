@@ -3756,6 +3756,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH14 DDC - The Shining Needle Castle Sinking in the Air (空中に沈む輝針城)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track34",
+        answer: "TH18 UM - The Sunday After the Storm (嵐の後の日曜日)"
+    },
         ],
         Pn
       ).subscribe,
