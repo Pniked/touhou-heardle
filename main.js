@@ -3760,6 +3760,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track34",
         answer: "TH18 UM - The Sunday After the Storm (嵐の後の日曜日)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track37",
+        answer: "TH13 TD - Night Sakura of Dead Spirits (死霊の夜桜)"
+    },
         ],
         Pn
       ).subscribe,
