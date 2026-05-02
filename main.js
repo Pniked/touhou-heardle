@@ -3764,6 +3764,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track37",
         answer: "TH13 TD - Night Sakura of Dead Spirits (死霊の夜桜)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track38",
+        answer: "TH16 HSiFS - A Midsummer Fairy's Dream (真夏の妖精の夢)"
+    },
         ],
         Pn
       ).subscribe,
