@@ -3768,6 +3768,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track38",
         answer: "TH16 HSiFS - A Midsummer Fairy's Dream (真夏の妖精の夢)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track39",
+        answer: "TH15.5 AoCF - A Rose Blooming in the Underworld (地底に咲く薔薇)"
+    },
         ],
         Pn
       ).subscribe,
