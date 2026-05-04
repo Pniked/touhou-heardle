@@ -3772,6 +3772,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track39",
         answer: "TH15.5 AoCF - A Rose Blooming in the Underworld (地底に咲く薔薇)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track49",
+        answer: "TH10.5 SWR - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (東方妖恋談)"
+    },
         ],
         Pn
       ).subscribe,
