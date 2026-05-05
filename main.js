@@ -3776,6 +3776,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track49",
         answer: "TH10.5 SWR - Mystic Oriental Love Consultation/Eastern Mystical Tale of Romance (東方妖恋談)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track50",
+        answer: "TH9 PoFV - Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Years (六十年目の東方裁判 ～ Fate of Sixty Years)"
+    },
         ],
         Pn
       ).subscribe,
