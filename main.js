@@ -3780,6 +3780,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track50",
         answer: "TH9 PoFV - Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Years (六十年目の東方裁判 ～ Fate of Sixty Years)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track57",
+        answer: "TH8 IN - Lunatic Eyes ~ Invisible Full Moon (狂気の瞳 ～ Invisible Full Moon)"
+    },
         ],
         Pn
       ).subscribe,
