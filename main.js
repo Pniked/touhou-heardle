@@ -3784,6 +3784,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track57",
         answer: "TH8 IN - Lunatic Eyes ~ Invisible Full Moon (狂気の瞳 ～ Invisible Full Moon)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/shanghai-alice-of-meiji-17?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Shanghai Alice of Meiji 17 (明治十七年の上海アリス)" 
+    },
         ],
         Pn
       ).subscribe,
