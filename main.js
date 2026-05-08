@@ -3788,6 +3788,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/shanghai-alice-of-meiji-17?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - Shanghai Alice of Meiji 17 (明治十七年の上海アリス)" 
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track09",
+        answer: "TH17 WBaWC - Everlasting Red Spider Lily (不朽の曼珠沙華)"
+    },
         ],
         Pn
       ).subscribe,
