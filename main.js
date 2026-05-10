@@ -3796,6 +3796,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track12",
         answer: "TH13.5 HM - Hartmann's Youkai Girl (ハルトマンの妖怪少女)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track20",
+        answer: "TH12.8 GFW - Year-Round Absorbed Curiosity (年中夢中の好奇心)"
+    },
         ],
         Pn
       ).subscribe,
