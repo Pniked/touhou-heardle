@@ -3800,6 +3800,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track20",
         answer: "TH12.8 GFW - Year-Round Absorbed Curiosity (年中夢中の好奇心)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track21",
+        answer: "TH11 SA - Heartfelt Fancy (ハートフェルトファンシー)"
+    },
         ],
         Pn
       ).subscribe,
