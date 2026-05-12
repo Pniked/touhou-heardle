@@ -3804,6 +3804,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH11 SA - Heartfelt Fancy (ハートフェルトファンシー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track22",
+        answer: "TH12 UFO - Interdimensional Voyage of a Ghostly Passenger Ship (幽霊客船の時空を越えた旅)"
+    },
         ],
         Pn
       ).subscribe,
