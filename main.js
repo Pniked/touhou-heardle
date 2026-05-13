@@ -3808,6 +3808,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track22",
         answer: "TH12 UFO - Interdimensional Voyage of a Ghostly Passenger Ship (幽霊客船の時空を越えた旅)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH18 UM - A Rainbow Spanning Gensokyo (虹の架かる幻想郷)"
+    },
         ],
         Pn
       ).subscribe,
