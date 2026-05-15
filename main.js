@@ -3816,6 +3816,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track36",
         answer: "TH3 PoDD - Disunified Field Theory of Magic (非統一魔法世界論)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track40",
+        answer: "TH17.5 SFW - Memento of the Avaricious Beast (強欲な獣のメメント)"
+    },
         ],
         Pn
       ).subscribe,
