@@ -3820,6 +3820,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track40",
         answer: "TH17.5 SFW - Memento of the Avaricious Beast (強欲な獣のメメント)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH10 MoF - The Road of the Misfortune God ~ Dark Road (厄神様の通り道 ～ Dark Road)"
+    },
         ],
         Pn
       ).subscribe,
