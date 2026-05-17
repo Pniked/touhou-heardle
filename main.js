@@ -3824,6 +3824,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH10 MoF - The Road of the Misfortune God ~ Dark Road (厄神様の通り道 ～ Dark Road)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track45",
+        answer: "TH14.3 ISC - Cheat Against the Impossible Danmaku (不可能弾幕には反則を)"
+    },
         ],
         Pn
       ).subscribe,
