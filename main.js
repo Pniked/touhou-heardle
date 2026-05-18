@@ -3828,6 +3828,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track45",
         answer: "TH14.3 ISC - Cheat Against the Impossible Danmaku (不可能弾幕には反則を)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track43",
+        answer: "TH19 UDoALG - The Oni on the Perpetual Mountain (鬼は悠久の山に)"
+    },
         ],
         Pn
       ).subscribe,
