@@ -3832,6 +3832,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track43",
         answer: "TH19 UDoALG - The Oni on the Perpetual Mountain (鬼は悠久の山に)"
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-271076580?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)"
+    },
         ],
         Pn
       ).subscribe,
