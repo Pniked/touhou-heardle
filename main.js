@@ -3836,6 +3836,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-271076580?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Might as Well Stake Your Life to Solve the Riddle (どうせなら命を賭けて謎を解け)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-unforgettable-the-nostalgic-greenery?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - Unforgettable, the Nostalgic Greenery (忘れがたき、よすがの緑)"
+    },
         ],
         Pn
       ).subscribe,
