@@ -3860,6 +3860,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track06",
         answer: "TH16 HSiFS - White Traveler (白い旅人)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH12.3 UNL - Faith Is for the Transient People (信仰は儚き人間の為に)"
+    },
         ],
         Pn
       ).subscribe,
