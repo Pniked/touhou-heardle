@@ -3864,6 +3864,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH12.3 UNL - Faith Is for the Transient People (信仰は儚き人間の為に)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH8 IN - Maiden's Capriccio ~ Dream Battle (少女綺想曲 ～ Dream Battle)"
+    },
         ],
         Pn
       ).subscribe,
