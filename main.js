@@ -3868,6 +3868,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track14",
         answer: "TH8 IN - Maiden's Capriccio ~ Dream Battle (少女綺想曲 ～ Dream Battle)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track15",
+        answer: "TH17 WBaWC - The Shining Law of the Strong Eating the Weak (輝かしき弱肉強食の掟)"
+    },
         ],
         Pn
       ).subscribe,
