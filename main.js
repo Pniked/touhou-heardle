@@ -3876,6 +3876,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track16",
         answer: "TH14.5 ULiL - Believe in Possibilities (可能性を信じて)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track18",
+        answer: "TH4 LLS - Spirit Battle ~ Perdition Crisis (霊戦 ～ Perdition crisis)"
+    },
         ],
         Pn
       ).subscribe,
