@@ -3880,6 +3880,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track18",
         answer: "TH4 LLS - Spirit Battle ~ Perdition Crisis (霊戦 ～ Perdition crisis)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/lunate-elf?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Lunate Elf (ルーネイトエルフ)"
+    },
         ],
         Pn
       ).subscribe,
