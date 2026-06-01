@@ -3884,6 +3884,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/lunate-elf?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - Lunate Elf (ルーネイトエルフ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track19",
+        answer: "TH15.5 AoCF - Catastrophe in Bhavaagra ~ Wonderful Heaven (有頂天変 ～ Wonderful Heaven)"
+    },
         ],
         Pn
       ).subscribe,
