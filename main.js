@@ -3888,6 +3888,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track19",
         answer: "TH15.5 AoCF - Catastrophe in Bhavaagra ~ Wonderful Heaven (有頂天変 ～ Wonderful Heaven)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH18 UM - The Princess Who Slays Dragon Kings (龍王殺しのプリンセス)"
+    },
         ],
         Pn
       ).subscribe,
