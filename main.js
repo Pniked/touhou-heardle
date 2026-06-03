@@ -3892,6 +3892,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track26",
         answer: "TH18 UM - The Princess Who Slays Dragon Kings (龍王殺しのプリンセス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track67",
+        answer: "TH11 SA - Green-Eyed Jealousy (緑眼のジェラシー)"
+    },
         ],
         Pn
       ).subscribe,
