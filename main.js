@@ -3896,6 +3896,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track67",
         answer: "TH11 SA - Green-Eyed Jealousy (緑眼のジェラシー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track10",
+        answer: "TH12.5 DS - Bell of Avici ~ Infinite Nightmare (無間の鐘　～ Infinite Nightmare)"
+    },
         ],
         Pn
       ).subscribe,
