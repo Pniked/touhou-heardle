@@ -3900,6 +3900,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track10",
         answer: "TH12.5 DS - Bell of Avici ~ Infinite Nightmare (無間の鐘　～ Infinite Nightmare)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track12",
+        answer: "TH12 UFO - Rural Makai City Esoteria (魔界地方都市エソテリア)"
+    },
         ],
         Pn
       ).subscribe,
