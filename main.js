@@ -3904,6 +3904,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track12",
         answer: "TH12 UFO - Rural Makai City Esoteria (魔界地方都市エソテリア)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track20",
+        answer: "TH10.5 SWR - Hiroari Shoots a Strange Bird ~ Till When? (広有射怪鳥事 ～ Till When？)"
+    },
         ],
         Pn
       ).subscribe,
