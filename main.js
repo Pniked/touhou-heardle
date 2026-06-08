@@ -3912,6 +3912,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH10 MoF - Fall of Fall ~ Autumnal Waterfall (フォールオブフォール ～ 秋めく滝)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track28",
+        answer: "TH2 SoEW - Himorogi, Burn in Violet (ひもろぎ、むらさきにもえ)"
+    },
         ],
         Pn
       ).subscribe,
