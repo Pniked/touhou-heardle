@@ -3916,6 +3916,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track28",
         answer: "TH2 SoEW - Himorogi, Burn in Violet (ひもろぎ、むらさきにもえ)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/a-dream-more-scarlet-than-red?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - A Dream More Scarlet than Red (赤より紅い夢)"
+    },
         ],
         Pn
       ).subscribe,
