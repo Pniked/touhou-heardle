@@ -3920,6 +3920,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/a-dream-more-scarlet-than-red?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - A Dream More Scarlet than Red (赤より紅い夢)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-sea-where-the-home-planet-is-reflected?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - The Sea that Reflects One's Home Planet (故郷の星が映える海)"
+    },
         ],
         Pn
       ).subscribe,
