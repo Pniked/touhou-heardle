@@ -3954,6 +3954,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-607073898?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Because I'm Used to Being the Last One Left ~ Stone Goddess (最後の一人は慣れてるから　〜 Stone Goddess)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH5 MS - Dimension of Reverie (夢想時空)"
+    },
         ],
         Pn
       ).subscribe,
