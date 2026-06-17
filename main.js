@@ -3958,6 +3958,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH5 MS - Dimension of Reverie (夢想時空)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track43",
+        answer: "TH11 SA - Energy Daybreak ~ Future Dream... (エネルギー黎明 ～ Future Dream...)"
+    },
         ],
         Pn
       ).subscribe,
