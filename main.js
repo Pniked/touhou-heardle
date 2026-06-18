@@ -3962,6 +3962,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track43",
         answer: "TH11 SA - Energy Daybreak ~ Future Dream... (エネルギー黎明 ～ Future Dream...)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track47",
+        answer: "TH12.8 GFW - An Ice Fairy in Spring (春の氷精)"
+    },
         ],
         Pn
       ).subscribe,
