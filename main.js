@@ -3970,6 +3970,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track50",
         answer: "TH9 PoFV - Poison Body ~ Forsaken Doll (ポイズンボディ ～ Forsaken Doll)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track57",
+        answer: "TH14 DDC - Lonesome Werewolf (孤独なウェアウルフ)"
+    },
         ],
         Pn
       ).subscribe,
