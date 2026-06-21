@@ -3974,6 +3974,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track57",
         answer: "TH14 DDC - Lonesome Werewolf (孤独なウェアウルフ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track68",
+        answer: "TH9.5 StB - Tengu Is Watching ~ Black Eyes (天狗が見ている ～ Black Eyes)"
+    },
         ],
         Pn
       ).subscribe,
