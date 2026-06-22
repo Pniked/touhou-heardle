@@ -3978,6 +3978,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track68",
         answer: "TH9.5 StB - Tengu Is Watching ~ Black Eyes (天狗が見ている ～ Black Eyes)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track05",
+        answer: "TH18.5 HBM - The 100th Black Market (１００回目のブラックマーケット)"
+    },
         ],
         Pn
       ).subscribe,
