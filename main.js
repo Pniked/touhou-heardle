@@ -3982,6 +3982,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH18.5 HBM - The 100th Black Market (１００回目のブラックマーケット)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/youkai-domination-who-done-it?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Spiritual Domination ~ Who done it! (妖々跋扈 ～ Who done it!)"
+    },
         ],
         Pn
       ).subscribe,
