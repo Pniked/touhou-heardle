@@ -3986,6 +3986,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/youkai-domination-who-done-it?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Spiritual Domination ~ Who done it! (妖々跋扈 ～ Who done it!)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH12 UFO - Captain Murasa (キャプテン・ムラサ)"
+    },
         ],
         Pn
       ).subscribe,
