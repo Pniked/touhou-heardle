@@ -3990,6 +3990,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH12 UFO - Captain Murasa (キャプテン・ムラサ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track09",
+        answer: "TH8 IN - Eastern Youkai Beauty (東方妖怪小町)"
+    },
         ],
         Pn
       ).subscribe,
