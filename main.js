@@ -3998,6 +3998,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track14",
         answer: "TH16 HSiFS - Crazy Backup Dancers (クレイジーバックダンサーズ)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track15",
+        answer: "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン ～ 幸運と不運)"
+    },
         ],
         Pn
       ).subscribe,
