@@ -4002,6 +4002,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track15",
         answer: "TH17 WBaWC - Tortoise Dragon ~ Fortune and Misfortune (トータスドラゴン ～ 幸運と不運)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track19",
+        answer: "TH12.3 UNL - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (霊知の太陽信仰 ～ Nuclear Fusion)"
+    },
         ],
         Pn
       ).subscribe,
