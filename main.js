@@ -4006,6 +4006,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track19",
         answer: "TH12.3 UNL - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (霊知の太陽信仰 ～ Nuclear Fusion)"
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-wonders-7?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Shrine Maiden Crowned with Glory (錦の上の巫女)"
+    },
         ],
         Pn
       ).subscribe,
