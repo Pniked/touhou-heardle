@@ -4010,6 +4010,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-wonders-7?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Shrine Maiden Crowned with Glory (錦の上の巫女)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track22",
+        answer: "TH18 UM - The Obsolescent Industrial Remains (廃れゆく産業遺構)"
+    },
         ],
         Pn
       ).subscribe,
