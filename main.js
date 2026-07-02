@@ -4018,6 +4018,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track26",
         answer: "TH3 PoDD - Visionary Game ~ Dream War (夢幻遊戯 ～ Dream War)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track37",
+        answer: "TH10 MoF - Because Princess Inada is Scolding Me (稲田姫様に叱られるから)"
+    },
         ],
         Pn
       ).subscribe,
