@@ -4022,6 +4022,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track37",
         answer: "TH10 MoF - Because Princess Inada is Scolding Me (稲田姫様に叱られるから)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-mysterious-shrine-maiden-flying-through-space?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - The Mysterious Shrine Maiden Flying Through Space (宇宙を飛ぶ不思議な巫女)"
+    },
         ],
         Pn
       ).subscribe,
