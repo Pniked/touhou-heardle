@@ -351,7 +351,7 @@ let _metadata = createMetadata({
  "TH13 TD - Spirit of Avarice (欲深き霊魂)":["TH13"],
  "TH13 TD - Desire Dream (デザイアドリーム)":["TH13"],
  "TH13 TD - A New Wind at the Shrine (神社の新しい風)":["TH13"],
- "TH13 TD - Youkai Shrine's Back Road (妖怪裏参道)":["TH13"],
+ "TH13 TD - Youkai's Temple Back Road (妖怪裏参道)":["TH13"],
  "TH13 TD - Futatsuiwa from Sado (佐渡の二ッ岩)":["TH13"],
  "TH13 TD - Night Sakura of Dead Spirits (死霊の夜桜)":["TH13"],
  "TH13 TD - Ghost Lead (ゴーストリード)":["TH13"],
