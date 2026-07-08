@@ -4044,7 +4044,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track26",
-        answer: "TH11 SA - Walking the Streets of a Former Hell (旧地獄街道を行く)"
+        answer: "TH11 SA - Lullaby of Deserted Hell (廃獄ララバイ)"
     },
         ],
         Pn
