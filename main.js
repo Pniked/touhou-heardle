@@ -4038,6 +4038,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track67",
         answer: "TH13 TD - Youkai's Temple Back Road (妖怪裏参道)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track21",
+        answer: "TH17.5 SFW - Eastern Strange Tale of Avarice (東方剛欲異聞)"
+    },
         ],
         Pn
       ).subscribe,
