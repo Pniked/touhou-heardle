@@ -4042,6 +4042,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH17.5 SFW - Eastern Strange Tale of Avarice (東方剛欲異聞)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH11 SA - Walking the Streets of a Former Hell (旧地獄街道を行く)"
+    },
         ],
         Pn
       ).subscribe,
