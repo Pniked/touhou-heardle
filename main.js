@@ -4046,6 +4046,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track26",
         answer: "TH11 SA - Lullaby of Deserted Hell (廃獄ララバイ)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/the-maid-and-the-pocket-watch?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - The Maid and the Pocket Watch of Blood (メイドと血の懐中時計)"
+    },
         ],
         Pn
       ).subscribe,
