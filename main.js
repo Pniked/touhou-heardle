@@ -4050,6 +4050,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/the-maid-and-the-pocket-watch?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - The Maid and the Pocket Watch of Blood (メイドと血の懐中時計)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track28",
+        answer: "TH14 DDC - Humans and Youkai Traversing the Canal (運河を行き交う人妖)"
+    },
         ],
         Pn
       ).subscribe,
