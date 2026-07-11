@@ -4054,6 +4054,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track28",
         answer: "TH14 DDC - Humans and Youkai Traversing the Canal (運河を行き交う人妖)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track29",
+        answer: "TH10 MoF - Tomorrow Will Be Special, Yesterday Was Not (明日ハレの日、ケの昨日)"
+    },
         ],
         Pn
       ).subscribe,
