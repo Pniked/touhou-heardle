@@ -4062,6 +4062,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track70",
         answer: "TH13.5 HM - Futatsuiwa from Sado (佐渡の二ッ岩)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH8 IN - Deaf to All but the Song (もう歌しか聞こえない)"
+    },
         ],
         Pn
       ).subscribe,
