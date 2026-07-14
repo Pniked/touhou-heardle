@@ -4066,6 +4066,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH8 IN - Deaf to All but the Song (もう歌しか聞こえない)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track37",
+        answer: "TH4 LLS - Lotus Love"
+    },
         ],
         Pn
       ).subscribe,
