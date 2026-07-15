@@ -4070,6 +4070,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track37",
         answer: "TH4 LLS - Lotus Love"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track18",
+        answer: "TH19 UDoALG - The Long-Awaited Oumagatoki (待ちわびた逢魔が時)"
+    },
         ],
         Pn
       ).subscribe,
