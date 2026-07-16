@@ -4074,6 +4074,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track18",
         answer: "TH19 UDoALG - The Long-Awaited Oumagatoki (待ちわびた逢魔が時)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track34",
+        answer: "TH10.5 SWR - Wind God Girl (風神少女)"
+    },
         ],
         Pn
       ).subscribe,
