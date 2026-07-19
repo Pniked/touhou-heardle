@@ -4086,6 +4086,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/the-capital-city-of-flowers-in?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - The Capital City of Flowers in the Sky (天空の花の都)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track03",
+        answer: "TH15.5 AoCF - The Palanquin Ship Flies in the Sky (聖輦船空を往く)"
+    },
         ],
         Pn
       ).subscribe,
