@@ -4090,6 +4090,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track03",
         answer: "TH15.5 AoCF - The Palanquin Ship Flies in the Sky (聖輦船空を往く)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH12 UFO - Sky Ruin (スカイルーイン)"
+    },
         ],
         Pn
       ).subscribe,
