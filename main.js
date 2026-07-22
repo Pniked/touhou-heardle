@@ -4094,6 +4094,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH12 UFO - Sky Ruin (スカイルーイン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track31",
+        answer: "TH17 WBaWC - The Animal's Rest (畜生達の休息)"
+    },
         ],
         Pn
       ).subscribe,
