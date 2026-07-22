@@ -4098,6 +4098,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track31",
         answer: "TH17 WBaWC - The Animal's Rest (畜生達の休息)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-september-pumpkin?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - September Pumpkin (九月のパンプキン)"
+    },
         ],
         Pn
       ).subscribe,
