@@ -4110,6 +4110,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track36",
         answer: "TH11 SA - The Dark Blowhole (暗闇の風穴)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track49",
+        answer: "TH14.3 ISC - Eternal Transient Reign (永遠の三日天下)"
+    },
         ],
         Pn
       ).subscribe,
