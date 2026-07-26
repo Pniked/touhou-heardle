@@ -4114,6 +4114,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track49",
         answer: "TH14.3 ISC - Eternal Transient Reign (永遠の三日天下)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track53",
+        answer: "TH14 DDC - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)"
+    },
         ],
         Pn
       ).subscribe,
