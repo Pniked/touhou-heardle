@@ -4118,6 +4118,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH14 DDC - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/locked-girl-the-girls-secret?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Locked Girl ~ The Girl's Sealed Room (ラクトガール　～ 少女密室)"
+    },
         ],
         Pn
       ).subscribe,
