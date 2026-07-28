@@ -4122,6 +4122,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/locked-girl-the-girls-secret?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - Locked Girl ~ The Girl's Sealed Room (ラクトガール　～ 少女密室)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track57",
+        answer: "TH13 TD - Youkai Girl At The Gate (門前の妖怪小娘)"
+    },
         ],
         Pn
       ).subscribe,
