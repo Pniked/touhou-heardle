@@ -4130,6 +4130,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track58",
         answer: "TH10 MoF - Cemetery of Onbashira ~ Grave of Being (御柱の墓場 ～ Grave of Being)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track05",
+        answer: "TH14.5 ULiL - The Lost Emotion (亡失のエモーション)"
+    },
         ],
         Pn
       ).subscribe,
