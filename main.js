@@ -4134,6 +4134,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH14.5 ULiL - The Lost Emotion (亡失のエモーション)"
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-804914093?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Sacred Precincts of the Pyramid (ピラミッドの神域)"
+    },
         ],
         Pn
       ).subscribe,
