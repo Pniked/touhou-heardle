@@ -4138,6 +4138,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-804914093?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Sacred Precincts of the Pyramid (ピラミッドの神域)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track06",
+        answer: "TH8 IN - Nostalgic Blood of the East ~ Old World (懐かしき東方の血 ～ Old World)"
+    },
         ],
         Pn
       ).subscribe,
