@@ -4146,6 +4146,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH7.5 IaMP - Forgathering Dream (萃夢想)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH5 MS - Forbidden Magic (禁断の魔法 ～ Forbidden Magic)"
+    },
         ],
         Pn
       ).subscribe,
