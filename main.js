@@ -4150,6 +4150,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track14",
         answer: "TH5 MS - Forbidden Magic (禁断の魔法 ～ Forbidden Magic)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track15",
+        answer: "TH12 UFO - Heian Alien (平安のエイリアン)"
+    },
         ],
         Pn
       ).subscribe,
