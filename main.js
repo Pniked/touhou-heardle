@@ -4158,6 +4158,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track16",
         answer: "TH18 UM - Banditry Technology (バンデットリィテクノロジー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track19",
+        answer: "TH19 UDoALG - Vampiric Cryptid Chupacabra (吸血怪獣チュパカブラ)"
+    },
         ],
         Pn
       ).subscribe,
