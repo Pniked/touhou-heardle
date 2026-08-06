@@ -4154,6 +4154,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track15",
         answer: "TH12 UFO - Heian Alien (平安のエイリアン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track16",
+        answer: "TH18 UM - Banditry Technology (バンデットリィテクノロジー)"
+    },
         ],
         Pn
       ).subscribe,
