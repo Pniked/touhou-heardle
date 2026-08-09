@@ -4170,6 +4170,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track29",
         answer: "TH17 WBaWC - Jelly Stone (ジェリーストーン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH16 HSiFS - The Colorless Wind on Youkai Mountain (色無き風は妖怪の山に)"
+    },
         ],
         Pn
       ).subscribe,
