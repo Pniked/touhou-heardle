@@ -4174,6 +4174,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH16 HSiFS - The Colorless Wind on Youkai Mountain (色無き風は妖怪の山に)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track51",
+        answer: "TH13 TD - Starry Sky of Small Desires (小さな欲望の星空)"
+    },
         ],
         Pn
       ).subscribe,
