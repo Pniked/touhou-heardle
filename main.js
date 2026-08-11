@@ -4178,6 +4178,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track51",
         answer: "TH13 TD - Starry Sky of Small Desires (小さな欲望の星空)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track71",
+        answer: "TH11 SA - Walking the Streets of a Former Hell (旧地獄街道を行く)"
+    },
         ],
         Pn
       ).subscribe,
