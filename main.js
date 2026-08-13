@@ -4186,6 +4186,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH13.5 HM - The Traditional Old Man and the Stylish Girl (時代親父とハイカラ少女)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH14 DDC - Primordial Beat ~ Pristine Beat (始原のビート ～ Pristine Beat)"
+    },
         ],
         Pn
       ).subscribe,
