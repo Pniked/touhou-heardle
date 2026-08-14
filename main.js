@@ -4190,6 +4190,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH14 DDC - Primordial Beat ~ Pristine Beat (始原のビート ～ Pristine Beat)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track21",
+        answer: "TH12.5 DS - Newshound (ニュースハウンド)"
+    },
         ],
         Pn
       ).subscribe,
