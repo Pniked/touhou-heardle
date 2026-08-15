@@ -4194,6 +4194,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH12.5 DS - Newshound (ニュースハウンド)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track22",
+        answer: "TH10.5 SWR - Higan Retour ~ Riverside View (彼岸帰航 ～ Riverside View)"
+    },
         ],
         Pn
       ).subscribe,
