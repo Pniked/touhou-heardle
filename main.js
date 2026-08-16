@@ -4198,6 +4198,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track22",
         answer: "TH10.5 SWR - Higan Retour ~ Riverside View (彼岸帰航 ～ Riverside View)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH17.5 SFW - The Centennial Festival for Magical Girls (魔法少女達の百年祭)"
+    },
         ],
         Pn
       ).subscribe,
