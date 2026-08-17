@@ -4202,6 +4202,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH17.5 SFW - The Centennial Festival for Magical Girls (魔法少女達の百年祭)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track31",
+        answer: "TH2 SoEW - Extra Love/Crazy Magic (エキストララブ / クレイジーマジック)"
+    },
         ],
         Pn
       ).subscribe,
