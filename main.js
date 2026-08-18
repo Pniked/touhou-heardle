@@ -4206,6 +4206,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track31",
         answer: "TH2 SoEW - Extra Love/Crazy Magic (エキストララブ / クレイジーマジック)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH15.5 AoCF - Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers. (今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.)"
+    },
         ],
         Pn
       ).subscribe,
