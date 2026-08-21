@@ -4218,6 +4218,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track46",
         answer: "TH10 MoF - A God That Misses People ~ Romantic Fall (人恋し神様 ～ Romantic Fall)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/septette-for-a-dead-princess?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Septette for a Dead Princess (亡き王女の為のセプテット)"
+    },
         ],
         Pn
       ).subscribe,
