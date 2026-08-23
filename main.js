@@ -4226,6 +4226,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-4486513?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Reminiscence of Deer Hunting (鹿狩りのレミニセンス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track57",
+        answer: "TH16.5 VD - The Darkness Brought In by Swallowstone Naturalis Historia (燕石博物誌が連れてきた闇)"
+    },
         ],
         Pn
       ).subscribe,
