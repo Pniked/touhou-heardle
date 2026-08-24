@@ -4230,6 +4230,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track57",
         answer: "TH16.5 VD - The Darkness Brought In by Swallowstone Naturalis Historia (燕石博物誌が連れてきた闇)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-pandemonic-planet?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - Pandemonic Planet (パンデモニックプラネット)"
+    },
         ],
         Pn
       ).subscribe,
