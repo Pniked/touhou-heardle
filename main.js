@@ -4234,6 +4234,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-pandemonic-planet?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - Pandemonic Planet (パンデモニックプラネット)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track06",
+        answer: "TH8 IN - Flight of the Bamboo Cutter ~ Lunatic Princess (竹取飛翔 ～ Lunatic Princess)"
+    },
         ],
         Pn
       ).subscribe,
