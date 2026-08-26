@@ -4238,6 +4238,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track06",
         answer: "TH8 IN - Flight of the Bamboo Cutter ~ Lunatic Princess (竹取飛翔 ～ Lunatic Princess)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH18 UM - Ore from the Age of the Gods (神代鉱石)"
+    },
         ],
         Pn
       ).subscribe,
