@@ -4242,6 +4242,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH18 UM - Ore from the Age of the Gods (神代鉱石)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track09",
+        answer: "TH3 PoDD - Maniacal Princess"
+    },
         ],
         Pn
       ).subscribe,
