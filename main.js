@@ -4246,6 +4246,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH3 PoDD - Maniacal Princess"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track12",
+        answer: "TH14.3 ISC - Midnight Spell Card (ミッドナイトスペルカード)"
+    },
         ],
         Pn
       ).subscribe,
