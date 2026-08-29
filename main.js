@@ -4250,6 +4250,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track12",
         answer: "TH14.3 ISC - Midnight Spell Card (ミッドナイトスペルカード)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH11 SA - A Flower-Studded Sake Dish on Mt. Ooe (華のさかづき大江山)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track15",
+        answer: "TH10 MoF - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"
+    },
         ],
         Pn
       ).subscribe,
