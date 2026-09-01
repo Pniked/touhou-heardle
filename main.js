@@ -4258,6 +4258,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track15",
         answer: "TH10 MoF - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/lunar-clock-luna-dial?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Lunar Clock ~ Luna Dial (月時計　～ ルナ・ダイアル)"
+    },
         ],
         Pn
       ).subscribe,
