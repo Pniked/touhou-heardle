@@ -4262,6 +4262,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/lunar-clock-luna-dial?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - Lunar Clock ~ Luna Dial (月時計　～ ルナ・ダイアル)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track16",
+        answer: "TH5 MS - Spiritual Heaven (霊天 ～ Spiritual Heaven)"
+    },
         ],
         Pn
       ).subscribe,
