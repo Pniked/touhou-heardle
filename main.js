@@ -4266,6 +4266,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track16",
         answer: "TH5 MS - Spiritual Heaven (霊天 ～ Spiritual Heaven)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH17 WBaWC - Seraphic Chicken (セラフィックチキン)"
+    },
         ],
         Pn
       ).subscribe,
