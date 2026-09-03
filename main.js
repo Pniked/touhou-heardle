@@ -4270,6 +4270,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track32",
         answer: "TH17 WBaWC - Seraphic Chicken (セラフィックチキン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track39",
+        answer: "TH14.5 ULiL - Dichromatic Lotus Butterfly ~ Red and White (二色蓮花蝶 ～ Red and White)"
+    },
         ],
         Pn
       ).subscribe,
