@@ -4274,6 +4274,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track39",
         answer: "TH14.5 ULiL - Dichromatic Lotus Butterfly ~ Red and White (二色蓮花蝶 ～ Red and White)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track48",
+        answer: "TH12 UFO - Emotional Skyscraper ~ Cosmic Mind (感情の摩天楼 ～ Cosmic Mind)"
+    },
         ],
         Pn
       ).subscribe,
