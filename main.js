@@ -4278,6 +4278,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track48",
         answer: "TH12 UFO - Emotional Skyscraper ~ Cosmic Mind (感情の摩天楼 ～ Cosmic Mind)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track65",
+        answer: "TH13.5 HM - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (芥川龍之介の河童 ～ Candid Friend)"
+    },
         ],
         Pn
       ).subscribe,
