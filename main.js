@@ -4286,6 +4286,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH14 DDC - Mist Lake (ミストレイク)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track05",
+        answer: "TH9 PoFV - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)"
+    },
         ],
         Pn
       ).subscribe,
