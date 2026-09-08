@@ -4290,6 +4290,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH9 PoFV - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track19",
+        answer: "TH7.5 IaMP - The Doll Maker of Bucuresti (ブクレシュティの人形師)"
+    },
         ],
         Pn
       ).subscribe,
