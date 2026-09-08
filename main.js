@@ -4291,6 +4291,10 @@ var app = (function () {
         answer: "TH9 PoFV - Eastern Ghostly Dream ~ Ancient Temple (東方妖々夢 ～ Ancient Temple)"
     },
     {
+        url: "https://soundcloud.com/kazamis-other-music-alt/tomboyish-girl-in-love?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - Tomboyish Girl in Love (おてんば恋娘)"
+    },
+    {
         url: "https://soundcloud.com/user-169674116/track19",
         answer: "TH7.5 IaMP - The Doll Maker of Bucuresti (ブクレシュティの人形師)"
     },
