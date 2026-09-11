@@ -4321,6 +4321,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track20",
         answer: "TH12.3 UNL - Unknown X ~ Unfound Adventure (アンノウンＸ ～ Unfound Adventure)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track21",
+        answer: "TH8 IN - Song of the Night Sparrow ~ Night Bird (夜雀の歌声 ～ Night Bird)"
+    },
         ],
         Pn
       ).subscribe,
