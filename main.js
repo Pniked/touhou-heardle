@@ -4325,6 +4325,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH8 IN - Song of the Night Sparrow ~ Night Bird (夜雀の歌声 ～ Night Bird)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track22",
+        answer: "TH17 WBaWC - Beast Metropolis (ビーストメトロポリス)"
+    },
         ],
         Pn
       ).subscribe,
