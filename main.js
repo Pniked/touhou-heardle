@@ -4329,6 +4329,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track22",
         answer: "TH17 WBaWC - Beast Metropolis (ビーストメトロポリス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH18 UM - A Shower of Strange Occurrences (妖異達の通り雨)"
+    },
         ],
         Pn
       ).subscribe,
