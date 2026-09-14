@@ -4333,6 +4333,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH18 UM - A Shower of Strange Occurrences (妖異達の通り雨)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH10 MoF - Youkai Mountain ~ Mysterious Mountain (妖怪の山 ～ Mysterious Mountain)"
+    },
         ],
         Pn
       ).subscribe,
