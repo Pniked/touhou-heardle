@@ -4337,6 +4337,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track26",
         answer: "TH10 MoF - Youkai Mountain ~ Mysterious Mountain (妖怪の山 ～ Mysterious Mountain)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track28",
+        answer: "TH11 SA - Hellfire Mantle (業火マントル)"
+    },
         ],
         Pn
       ).subscribe,
