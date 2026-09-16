@@ -4341,6 +4341,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track28",
         answer: "TH11 SA - Hellfire Mantle (業火マントル)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track29",
+        answer: "TH4 LLS - Break the Sabbath"
+    },
         ],
         Pn
       ).subscribe,
