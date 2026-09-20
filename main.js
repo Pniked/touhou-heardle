@@ -4357,6 +4357,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track46",
         answer: "TH15.5 AoCF - The Eternal Steam Engine (悠久の蒸気機関)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track49",
+        answer: "TH12 UFO - Interdimensional Voyage of a Ghostly Passenger Ship (幽霊客船の時空を越えた旅)"
+    },
         ],
         Pn
       ).subscribe,
