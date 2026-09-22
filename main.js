@@ -4365,6 +4365,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track51",
         answer: "TH14.5 ULiL - Those Who Know the Truth (真実を知る者)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track53",
+        answer: "TH14 DDC - Mysterious Purification Rod (不思議なお祓い棒)"
+    },
         ],
         Pn
       ).subscribe,
