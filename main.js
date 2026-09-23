@@ -4369,6 +4369,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH14 DDC - Mysterious Purification Rod (不思議なお祓い棒)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/bloom-nobly-ink-black-cherry?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)"            
+    },
         ],
         Pn
       ).subscribe,
