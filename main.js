@@ -4373,6 +4373,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/bloom-nobly-ink-black-cherry?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (幽雅に咲かせ、墨染の桜 ～ Border of Life)"            
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track73",
+        answer: "TH18.5 HBM - Black Markets Can Happen Anywhere Anytime (闇市場は場所を選ばない)"
+    },
         ],
         Pn
       ).subscribe,
