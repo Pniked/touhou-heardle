@@ -4377,6 +4377,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track73",
         answer: "TH18.5 HBM - Black Markets Can Happen Anywhere Anytime (闇市場は場所を選ばない)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-eternal-spring-dream?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - Eternal Spring Dream (永遠の春夢)"
+    },
         ],
         Pn
       ).subscribe,
