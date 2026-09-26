@@ -4381,6 +4381,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-eternal-spring-dream?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - Eternal Spring Dream (永遠の春夢)"
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-756022095?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Unchanging Daily Life (不変の日常)"
+    },
         ],
         Pn
       ).subscribe,
