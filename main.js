@@ -4385,6 +4385,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-756022095?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Unchanging Daily Life (不変の日常)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track76",
+        answer: "TH11 SA - Heartfelt Fancy (ハートフェルトファンシー)"
+    },
         ],
         Pn
       ).subscribe,
