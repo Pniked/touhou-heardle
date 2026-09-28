@@ -4389,6 +4389,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track76",
         answer: "TH11 SA - Heartfelt Fancy (ハートフェルトファンシー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track78",
+        answer: "TH12.5 DS - Nemesis' Stronghold (ネメシスの要塞)"
+    },
         ],
         Pn
       ).subscribe,
