@@ -4393,6 +4393,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track78",
         answer: "TH12.5 DS - Nemesis' Stronghold (ネメシスの要塞)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track79",
+        answer: "TH17.5 SFW - The Sealed-Away Youkai (封じられた妖怪)"
+    },
         ],
         Pn
       ).subscribe,
