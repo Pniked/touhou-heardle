@@ -4401,6 +4401,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH5 MS - Alice in Wonderland (不思議の国のアリス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track06",
+        answer: "TH14.3 ISC - Romantic Escape Flight (ロマンチック逃飛行)"
+    },
         ],
         Pn
       ).subscribe,
