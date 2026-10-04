@@ -4413,6 +4413,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track09",
         answer: "TH13 TD - Rigid Paradise (リジッドパラダイス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track15",
+        answer: "TH16 HSiFS - A Pair of Divine Beasts (一対の神獣)"
+    },
         ],
         Pn
       ).subscribe,
