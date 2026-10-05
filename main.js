@@ -4417,6 +4417,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track15",
         answer: "TH16 HSiFS - A Pair of Divine Beasts (一対の神獣)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track16",
+        answer: "TH6 EoSD (NC) - A Soul as Red as a Husk Cherry (ほおずきみたいに紅い魂)"
+    },
         ],
         Pn
       ).subscribe,
