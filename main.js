@@ -4421,6 +4421,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track16",
         answer: "TH6 EoSD (NC) - A Soul as Red as a Husk Cherry (ほおずきみたいに紅い魂)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track20",
+        answer: "TH13 TD - Night Sakura of Dead Spirits (死霊の夜桜)"
+    },
         ],
         Pn
       ).subscribe,
