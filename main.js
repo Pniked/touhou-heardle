@@ -4425,6 +4425,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track20",
         answer: "TH13 TD - Night Sakura of Dead Spirits (死霊の夜桜)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track29",
+        answer: "TH15.5 AoCF - Last Occultism ~ Esotericist of the Present World (ラストオカルティズム ～ 現し世の秘術師)"
+    },
         ],
         Pn
       ).subscribe,
