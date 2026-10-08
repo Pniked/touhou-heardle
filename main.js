@@ -4429,6 +4429,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track29",
         answer: "TH15.5 AoCF - Last Occultism ~ Esotericist of the Present World (ラストオカルティズム ～ 現し世の秘術師)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track31",
+        answer: "TH10 MoF - The Gensokyo the Gods Loved (神々が恋した幻想郷)"
+    },
         ],
         Pn
       ).subscribe,
