@@ -4433,6 +4433,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track31",
         answer: "TH10 MoF - The Gensokyo the Gods Loved (神々が恋した幻想郷)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH2 SoEW - Complete Darkness"
+    },
         ],
         Pn
       ).subscribe,
