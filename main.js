@@ -4437,6 +4437,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track32",
         answer: "TH2 SoEW - Complete Darkness"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track36",
+        answer: "TH9.5 StB - Wind Circulation ~ Wind Tour (風の循環　～ Wind Tour)"
+    },
         ],
         Pn
       ).subscribe,
