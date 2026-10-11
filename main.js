@@ -4441,6 +4441,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track36",
         answer: "TH9.5 StB - Wind Circulation ~ Wind Tour (風の循環　～ Wind Tour)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/border-of-life?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Border of Life (ボーダーオブライフ)"
+    },
         ],
         Pn
       ).subscribe,
