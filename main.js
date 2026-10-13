@@ -4449,6 +4449,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track49",
         answer: "TH19 UDoALG - Prince Shoutoku's Pegasus ~ Dark Pegasus (聖徳太子のペガサス　〜 Dark Pegasus)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-frozen-eternal-capital?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - The Frozen Eternal Capital (凍り付いた永遠の都)"
+    },
         ],
         Pn
       ).subscribe,
