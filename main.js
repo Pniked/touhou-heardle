@@ -4461,6 +4461,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track22",
         answer: "TH16.5 VD - Lucid Dreamer (ルーシッドドリーマー)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH5 MS - Treacherous Maiden ~ Judas Kiss (裏切りの少女 ～ Judas Kiss)"
+    },
         ],
         Pn
       ).subscribe,
