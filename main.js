@@ -4465,6 +4465,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track24",
         answer: "TH5 MS - Treacherous Maiden ~ Judas Kiss (裏切りの少女 ～ Judas Kiss)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館 ～ Chinese Tea)"
+    },
         ],
         Pn
       ).subscribe,
