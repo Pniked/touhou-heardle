@@ -4469,6 +4469,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track26",
         answer: "TH12.3 UNL - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館 ～ Chinese Tea)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track28",
+        answer: "TH12 UFO - A Tiny, Tiny, Clever Commander (小さな小さな賢将)"
+    },
         ],
         Pn
       ).subscribe,
