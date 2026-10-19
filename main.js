@@ -4473,6 +4473,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track28",
         answer: "TH12 UFO - A Tiny, Tiny, Clever Commander (小さな小さな賢将)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track37",
+        answer: "TH18 UM - The Cliff Hidden in Deep Green (深緑に隠された断崖)"
+    },
         ],
         Pn
       ).subscribe,
