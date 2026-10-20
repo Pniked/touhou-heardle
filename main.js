@@ -4477,6 +4477,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track37",
         answer: "TH18 UM - The Cliff Hidden in Deep Green (深緑に隠された断崖)"
     },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-844876880?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - To a World With Life and Death (生と死のある世界へ)"
+    },
         ],
         Pn
       ).subscribe,
