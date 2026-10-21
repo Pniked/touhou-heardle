@@ -4481,6 +4481,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-844876880?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - To a World With Life and Death (生と死のある世界へ)"
     },
+    {
+        url: "https://soundcloud.com/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/a-star-of-hope-rises-in-the-blue-sky?in=yuli0/sets/all-touhou-ost",
+        answer: "TH16 HSiFS - A Star of Hope Rises in the Blue Sky (希望の星は青霄に昇る)"
+    },
         ],
         Pn
       ).subscribe,
