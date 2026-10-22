@@ -4485,6 +4485,10 @@ var app = (function () {
         url: "https://soundcloud.com/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/a-star-of-hope-rises-in-the-blue-sky?in=yuli0/sets/all-touhou-ost",
         answer: "TH16 HSiFS - A Star of Hope Rises in the Blue Sky (希望の星は青霄に昇る)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/the-young-descendant-of-tepes?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - The Young Descendant of Tepes (ツェペシュの幼き末裔)"
+    },
         ],
         Pn
       ).subscribe,
