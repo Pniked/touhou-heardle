@@ -4489,6 +4489,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/the-young-descendant-of-tepes?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - The Young Descendant of Tepes (ツェペシュの幼き末裔)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track39",
+        answer: "TH10.5 SWR - Argue for and Against (甲論乙駁)"
+    },
         ],
         Pn
       ).subscribe,
