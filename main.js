@@ -4493,6 +4493,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track39",
         answer: "TH10.5 SWR - Argue for and Against (甲論乙駁)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track40",
+        answer: "TH17 WBaWC - Entrust this World to Idols ~ Idolatrize World (偶像に世界を委ねて ～ Idoratrize World)"
+    },
         ],
         Pn
       ).subscribe,
