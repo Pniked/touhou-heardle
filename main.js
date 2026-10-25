@@ -4497,6 +4497,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track40",
         answer: "TH17 WBaWC - Entrust this World to Idols ~ Idolatrize World (偶像に世界を委ねて ～ Idoratrize World)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH8 IN - Reach for the Moon, Immortal Smoke (月まで届け、不死の煙)"
+    },
         ],
         Pn
       ).subscribe,
