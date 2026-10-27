@@ -4505,6 +4505,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track43",
         answer: "TH14 DDC - The Exaggerated Castle Keep (針小棒大の天守閣)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track05",
+        answer: "TH19 UDoALG - A Brave and Leisurely Beast (勇敢で有閑な妖獣)"
+    },
         ],
         Pn
       ).subscribe,
