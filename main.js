@@ -4509,6 +4509,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track05",
         answer: "TH19 UDoALG - A Brave and Leisurely Beast (勇敢で有閑な妖獣)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track14",
+        answer: "TH12.8 GFW - Loose Rain (ルーズレイン)"
+    },
         ],
         Pn
       ).subscribe,
