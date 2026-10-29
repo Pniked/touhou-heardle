@@ -4513,6 +4513,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track14",
         answer: "TH12.8 GFW - Loose Rain (ルーズレイン)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/diao-ye-zong-withered-leaf?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Diao Ye Zong (withered leaf) (ティアオイエツォン(withered leaf))"
+    },
         ],
         Pn
       ).subscribe,
