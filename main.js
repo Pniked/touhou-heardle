@@ -4517,6 +4517,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/diao-ye-zong-withered-leaf?in=yuli0/sets/all-touhou-ost",
         answer: "TH7 PCB - Diao Ye Zong (withered leaf) (ティアオイエツォン(withered leaf))"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track15",
+        answer: "TH14.3 ISC - Raise the Signal Fire of Cheating (反則の狼煙を上げろ)"
+    },
         ],
         Pn
       ).subscribe,
