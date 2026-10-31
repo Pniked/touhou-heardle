@@ -179,6 +179,10 @@ var app = (function () {
  "TH7.5 IaMP - Swift Battle (戦迅)",
  "TH7.5 IaMP - Broken Moon (砕月)",
  "TH7.5 IaMP - Solitary Place (幽境)",
+ "TH7.5 IaMP - Demystify Feast (Arrange)",
+ "TH7.5 IaMP - Night Falls ~ Evening Star (Arrange) (夜が降りてくる　～ Evening Star (Arrange))",
+ "TH7.5 IaMP - The Fabled Land of Onigashima (Arrange) (御伽の国の鬼が島 (Arrange))",
+ "TH7.5 IaMP - Eastern Forgathering Dream (Arrange) (東方萃夢想 (Arrange))",
  //Touhou 8 OST
  "TH8 IN - Eternal Dream ~ Mystic Maple (Eternal Dream ～ 幽玄の槭樹)",
  "TH8 IN - Evening Primrose (月見草)",
@@ -278,6 +282,10 @@ var app = (function () {
  "TH10.5 SWR - Bhava-Agra As Seen Through a Child's Mind (幼心地の有頂天)",
  "TH10.5 SWR - Darkening Dusk (暮色蒼然)",
  "TH10.5 SWR - Eastern Heaven of Scarlet Perception (東方緋想天)",
+ "TH10.5 SWR - Heaven of Scarlet Perception (Arrange) (緋想天 (Arrange))",
+ "TH10.5 SWR - Crimson in the Black Sea ~ Legendary Fish (Arrange) (黒い海に紅く　～ Legendary Fish (Arrange))",
+ "TH10.5 SWR - Catastrophe in Bhavaagra ~ Wonderful Heaven (Arrange) (有頂天変　～ Wonderful Heaven (Arrange))",
+ "TH10.5 SWR - Eastern Heaven of Scarlet Perception (Arrange) (東方緋想天 (Arrange))",
  //Touhou 11 OST
  "TH11 SA - Hartmann's Youkai Girl (ハルトマンの妖怪少女)",
  "TH11 SA - The Dark Blowhole (暗闇の風穴)",
@@ -391,6 +399,8 @@ var app = (function () {
  "TH13.5 HM - Officially-Sanctioned Twilight Newspaper (官板黄昏新聞)",
  "TH13.5 HM - Futatsuiwa from Sado (佐渡の二ッ岩)",
  "TH13.5 HM - Last Word Unleashed (ラストワード発動)",
+ "TH13.5 HM - The Lost Emotion (Arrange) (亡失のエモーション (Arrange))",
+ "TH13.5 HM - Akutagawa Ryuunosuke's Kappa ~ Candid Friend (8bit) (芥川龍之介の河童　～ Candid Friend (8bit))",
  //Touhou 14 OST
  "TH14 DDC - Mysterious Purification Rod (不思議なお祓い棒)",
  "TH14 DDC - Mist Lake (ミストレイク)",
@@ -446,6 +456,8 @@ var app = (function () {
  "TH14.5 ULiL - Futatsuiwa from Gensokyo (幻想郷の二ッ岩)",
  "TH14.5 ULiL - The Lost Emotion (亡失のエモーション)",
  "TH14.5 ULiL - Inchlings of the Shining Needle ~ Little Princess (輝く針の小人族 ～ Little Princess)",
+ "TH14.5 ULiL - Last Occultism ~ Esotericist of the Present World (Arrange) (ラストオカルティズム　～ 現し世の秘術師 (Arrange))",
+ "TH14.5 ULiL - Battlefield of the Flower Threshold (Arrange) (華狭間のバトルフィールド (Arrange))",
  //Touhou 15 OST
  "TH15 LoLK - The Space Shrine Maiden Appears (宇宙巫女現る)",
  "TH15 LoLK - Unforgettable, the Nostalgic Greenery (忘れがたき、よすがの緑)",
@@ -511,6 +523,9 @@ var app = (function () {
  "TH15.5 AoCF - Neo Bamboo Forest in Flames (ネオ竹林インフレイム)",
  "TH15.5 AoCF - Bell of So Many Aeons (億万劫の鐘)",
  "TH15.5 AoCF - Unknown X ~ Occultly Madness (アンノウンX　～ Occultly Madness)",
+ "TH15.5 AoCF - Blooms of Spirit Possession (憑依華)",
+ "TH15.5 AoCF - Yorimashi Between Dreams and Reality ~ Necro-Fantasia (Arrange) (憑坐は夢と現の間に ～ Necro-Fantasia (Arrange))",
+ "TH15.5 AoCF - Tonight Stars an Easygoing Egoist (Arrange) ~ Egoistic Flowers. (今宵は飄逸なエゴイスト　～ Egoistic Flowers. (Arrange))",
  //Touhou 16 OST
  "TH16 HSiFS - The Sky Where Cherry Blossoms Flutter Down (桜舞い散る天空)",
  "TH16 HSiFS - A Star of Hope Rises in the Blue Sky (希望の星は青霄に昇る)",
@@ -581,6 +596,8 @@ var app = (function () {
  "TH17.5 SFW - Eastern Strange Tale of Avarice (東方剛欲異聞)",
  "TH17.5 SFW - No More Going Through Doors (もうドアには入れない)",
  "TH17.5 SFW - Secret God Matara (秘神マターラ)",
+ "TH17.5 SFW - Memento of the Avaricious Beast (Arrange) (強欲な獣のメメント (Arrange))",
+ "TH17.5 SFW - Submerged Hell of Sunken Sorrow (Arrange) (水没した沈愁地獄 (Arrange))",
  //Touhou 18 OST
  "TH18 UM - A Rainbow Spanning Gensokyo (虹の架かる幻想郷)",
  "TH18 UM - A Shower of Strange Occurrences (妖異達の通り雨)",
@@ -648,6 +665,131 @@ var app = (function () {
  "TH20 FW - Unchanging Daily Life (不変の日常)",
  "TH20 FW - Beloved Daily Life (愛おしき日常)",
  "TH20 FW - To a World With Life and Death (生と死のある世界へ)",
+ //DiPP
+ "Vol.1 DiPP - Legend of Hourai (蓬莱伝説)",
+ "Vol.1 DiPP - Dichromatic Lotus Butterfly ~ Red and White (二色蓮花蝶　～ Red and White)",
+ "Vol.1 DiPP - Lovely Mound of Cherry Blossoms ~ Japanese Flower (桜花之恋塚　～ Japanese Flower)",
+ "Vol.1 DiPP - Shanghai Alice of Meiji 17 (明治十七年の上海アリス)",
+ "Vol.1 DiPP - Eastern Tale of Fancy (東方怪奇談)",
+ "Vol.1 DiPP - Enigmatic Doll (エニグマティクドール)",
+ "Vol.1 DiPP - Circus Reverie (サーカスレヴァリエ)",
+ "Vol.1 DiPP - Forest of Dolls (人形の森)",
+ "Vol.1 DiPP - Witch of Love Potion",
+ "Vol.1 DiPP - Reincarnation (リーインカーネイション)",
+ "Vol.1 DiPP - Eternal Shrine Maiden (永遠の巫女)",
+ "Vol.1 DiPP - The Curious Everyday Life of the Flying Shrine Maiden (空飛ぶ巫女の不思議な毎日)",
+ //GFC
+ "Vol.2 GFC - Passing on Through the Dendera Fields in the Night (夜のデンデラ野を逝く)",
+ "Vol.2 GFC - Girls' Secret Sealing Club (少女秘封倶楽部)",
+ "Vol.2 GFC - Ancient Temple of the Netherworld (古の冥界寺)",
+ "Vol.2 GFC - Merry the Magician (魔術師メリー)",
+ "Vol.2 GFC - Uncanny Bird of the Moon, Illusion of the Bakeneko (月の妖鳥、化猫の幻)",
+ "Vol.2 GFC - Flower of Past Days ~ Fairy of Flower (過去の花　～ Fairy of Flower)",
+ "Vol.2 GFC - Magical Girl's Crusade (魔法少女十字軍)",
+ "Vol.2 GFC - A Maiden's Illusionary Funeral ~ Necro-Fantasy (少女幻葬　～ Necro-Fantasy)",
+ "Vol.2 GFC - Eternal Festival of Illusions (幻想の永遠祭)",
+ //CoSD
+ "Vol.3 CoSD - Kid's Festival ~ Innocent Treasures (童祭　～ Innocent Treasures)",
+ "Vol.3 CoSD - Dream of Huaxu (華胥の夢)",
+ "Vol.3 CoSD - Shanghai Scarlet Teahouse ~ Chinese Tea (上海紅茶館　～ Chinese Tea)",
+ "Vol.3 CoSD - Boys and Girls of the Age of Science (科学世紀の少年少女)",
+ "Vol.3 CoSD - Border Between Dreams and Reality (夢と現の境界)",
+ "Vol.3 CoSD - Fantasy Machine ~ Phantom Factory (幻想機械　～ Phantom Factory)",
+ "Vol.3 CoSD - Mystical Maple ~ Eternal Dream (幽玄の槭樹　～ Eternal Dream)",
+ //R53M
+ "Vol.4 R53M - Hiroshige No.36 ~ Neo Super-Express (ヒロシゲ36号 ～ Neo Super-Express)",
+ "Vol.4 R53M - Blue Sea of 53 Minutes (53ミニッツの青い海)",
+ "Vol.4 R53M - Flight of the Bamboo Cutter ~ Lunatic Princess (竹取飛翔　～ Lunatic Princess)",
+ "Vol.4 R53M - Legend of Aokigahara (青木ヶ原の伝説)",
+ "Vol.4 R53M - Retrospective Kyoto (レトロスペクティブ京都)",
+ "Vol.4 R53M - Locked Girl ~ The Girl's Sealed Room (ラクトガール　～ 少女密室)",
+ "Vol.4 R53M - Gensokyo Millennium ~ History of the Moon (千年幻想郷　～ History of the Moon)",
+ "Vol.4 R53M - The Purest Sky and Sea (最も澄みわたる空と海)",
+ //MA
+ "Vol.5 MA - Welcome to the Moon Tour (月面ツアーへようこそ)",
+ "Vol.5 MA - Greenwich in the Sky (天空のグリニッジ)",
+ "Vol.5 MA - The Wheelchair's Future of the Universe (車椅子の未来宇宙)",
+ "Vol.5 MA - Satellite Café Terrace (衛星カフェテラス)",
+ "Vol.5 MA - G Free",
+ "Vol.5 MA - Celestial Wizardry ~ Magical Astronomy (大空魔術　～ Magical Astronomy)",
+ "Vol.5 MA - Necrofantasia (ネクロファンタジア)",
+ "Vol.5 MA - The Moon of the Other Side (向こう側の月)",
+ //PMiSS
+ "PMiSS (Bonus CD) - Japanese Saga (ジャパニーズサーガ)",
+ "PMiSS (Bonus CD) - Child of Are (阿礼の子供)",
+ "PMiSS (Bonus CD) - Fly above Hatoyama at night - Power MIX (夜の鳩山を飛ぶ －Power MIX)",
+ //EaLND
+ "EaLND (Bonus CD) - Sunny Rutile Flection (サニールチルフレクション)",
+ "EaLND (Bonus CD) - Can't Sleep Because It's Nighttime (夜だから眠れない)",
+ "EaLND (Bonus CD) - Like the Brilliance of Fairies (妖精燦々として)",
+ //SaBND
+ "SaBND (Bonus CD) - Sunny Milk's Scarlet Mist Incident (サニーミルクの紅霧異変)",
+ "SaBND (Bonus CD) - A Land Resplendent With Nature's Beauty (雪月桜花の国)",
+ "SaBND (Bonus CD) - Star Voyage 2008 (スターヴォヤージュ2008)",
+ "SaBND (Bonus CD) - The Fairies' Adventurous Tale (フェアリー冒険譚)",
+ "SaBND (Bonus CD) - Two Worlds (二つの世界)",
+ //SSiB
+ "SSiB (Bonus CD) - Youkai Space Travel (妖怪宇宙旅行)",
+ "SSiB (Bonus CD) - Watatsuki's Spell Card ~ Lunatic Blue (綿月のスペルカード　～ Lunatic Blue)",
+ "SSiB (Bonus CD) - A Drunkard's Lemuria (Retro Ver) (呑んべぇのレムリア (Retro Ver))",
+ //GoM
+ "GoM (Bonus CD) - Magician's Melancholy (魔法使いの憂鬱)",
+ "GoM (Bonus CD) - Illusionary Sputnik Night (スプートニク幻夜)",
+ //OSP
+ "OSP (Bonus CD) - The Hide-and-Seek Lifestyle at the Shrine (神域のかくれんぼ暮らし)",
+ "OSP (Bonus CD) - Illusionary Sputnik Night (スプートニク幻夜)",
+ //UFMJ
+ "Vol.5.5 UFMJ - Unknown Flower, Mesmerizing Journey (未知の花　魅知の旅)",
+ "Vol.5.5 UFMJ - Bell of Avici ~ Infinite Nightmare (無間の鐘　～ Infinite Nightmare)",
+ "Vol.5.5 UFMJ - Tomorrow Will Be Special, Yesterday Was Not (明日ハレの日、ケの昨日)",
+ //TGA
+ "Vol.6 TGA - Satellite TORIFUNE (衛星トリフネ)",
+ "Vol.6 TGA - Trojan Asteroid Jungle (トロヤ群の密林)",
+ "Vol.6 TGA - Ame-no-torifune Shrine (天鳥船神社)",
+ "Vol.6 TGA - Hartmann's Youkai Girl (ハルトマンの妖怪少女)",
+ "Vol.6 TGA - The Barrier of Ame-no-torifune Shrine (天鳥船神社の結界)",
+ "Vol.6 TGA - The Gensokyo That Floats in Outer Space (宇宙に浮かぶ幻想郷)",
+ //NtoJ
+ "Vol.7 NtoJ - Green Sanatorium (緑のサナトリウム)",
+ "Vol.7 NtoJ - Led On by a Cow to Visit Zenkou Temple (牛に引かれて善光寺参り)",
+ "Vol.7 NtoJ - Wind of Agartha (アガルタの風)",
+ "Vol.7 NtoJ - Izanagi Object (イザナギオブジェクト)",
+ "Vol.7 NtoJ - Gathering the Mysterious from All Around Japan (日本中の不思議を集めて)",
+ //DLFR
+ "Vol.8 DLFR - The Childlike Duo's Naturalis Historia (他愛も無い二人の博物誌)",
+ "Vol.8 DLFR - Dr. Latency's Sleepless Eyes (Dr.レイテンシーの眠れなくなる瞳)",
+ "Vol.8 DLFR - Schrödinger's Bakeneko (シュレディンガーの化猫)",
+ "Vol.8 DLFR - The Taboo Membrane Wall (禁忌の膜壁)",
+ "Vol.8 DLFR - Gathering the Mysterious from All Around Japan (日本中の不思議を集めて)",
+ //DBOA
+ "Vol.9 DBOA - Old Adam Bar (バー・オールドアダム)",
+ "Vol.9 DBOA - The Darkness Brought In by Swallowstone Naturalis Historia (燕石博物誌が連れてきた闇)",
+ "Vol.9 DBOA - Outsider Cocktail (アウトサイダーカクテル)",
+ "Vol.9 DBOA - Oomiwa Legend (大神神話伝)",
+ "Vol.9 DBOA - Adventurer's Tavern of the Old World (旧世界の冒険酒場)",
+ "Vol.9 DBOA - Rural Makai City Esoteria (魔界地方都市エソテリア)",
+ "Vol.9 DBOA - Hangover of Bedfellows Dreaming Differently (二日酔いの同床異夢)",
+ //FS
+ "FS (Bonus CD) - Bibliophile with a Deciphering Eye (判読眼のビブロフィリア)",
+ //RCS
+ "Vol.9.5 RCS - The Wolves of Nanatsuishi Dash to Seize the Clouds (七ツ石の狼、雲を取りに駆ける)",
+ "Vol.9.5 RCS - Illusionary White Traveler (幻想のホワイトトラベラー)",
+ //TJD
+ "Vol.10 TJD - Dawn Breaks on Tanabatazaka (七夕坂に朝が来る)",
+ "Vol.10 TJD - Tinker Bell's Inequality (不等式のティンカーベル)",
+ "Vol.10 TJD - Smoking Dragon (スモーキングドラゴン)",
+ "Vol.10 TJD - Mugen Noh ~ Taboo Marionette (夢幻能　～ Taboo Marionette)",
+ "Vol.10 TJD - Crazy Backup Dancers (クレイジーバックダンサーズ)",
+ "Vol.10 TJD - Yorimashi Between Dreams and Reality ~ Necro-Fantasia (憑坐は夢と現の間に　～ Necro-Fantasia)",
+ "Vol.10 TJD - The Lonely Road of Hitachi (ひとりぼっちの常陸行路)",   
+ "Vol.10 TJD - The Lamentations Known Only to Jizo (地蔵だけが知る哀嘆)",
+ "Vol.10 TJD - Ghosts Exist Even When It's Not Night (夜じゃなくてもお化けはいるから)",
+ //AUiR
+ "Vol.11 AUiR - A Pretty and Pleasant Crime (美しく心地の良い犯罪)",
+ "Vol.11 AUiR - Nara Otherworld Park (奈良異界公園)",
+ "Vol.11 AUiR - Planned City of Culture, Primate Spirit Aramashi-kyō (文化計画都市　霊長新益京)",
+ "Vol.11 AUiR - Archaeological Remains of Vairocana Buddha (盧舎那仏遺構)",
+ "Vol.11 AUiR - To a Humanity That Reveres Failure, The Next 2000 Years (失敗を尊ぶ人類に、次の二千年を)",   
  //Touhou 1 OST
  "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)",
  "TH1 HRtP - A Sacred Lot",
@@ -4520,6 +4662,10 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track15",
         answer: "TH14.3 ISC - Raise the Signal Fire of Cheating (反則の狼煙を上げろ)"
+    },
+    {
+        url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-428048825?in=user-452666004/sets/touhou-20-ost-trial",
+        answer: "TH20 FW - Sacred Forest (セイクリッドフォレスト)"
     },
         ],
         Pn
