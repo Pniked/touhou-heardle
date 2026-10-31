@@ -547,8 +547,6 @@ var app = (function () {
  //Touhou 16.5 OST
  "TH16.5 VD - Nightmare Journal (悪夢日記)",
  "TH16.5 VD - Lucid Dreamer (ルーシッドドリーマー)",
- "TH16.5 VD - The Darkness Brought In by Swallowstone Naturalis Historia (燕石博物誌が連れてきた闇)",
- "TH16.5 VD - Old Adam Bar (バー・オールドアダム)",
  "TH16.5 VD - Lunatic Dreamer (ルナティックドリーマー)",
  "TH16.5 VD - Nightmare Diary (ナイトメアダイアリー)",
  //Touhou 17 OST
