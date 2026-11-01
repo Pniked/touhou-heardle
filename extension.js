@@ -15,7 +15,7 @@ let _metadata = createMetadata({
  "TH1 HRtP - Iris (アイリス)":["TH1"],
  //Touhou 2 OST
  "TH2 SoEW - Hakurei ~ Eastern Wind (博麗 ～ Eastern Wind)":["TH2"],
- "TH2 SoEW - She's In A Temper!!":["TH2"],
+ "TH2 SoEW - She's In A Temper!!":["TH2"], 
  "TH2 SoEW - End of Daylight":["TH2"],
  "TH2 SoEW - Power of Darkness (やみのちから)":["TH2"],
  "TH2 SoEW - World of Fantasies (幻夢界)":["TH2"],
