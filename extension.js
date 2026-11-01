@@ -716,7 +716,7 @@ let _metadata = createMetadata({
  "SaBND (Bonus CD) - A Land Resplendent With Nature's Beauty (雪月桜花の国)":["SaBND"],
  "SaBND (Bonus CD) - Star Voyage 2008 (スターヴォヤージュ2008)":["SaBND"],
  "SaBND (Bonus CD) - The Fairies' Adventurous Tale (フェアリー冒険譚)":["SaBND"],
- "SaBND (Bonus CD) - Two Worlds (二つの世界)",
+ "SaBND (Bonus CD) - Two Worlds (二つの世界)":["SaBND"],
  //SSiB
  "SSiB (Bonus CD) - Youkai Space Travel (妖怪宇宙旅行)":["SSiB"],
  "SSiB (Bonus CD) - Watatsuki's Spell Card ~ Lunatic Blue (綿月のスペルカード　～ Lunatic Blue)":["SSiB"],
