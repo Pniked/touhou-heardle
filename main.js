@@ -4665,6 +4665,14 @@ var app = (function () {
         url: "https://soundcloud.com/user-452666004/touhou-20-fossilized-428048825?in=user-452666004/sets/touhou-20-ost-trial",
         answer: "TH20 FW - Sacred Forest (セイクリッドフォレスト)"
     },
+    {
+        url: "https://soundcloud.com/user-915607469-316680919/dream-of-arcadia?in=user-915607469-316680919/sets/changeability-of-strange-dream",
+        answer: "Vol.3 CoSD - Dream of Huaxu (華胥の夢)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track29",
+        answer: "TH11 SA - Hartmann's Youkai Girl (ハルトマンの妖怪少女)"
+    },
         ],
         Pn
       ).subscribe,
