@@ -3,6 +3,21 @@ var app = (function () {
   var twitter = 'Conju'
   var startDate = "2024-03-13"
     const Cn = ue([
+ //Touhou 1 OST
+ "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)",
+ "TH1 HRtP - A Sacred Lot",
+ "TH1 HRtP - A Soul Devoted to the Gods ~ Highly Responsive to Prayers (神へ捧げる魂 ～ Highly Responsive to Prayers)",
+ "TH1 HRtP - Eastern Tale of Fancy (東方怪奇談)",
+ "TH1 HRtP - Oriental Magician",
+ "TH1 HRtP - Magic Mirror (魔鏡)",
+ "TH1 HRtP - Yin and Yang ~ The Positive and Negative (陰陽 ～ The Positive and Negative)",
+ "TH1 HRtP - Small Evil-Crushing Blade (破邪の小太刀)",
+ "TH1 HRtP - the Legend of KAGE",
+ "TH1 HRtP - Angel's Legend (天使伝説)",
+ "TH1 HRtP - Now, Until the Moment You Die (いざ、倒れ逝くその時まで)",
+ "TH1 HRtP - Civilization of Magic/We Shall Die Together/Theme of Turning to Hell (Theme of 地獄めくり / 死なばもろとも)",
+ "TH1 HRtP - Angel of a Distant Star ~ The Alice in Wonderland Angel/Swordsman of a Distant Star (星幽天使 ～ The Alice in Wonderland Angel / 星幽剣士)",
+ "TH1 HRtP - Iris (アイリス)",
  //Touhou 2 OST
  "TH2 SoEW - Hakurei ~ Eastern Wind (博麗 ～ Eastern Wind)",
  "TH2 SoEW - She's In A Temper!!",
@@ -788,21 +803,6 @@ var app = (function () {
  "Vol.11 AUiR - Planned City of Culture, Primate Spirit Aramashi-kyō (文化計画都市　霊長新益京)",
  "Vol.11 AUiR - Archaeological Remains of Vairocana Buddha (盧舎那仏遺構)",
  "Vol.11 AUiR - To a Humanity That Reveres Failure, The Next 2000 Years (失敗を尊ぶ人類に、次の二千年を)",   
- //Touhou 1 OST
- "TH1 HRtP - Eternal Shrine Maiden (永遠の巫女)",
- "TH1 HRtP - A Sacred Lot",
- "TH1 HRtP - A Soul Devoted to the Gods ~ Highly Responsive to Prayers (神へ捧げる魂 ～ Highly Responsive to Prayers)",
- "TH1 HRtP - Eastern Tale of Fancy (東方怪奇談)",
- "TH1 HRtP - Oriental Magician",
- "TH1 HRtP - Magic Mirror (魔鏡)",
- "TH1 HRtP - Yin and Yang ~ The Positive and Negative (陰陽 ～ The Positive and Negative)",
- "TH1 HRtP - Small Evil-Crushing Blade (破邪の小太刀)",
- "TH1 HRtP - the Legend of KAGE",
- "TH1 HRtP - Angel's Legend (天使伝説)",
- "TH1 HRtP - Now, Until the Moment You Die (いざ、倒れ逝くその時まで)",
- "TH1 HRtP - Civilization of Magic/We Shall Die Together/Theme of Turning to Hell (Theme of 地獄めくり / 死なばもろとも)",
- "TH1 HRtP - Angel of a Distant Star ~ The Alice in Wonderland Angel/Swordsman of a Distant Star (星幽天使 ～ The Alice in Wonderland Angel / 星幽剣士)",
- "TH1 HRtP - Iris (アイリス)",
 
       //Don't continue if you want to play the game legitimately!!!
     ]),
@@ -4672,6 +4672,10 @@ var app = (function () {
     {
         url: "https://soundcloud.com/user-169674116/track29",
         answer: "TH11 SA - Hartmann's Youkai Girl (ハルトマンの妖怪少女)"
+    },
+    {
+        url: "https://soundcloud.com/user-169674116/track32",
+        answer: "TH1 HRtP - Now, Until the Moment You Die (いざ、倒れ逝くその時まで)"
     },
         ],
         Pn
