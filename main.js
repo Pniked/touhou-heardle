@@ -4681,6 +4681,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track46",
         answer: "TH18 UM - Where Is That Bustling Marketplace Now ~ Immemorial Marketeers (あの賑やかな市場は今どこに ～ Immemorial Marketeers)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track48",
+        answer: "TH10 MoF - Native Faith (ネイティブフェイス)"
+    },
         ],
         Pn
       ).subscribe,
