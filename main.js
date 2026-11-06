@@ -4685,6 +4685,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track48",
         answer: "TH10 MoF - Native Faith (ネイティブフェイス)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track51",
+        answer: "TH9 PoFV - White Flag of Usa Shrine (お宇佐さまの素い幡)"
+    },
         ],
         Pn
       ).subscribe,
