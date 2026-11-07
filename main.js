@@ -4689,6 +4689,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track51",
         answer: "TH9 PoFV - White Flag of Usa Shrine (お宇佐さまの素い幡)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track53",
+        answer: "TH7.5 IaMP - Eastern Forgathering Dream (Arrange) (東方萃夢想 (Arrange))"
+    },
         ],
         Pn
       ).subscribe,
