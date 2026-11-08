@@ -4693,6 +4693,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track53",
         answer: "TH7.5 IaMP - Eastern Forgathering Dream (Arrange) (東方萃夢想 (Arrange))"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track57",
+        answer: "TH19 UDoALG - The Path to Yomi Where None Turn Back (振り向かない黄泉の道)"
+    },
         ],
         Pn
       ).subscribe,
