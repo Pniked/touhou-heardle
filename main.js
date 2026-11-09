@@ -4697,6 +4697,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track57",
         answer: "TH19 UDoALG - The Path to Yomi Where None Turn Back (振り向かない黄泉の道)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track65",
+        answer: "TH14 DDC - Thunderclouds of Magical Power (魔力の雷雲)"
+    },
         ],
         Pn
       ).subscribe,
