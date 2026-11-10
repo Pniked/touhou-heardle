@@ -4701,6 +4701,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track65",
         answer: "TH14 DDC - Thunderclouds of Magical Power (魔力の雷雲)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/the-centennial-festival-for?in=yuli0/sets/all-touhou-ost",
+        answer: "TH6 EoSD - The Centennial Festival for Magical Girls (魔法少女達の百年祭)"
+    },
         ],
         Pn
       ).subscribe,
