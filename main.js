@@ -4705,6 +4705,10 @@ var app = (function () {
         url: "https://soundcloud.com/kazamis-other-music-alt/the-centennial-festival-for?in=yuli0/sets/all-touhou-ost",
         answer: "TH6 EoSD - The Centennial Festival for Magical Girls (魔法少女達の百年祭)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track71",
+        answer: "TH10 MoF - The Gods Give Us Blessed Rain ~ Sylphid Dream (神は恵みの雨を降らす ～ Sylphid Dream)"
+    },
         ],
         Pn
       ).subscribe,
