@@ -4709,6 +4709,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track71",
         answer: "TH10 MoF - The Gods Give Us Blessed Rain ~ Sylphid Dream (神は恵みの雨を降らす ～ Sylphid Dream)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track07",
+        answer: "TH17.5 SFW - The Dark Blowhole (暗闇の風穴)"
+    },
         ],
         Pn
       ).subscribe,
