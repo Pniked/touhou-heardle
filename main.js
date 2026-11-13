@@ -4713,6 +4713,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track07",
         answer: "TH17.5 SFW - The Dark Blowhole (暗闇の風穴)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track21",
+        answer: "TH11 SA - Last Remote (ラストリモート)"
+    },
         ],
         Pn
       ).subscribe,
