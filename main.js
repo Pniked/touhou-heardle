@@ -4717,6 +4717,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track21",
         answer: "TH11 SA - Last Remote (ラストリモート)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track24",
+        answer: "TH13 TD - Ghost Lead (ゴーストリード)"
+    },
         ],
         Pn
       ).subscribe,
