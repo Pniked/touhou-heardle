@@ -4725,6 +4725,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-76726180/touhou-15-lolk-the-space-shrine-maiden-appears?in=yuli0/sets/all-touhou-ost",
         answer: "TH15 LoLK - The Space Shrine Maiden Appears (宇宙巫女現る)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track26",
+        answer: "TH13.5 HM - Magus Night (メイガスナイト)"
+    },
         ],
         Pn
       ).subscribe,
