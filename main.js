@@ -4733,6 +4733,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track28",
         answer: "TH9 PoFV - Flowering Night (フラワリングナイト)"
     },
+    {
+        url: "https://soundcloud.com/kazamis-other-music-alt/dream-of-a-spring-breeze?in=yuli0/sets/all-touhou-ost",
+        answer: "TH7 PCB - Dream of a Spring Breeze (春風の夢)"
+    },
         ],
         Pn
       ).subscribe,
