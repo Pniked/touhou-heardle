@@ -4745,6 +4745,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track36",
         answer: "TH8 IN - Eastern Youkai Beauty (東方妖怪小町)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track37",
+        answer: "TH18.5 HBM - Youkai Hook On (妖怪フックオン)"
+    },
         ],
         Pn
       ).subscribe,
