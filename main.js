@@ -4743,7 +4743,7 @@ var app = (function () {
     },
     {
         url: "https://soundcloud.com/user-169674116/track36",
-        answer: "TH8 IN - Extend Ash ~ Person of Hourai (エクステンドアッシュ ～ 蓬莱人)"
+        answer: "TH8 IN - Eastern Youkai Beauty (東方妖怪小町)"
     },
         ],
         Pn
