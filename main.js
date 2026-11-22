@@ -4749,6 +4749,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track37",
         answer: "TH18.5 HBM - Youkai Hook On (妖怪フックオン)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track39",
+        answer: "TH9 PoFV - Deaf to All but the Song ~ Flower Mix (もう歌しか聞こえない ～ Flower Mix)"
+    },
         ],
         Pn
       ).subscribe,
