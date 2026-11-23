@@ -4753,6 +4753,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track39",
         answer: "TH9 PoFV - Deaf to All but the Song ~ Flower Mix (もう歌しか聞こえない ～ Flower Mix)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track40",
+        answer: "TH19 UDoALG - Magical Beast Scramble (魔獣スクランブル)"
+    },
         ],
         Pn
       ).subscribe,
