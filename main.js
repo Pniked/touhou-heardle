@@ -4757,6 +4757,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track40",
         answer: "TH19 UDoALG - Magical Beast Scramble (魔獣スクランブル)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track41",
+        answer: "TH10 MoF - The Road of the Misfortune God ~ Dark Road (厄神様の通り道 ～ Dark Road)"
+    },
         ],
         Pn
       ).subscribe,
