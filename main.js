@@ -4761,6 +4761,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track41",
         answer: "TH10 MoF - The Road of the Misfortune God ~ Dark Road (厄神様の通り道 ～ Dark Road)"
     },
+    {
+        url: "https://soundcloud.com/user-76726180/touhou-15-lolk-a-never-before-seen-world-of-nightmares?in=yuli0/sets/all-touhou-ost",
+        answer: "TH15 LoLK - A World of Nightmares Never Seen Before (見た事も無い悪夢の世界)"
+    },
         ],
         Pn
       ).subscribe,
