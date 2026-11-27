@@ -4769,6 +4769,10 @@ var app = (function () {
         url: "https://soundcloud.com/user-169674116/track43",
         answer: "TH12.3 UNL - Did You See That Shadow? (君はあの影を見たか？)"
     },
+    {
+        url: "https://soundcloud.com/user-169674116/track49",
+        answer: "TH11 SA - The Bridge People No Longer Cross (渡る者の途絶えた橋)"
+    },
         ],
         Pn
       ).subscribe,
